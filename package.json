@@ -1,0 +1,15 @@
+{
+  "name": "wine-spirits-media-hub",
+  "version": "1.0.0",
+  "description": "Wine & Spirits Media Hub — YouTube videos and podcasts about wine and spirits",
+  "private": true,
+  "scripts": {
+    "fetch-youtube": "node scripts/fetch-youtube.js",
+    "fetch-podcasts": "node scripts/fetch-podcasts.js",
+    "fetch-all": "node scripts/fetch-youtube.js && node scripts/fetch-podcasts.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

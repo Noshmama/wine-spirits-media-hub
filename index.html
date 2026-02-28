@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wine &amp; Spirits Media Hub</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Wine &amp; Spirits Media Hub</h1>
+    <p class="tagline">Curated wine &amp; spirits videos &amp; podcasts — updated weekly</p>
+    <button class="about-btn" id="about-btn">About The Creator Of This Site</button>
+    <button class="analyses-btn" id="analyses-btn"><span class="analyses-desktop">Curious about the state of the wine and spirits business?<br>Click <span class="analyses-highlight">here</span> for Zillah Bahar's hot takes on the industry.</span><span class="analyses-mobile">Curious about the wine and spirits business?<br>Click <span class="analyses-highlight">here</span> for Zillah Bahar's hot takes on the industry.</span></button>
+  </header>
+
+  <!-- About Me Modal -->
+  <div class="modal-overlay" id="about-modal">
+    <div class="modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+      <div class="modal-body">
+        <img class="modal-photo" src="images/profile.jpg" alt="Zillah Bahar">
+        <div class="modal-text">
+          <h2>Zillah Bahar</h2>
+          <p class="modal-subtitle">Wine &amp; Spirits Professional | AI Implementation Specialist</p>
+          <p>With over two decades of experience in the wine and spirits trade, I have built a career at the intersection of industry expertise and innovation. From vineyard to glass, from grain to barrel, I understand the business of wine and spirits — the markets, the people, and the trends that shape these dynamic industries.</p>
+          <p>Wine &amp; Spirits Media Hub is my curated collection of the best wine and spirits content on the web, bringing together videos and podcasts across every facet of the wine and spirits world — from business and trade to tasting, production, cocktails, and emerging regions.</p>
+          <div class="contact-section">
+            <button type="button" class="contact-link" id="contact-toggle">Get in touch</button>
+            <form class="contact-form" id="contact-form" style="display:none" method="POST">
+              <input type="hidden" name="_captcha" value="false">
+              <input type="hidden" name="_subject" value="Wine &amp; Spirits Media Hub — New Message">
+              <input type="text" name="name" placeholder="Your name" required>
+              <input type="email" name="email" placeholder="Your email" required>
+              <textarea name="message" placeholder="Your message" rows="4" required></textarea>
+              <button type="submit" class="contact-submit">Send Message</button>
+              <p class="contact-status" id="contact-status"></p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Industry Analyses Modal -->
+  <div class="modal-overlay" id="analyses-modal">
+    <div class="modal">
+      <button class="modal-close" id="analyses-modal-close">&times;</button>
+      <div class="modal-body analyses-body">
+        <div class="modal-text">
+          <h2>Industry Analyses</h2>
+          <p class="modal-subtitle">Research &amp; reports by Zillah Bahar</p>
+          <div class="analyses-list">
+            <a href="https://noshmama.github.io/wine-industry-tariff-analysis/" target="_blank" class="analysis-card">
+              <span class="analysis-title">The U.S. Wine Industry After the Tariff Ruling</span>
+              <span class="analysis-date">Published February 22, 2026</span>
+              <span class="analysis-desc">Premiumization, consolidation, and the DTC loyalty model reshaping a market that's lost 20% of its volume</span>
+            </a>
+            <a href="https://noshmama.github.io/spirits-industry-tariff-analysis/" target="_blank" class="analysis-card">
+              <span class="analysis-title">U.S. Spirits After the SCOTUS Tariff Ruling</span>
+              <span class="analysis-date">Published February 22, 2026</span>
+              <span class="analysis-desc">How the American spirits industry is positioned following the Supreme Court's tariff decision</span>
+            </a>
+            <a href="https://noshmama.github.io/spirits-brand-success-analysis/" target="_blank" class="analysis-card">
+              <span class="analysis-title">What Makes Top-Performing Spirits Brands Succeed</span>
+              <span class="analysis-date">Published February 11, 2026</span>
+              <span class="analysis-desc">Seven factors that separate winners from losers in the U.S. spirits market, with named brands and performance data</span>
+            </a>
+            <a href="https://noshmama.github.io/spirits-industry-report/" target="_blank" class="analysis-card">
+              <span class="analysis-title">U.S. Spirits Industry Analysis Report</span>
+              <span class="analysis-date">Published February 2, 2026</span>
+              <span class="analysis-desc">Volume trends, market share evolution &amp; forecasting across major spirit categories (2003&ndash;2024)</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class="split-screen">
+    <!-- Left Panel: YouTube Videos -->
+    <section class="panel panel-youtube" id="youtube-panel">
+      <div class="panel-header">
+        <div class="panel-header-row1">
+          <h2>YouTube Videos</h2>
+          <div class="beverage-toggle">
+            <button class="active" data-beverage="All">All</button>
+            <button data-beverage="Wine">Wine</button>
+            <button data-beverage="Spirits">Spirits</button>
+          </div>
+        </div>
+        <div class="filter-bar">
+          <input type="text" id="youtube-search" class="search-input" placeholder="Search videos...">
+          <select id="youtube-category" class="category-select"></select>
+          <select id="youtube-region" class="region-select"></select>
+        </div>
+      </div>
+      <div class="card-grid" id="youtube-grid">
+        <div class="loading">Loading videos&hellip;</div>
+      </div>
+    </section>
+
+    <!-- Right Panel: Podcasts -->
+    <section class="panel panel-podcasts" id="podcast-panel">
+      <div class="panel-header">
+        <div class="panel-header-row1">
+          <h2>Podcasts</h2>
+          <div class="beverage-toggle">
+            <button class="active" data-beverage="All">All</button>
+            <button data-beverage="Wine">Wine</button>
+            <button data-beverage="Spirits">Spirits</button>
+          </div>
+        </div>
+        <div class="filter-bar">
+          <input type="text" id="podcast-search" class="search-input" placeholder="Search podcasts...">
+          <select id="podcast-category" class="category-select"></select>
+          <select id="podcast-region" class="region-select"></select>
+        </div>
+      </div>
+      <div class="card-grid" id="podcast-grid">
+        <div class="loading">Loading podcasts&hellip;</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Video Player Modal -->
+  <div class="modal-overlay" id="video-modal">
+    <div class="modal video-modal">
+      <button class="modal-close" id="video-modal-close">&times;</button>
+      <div class="video-embed" id="video-embed"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Data sourced from YouTube and iTunes. Updated weekly via GitHub Actions.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+  <script src="js/youtube-panel.js"></script>
+  <script src="js/podcast-panel.js"></script>
+</body>
+</html>
