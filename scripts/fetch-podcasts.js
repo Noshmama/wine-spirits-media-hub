@@ -199,7 +199,7 @@ async function fetchWithTimeout(promise, ms) {
 
 async function fetchRSSEpisodes(feedUrl) {
   try {
-    const feed = await fetchWithTimeout(rssParser.parseURL(feedUrl), 15000);
+    const feed = await fetchWithTimeout(rssParser.parseURL(feedUrl), 8000);
     const episodes = (feed.items || []).slice(0, MAX_EPISODES_PER_PODCAST).map(item => ({
       title: item.title || 'Untitled Episode',
       pubDate: item.pubDate || item.isoDate || null,
@@ -291,15 +291,20 @@ async function enrichWithEpisodes(podcastsMap) {
   let succeeded = 0;
   let failed = 0;
 
-  for (const podcast of toEnrich) {
-    console.log(`  Fetching episodes: "${podcast.name}"`);
-    podcast.episodes = await fetchRSSEpisodes(podcast.feedUrl);
-    if (podcast.episodes.length > 0) {
-      succeeded++;
-    } else {
-      failed++;
-    }
-    await sleep(300);
+  // Fetch in parallel batches of 10 for speed
+  const BATCH_SIZE = 10;
+  for (let i = 0; i < toEnrich.length; i += BATCH_SIZE) {
+    const batch = toEnrich.slice(i, i + BATCH_SIZE);
+    console.log(`  Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(toEnrich.length / BATCH_SIZE)} (${batch.length} podcasts)`);
+    await Promise.all(batch.map(async (podcast) => {
+      podcast.episodes = await fetchRSSEpisodes(podcast.feedUrl);
+      if (podcast.episodes.length > 0) {
+        succeeded++;
+      } else {
+        failed++;
+      }
+    }));
+    await sleep(200);
   }
 
   for (const podcast of podcasts) {
