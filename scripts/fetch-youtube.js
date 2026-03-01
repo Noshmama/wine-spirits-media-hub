@@ -298,6 +298,16 @@ async function main() {
 
   const outPath = path.join(__dirname, '..', 'data', 'youtube.json');
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
+
+  // Don't overwrite existing data if quota was exhausted (fewer results)
+  if (fs.existsSync(outPath)) {
+    const existing = JSON.parse(fs.readFileSync(outPath, 'utf8'));
+    if (videos.length < existing.totalVideos * 0.5) {
+      console.log(`\nSkipping save: only fetched ${videos.length} videos vs ${existing.totalVideos} existing (likely quota exhausted)`);
+      return;
+    }
+  }
+
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2));
 
   console.log(`\nDone! Saved ${videos.length} videos to data/youtube.json`);

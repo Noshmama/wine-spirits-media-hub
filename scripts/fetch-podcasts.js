@@ -352,6 +352,16 @@ async function main() {
 
   const outPath = path.join(__dirname, '..', 'data', 'podcasts.json');
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
+
+  // Don't overwrite existing data if rate-limited (fewer results)
+  if (fs.existsSync(outPath)) {
+    const existing = JSON.parse(fs.readFileSync(outPath, 'utf8'));
+    if (cleanPodcasts.length < existing.totalPodcasts * 0.5) {
+      console.log(`\nSkipping save: only fetched ${cleanPodcasts.length} podcasts vs ${existing.totalPodcasts} existing (likely rate-limited)`);
+      return;
+    }
+  }
+
   fs.writeFileSync(outPath, JSON.stringify(output, null, 2));
 
   console.log(`\nDone! Saved ${cleanPodcasts.length} podcasts to data/podcasts.json`);
