@@ -181,6 +181,7 @@ const TITLE_BLOCKLIST = [
   /\bbeer\b/i,
   /\bbrewer(y|ies|ing)?\b/i,
   /\bbrews\b/i,
+  /\bkombucha\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];

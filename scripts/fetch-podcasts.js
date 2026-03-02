@@ -150,6 +150,7 @@ const NAME_BLOCKLIST = [
   /\bbeer\b/i,
   /\bbrewer(y|ies|ing)?\b/i,
   /\bbrews\b/i,
+  /\bkombucha\b/i,
 ];
 
 function isPodcastBlocked(name) {
