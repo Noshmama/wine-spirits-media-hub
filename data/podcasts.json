@@ -1,6 +1,6 @@
 {
   "lastUpdated": "2026-03-01T06:24:06.716Z",
-  "totalPodcasts": 434,
+  "totalPodcasts": 431,
   "podcasts": [
     {
       "name": "Gasgeflüster",
@@ -5480,49 +5480,6 @@
       "beverageType": "wine"
     },
     {
-      "name": "Florida Beer Podcast - Powered by FloridaBeerBlog.com",
-      "author": "FloridaBeerBlog.com",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/64/ef/ff/64efff33-9155-2a01-318e-88b232da7c5c/mza_10392238360458186335.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Raicilla"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Episode 202: Frazier Creek Brewing and Distilling Part 1",
-          "pubDate": "Wed, 18 Feb 2026 11:00:00 +0000",
-          "duration": "31:50",
-          "audioUrl": "https://traffic.libsyn.com/secure/floridabeerpodcast/FBP_202_Edited_-_2526_12.56PM.mp3?dest-id=1385417"
-        },
-        {
-          "title": "Episode 201: Brewing in Orlando with Ivanhoe Park Brewing",
-          "pubDate": "Wed, 22 Oct 2025 10:00:00 +0000",
-          "duration": "43:10",
-          "audioUrl": "https://traffic.libsyn.com/secure/floridabeerpodcast/FLBeer201.mp3?dest-id=1385417"
-        },
-        {
-          "title": "Episode 200: Celebrating at Celebration Brewing",
-          "pubDate": "Wed, 17 Sep 2025 10:00:00 +0000",
-          "duration": "35:47",
-          "audioUrl": "https://traffic.libsyn.com/secure/floridabeerpodcast/FLBeer200.mp3?dest-id=1385417"
-        },
-        {
-          "title": "Episode 199: Leaven Brewing Part 2",
-          "pubDate": "Wed, 27 Aug 2025 10:00:00 +0000",
-          "duration": "28:59",
-          "audioUrl": "https://traffic.libsyn.com/secure/floridabeerpodcast/FLBeer199.mp3?dest-id=1385417"
-        },
-        {
-          "title": "Episode 198: Leaven Brewing Part 1",
-          "pubDate": "Wed, 13 Aug 2025 10:00:00 +0000",
-          "duration": "27:29",
-          "audioUrl": "https://traffic.libsyn.com/secure/floridabeerpodcast/FLBeer198.mp3?dest-id=1385417"
-        }
-      ],
-      "beverageType": "spirits"
-    },
-    {
       "name": "Florida Podcast Network's All Shows Feed",
       "author": "Florida Podcast Network",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/29/93/09/299309e7-6c2b-de1b-576f-fc1e5945aba1/mza_7297557659633002155.jpeg/600x600bb.jpg",
@@ -7852,49 +7809,6 @@
       "beverageType": "spirits"
     },
     {
-      "name": "Rhythm & Brews",
-      "author": "Andrew & Luke, Beer imbibers and music snoggers",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/77/77/79/777779f1-5a84-a09e-d2b8-1878fabc4f39/mza_12265959640120130826.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wine Education"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Christmas 2025 - Unconscious Christmas Bells",
-          "pubDate": "Tue, 23 Dec 2025 10:37:27 +0000",
-          "duration": "02:11:12",
-          "audioUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4b2b99eb-e45b-4aee-8b9f-d23963e4c0fd/episodes/7c2c13cf-a149-4975-b8ed-17c71e68b451/audio/fcff3521-8744-48dd-95a3-1d618ca1dbea/default_tc.mp3?aid=rss_feed&feed=jlwaEzoW"
-        },
-        {
-          "title": "Christmas 2024 - Back in Town",
-          "pubDate": "Thu, 5 Dec 2024 10:29:02 +0000",
-          "duration": "01:49:19",
-          "audioUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4b2b99eb-e45b-4aee-8b9f-d23963e4c0fd/episodes/b69f2526-47f8-41ce-82d6-6b7c517c6011/audio/365f72d0-24d7-4fdd-be29-6566eaf6c956/default_tc.mp3?aid=rss_feed&feed=jlwaEzoW"
-        },
-        {
-          "title": "The Last One - \"Drag queen beer sommeliers\"",
-          "pubDate": "Mon, 22 Jan 2024 10:08:02 +0000",
-          "duration": "01:54:10",
-          "audioUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4b2b99eb-e45b-4aee-8b9f-d23963e4c0fd/episodes/533a58ef-575c-4cc4-83e6-7aa127e66c6b/audio/bd2c480e-575c-470b-b647-4339ca77ed1e/default_tc.mp3?aid=rss_feed&feed=jlwaEzoW"
-        },
-        {
-          "title": "Christmas 2023 featuring Francesca Slattery and Ruth Mitchell",
-          "pubDate": "Sun, 24 Dec 2023 10:03:50 +0000",
-          "duration": "02:05:22",
-          "audioUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4b2b99eb-e45b-4aee-8b9f-d23963e4c0fd/episodes/b30d34b0-5e88-45a7-8baf-dc0f83e6d1d8/audio/0864613b-c0c8-4b86-9323-2fc42b61f9a0/default_tc.mp3?aid=rss_feed&feed=jlwaEzoW"
-        },
-        {
-          "title": "Holly-Anne and Nick Rolfe, Garden City Brewery - \"Spicy Andrew time\"",
-          "pubDate": "Sun, 26 Nov 2023 20:46:33 +0000",
-          "duration": "01:34:43",
-          "audioUrl": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/4b2b99eb-e45b-4aee-8b9f-d23963e4c0fd/episodes/ac21b7e8-4f38-431e-b095-cc836fefb199/audio/24fb8feb-dfa4-42cd-90fc-c8f8dfed5e36/default_tc.mp3?aid=rss_feed&feed=jlwaEzoW"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
       "name": "The RedRum Podcast",
       "author": "Captain & Wilson",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/a8/49/57a84926-94df-c4c8-76d4-fbc6bf4f44ee/mza_7462683315661953290.jpg/600x600bb.jpg",
@@ -8019,49 +7933,6 @@
           "pubDate": "Sat, 13 Dec 2025 05:00:00 -0000",
           "duration": "00:03:39",
           "audioUrl": "https://rss.art19.com/episodes/692fa90d-243c-49ec-978e-2934e93f2930.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "Drinks Adventures - Wine, beer, whisky, gin & more with James Atkinson",
-      "author": "Wine, Beer & Whisky Network Australia",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/0c/ed/b9/0cedb908-9f10-cdf4-7e06-eb080db16e37/mza_9403303969317441606.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Diageo's spirits outlook with Australia boss Dan Hamilton",
-          "pubDate": "Wed, 10 Dec 2025 13:00:00 -0000",
-          "duration": "2688",
-          "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/DRINKSADVENTURES7356787673.mp3?updated=1765370324"
-        },
-        {
-          "title": "How the Romans inspired Merrick Watts' Posca Hydrate ",
-          "pubDate": "Wed, 19 Nov 2025 21:00:00 -0000",
-          "duration": "3087",
-          "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/DRINKSADVENTURES3799476581.mp3?updated=1763715238"
-        },
-        {
-          "title": "Protecting Australian rum, with Matt Hobson of Nil Desperandum",
-          "pubDate": "Thu, 23 Oct 2025 23:25:00 -0000",
-          "duration": "1812",
-          "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/DRINKSADVENTURES6903157719.mp3?updated=1761262762"
-        },
-        {
-          "title": "The trials and triumphs of mobile canning in Australia",
-          "pubDate": "Wed, 08 Oct 2025 21:14:00 -0000",
-          "duration": "2335",
-          "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/DRINKSADVENTURES7380582089.mp3?updated=1760055905"
-        },
-        {
-          "title": "Why Cincoro is more than \"Michael Jordan's tequila\"",
-          "pubDate": "Wed, 24 Sep 2025 14:00:00 -0000",
-          "duration": "2089",
-          "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/DRINKSADVENTURES4611446180.mp3"
         }
       ],
       "beverageType": "wine"

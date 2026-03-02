@@ -178,6 +178,9 @@ const TITLE_BLOCKLIST = [
   /\bplaylist\b/i,
   /\bambience\b/i,
   /\bchill\s*(beats?|music|vibes?)\b/i,
+  /\bbeer\b/i,
+  /\bbrewer(y|ies|ing)?\b/i,
+  /\bbrews\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];

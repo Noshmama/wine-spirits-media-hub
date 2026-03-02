@@ -147,6 +147,9 @@ const NAME_BLOCKLIST = [
   /what if we get it right/i,
   /true beauty podcast/i,
   /song exploder/i,
+  /\bbeer\b/i,
+  /\bbrewer(y|ies|ing)?\b/i,
+  /\bbrews\b/i,
 ];
 
 function isPodcastBlocked(name) {
