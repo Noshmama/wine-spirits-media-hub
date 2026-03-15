@@ -289,4 +289,41 @@ document.addEventListener('DOMContentLoaded', () => {
   analysesModal.addEventListener('click', (e) => {
     if (e.target === analysesModal) analysesModal.classList.remove('open');
   });
+
+  // Analyses modal contact form
+  const acForm = document.getElementById('analyses-contact-form');
+  const acStatus = document.getElementById('analyses-contact-status');
+
+  if (acForm) {
+    acForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const submitBtn = acForm.querySelector('.contact-submit');
+      submitBtn.disabled = true;
+      submitBtn.textContent = 'Sending...';
+      acStatus.textContent = '';
+
+      const addr = ['nosh', 'mama', 'm@', 'ya', 'hoo', '.com'].join('');
+      const formData = new FormData(acForm);
+
+      try {
+        const resp = await fetch('https://formsubmit.co/ajax/' + addr, {
+          method: 'POST',
+          body: formData
+        });
+        if (resp.ok) {
+          acStatus.textContent = 'Message sent! Thank you.';
+          acStatus.style.color = '#2e7d32';
+          acForm.reset();
+        } else {
+          throw new Error('Send failed');
+        }
+      } catch {
+        acStatus.textContent = 'Could not send. Please try again.';
+        acStatus.style.color = '#c62828';
+      }
+
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Send Message';
+    });
+  }
 });
