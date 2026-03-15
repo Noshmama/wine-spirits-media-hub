@@ -722,6 +722,39 @@ body {
   height: 32px;
 }
 
+/* ===== Table of Contents ===== */
+.toc {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem 0.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--gray-100);
+  border-radius: var(--radius);
+  margin-bottom: 1.25rem;
+  border: 1px solid var(--gray-200);
+}
+
+.toc-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--gray-700);
+}
+
+.toc-link {
+  font-size: 0.8rem;
+  color: var(--burgundy);
+  text-decoration: none;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  transition: background var(--transition), color var(--transition);
+}
+
+.toc-link:hover {
+  background: var(--burgundy);
+  color: var(--white);
+}
+
 /* ===== Analyses Modal ===== */
 .analyses-body {
   display: block;

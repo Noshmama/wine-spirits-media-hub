@@ -285,6 +285,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const analysesClose = document.getElementById('analyses-modal-close');
 
   analysesBtn.addEventListener('click', () => analysesModal.classList.add('open'));
+
+  // TOC anchor links scroll within the modal
+  analysesModal.querySelectorAll('.toc-link').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      const targetId = link.getAttribute('href').slice(1);
+      const target = document.getElementById(targetId);
+      if (target) {
+        const modalEl = analysesModal.querySelector('.modal');
+        modalEl.scrollTo({ top: target.offsetTop - 20, behavior: 'smooth' });
+      }
+    });
+  });
   analysesClose.addEventListener('click', () => analysesModal.classList.remove('open'));
   analysesModal.addEventListener('click', (e) => {
     if (e.target === analysesModal) analysesModal.classList.remove('open');
