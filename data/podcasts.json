@@ -1,50 +1,7 @@
 {
   "lastUpdated": "2026-03-16T00:05:18.880Z",
-  "totalPodcasts": 374,
+  "totalPodcasts": 372,
   "podcasts": [
-    {
-      "name": "Vanilla and Chocolate Wine and Dine",
-      "author": "Vanilla and Chocolate Wine and Dine",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/9e/69/099e69d9-4aab-8a9d-45bc-8d66534e8165/mza_2115433393155451758.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Episode 7: Maddie’s First Birthday & Birthdays Past",
-          "pubDate": "Sun, 15 Mar 2026 23:00:00 GMT",
-          "duration": "00:46:49",
-          "audioUrl": "https://anchor.fm/s/10f3b0f64/podcast/play/116926625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-14%2F420018944-44100-2-0812b57ae6226.mp3"
-        },
-        {
-          "title": "Episode 6: We Were Not Ready for This Many Animals",
-          "pubDate": "Sun, 08 Mar 2026 23:00:01 GMT",
-          "duration": "00:36:39",
-          "audioUrl": "https://anchor.fm/s/10f3b0f64/podcast/play/116581773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-8%2F419548604-44100-2-22c6c79b16001.mp3"
-        },
-        {
-          "title": "Episode 5: Thirty, Forty & Figuring it out",
-          "pubDate": "Mon, 02 Mar 2026 00:00:00 GMT",
-          "duration": "00:37:56",
-          "audioUrl": "https://anchor.fm/s/10f3b0f64/podcast/play/116200345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-1%2F419029602-44100-2-13ff00b48f5f.mp3"
-        },
-        {
-          "title": "Episode 4: It's a Vibe, Not Just a Recipe",
-          "pubDate": "Mon, 23 Feb 2026 00:00:00 GMT",
-          "duration": "00:36:38",
-          "audioUrl": "https://anchor.fm/s/10f3b0f64/podcast/play/115741620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418421349-44100-2-b4f232a9c9b47.mp3"
-        },
-        {
-          "title": "Episode 3: Love, Laughter & A Baking Disaster",
-          "pubDate": "Thu, 19 Feb 2026 15:45:35 GMT",
-          "duration": "00:30:58",
-          "audioUrl": "https://anchor.fm/s/10f3b0f64/podcast/play/115740556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418417815-44100-2-a4610945e60c2.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
     {
       "name": "Viti Daily –  Viticulture & Wine News",
       "author": "Viti Daily",
@@ -11940,49 +11897,6 @@
         }
       ],
       "beverageType": "wine"
-    },
-    {
-      "name": "Cooking In Mexican From A to Z",
-      "author": "Heritage Radio Network",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/c0/37/8bc0378e-1d38-b198-7e1a-2c04473d4711/mza_17814372660466559408.jpeg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Sotol"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "How Mexican Food Migrated to the Northeast",
-          "pubDate": "Wed, 16 Nov 2022 21:30:00 -0000",
-          "duration": "00:44:58",
-          "audioUrl": "https://rss.art19.com/episodes/25157066-1581-4333-8512-2cad90ca1be7.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        },
-        {
-          "title": "Sotol: This Chihuahua Spirit Is Getting Hot",
-          "pubDate": "Tue, 08 Nov 2022 21:30:00 -0000",
-          "duration": "00:42:04",
-          "audioUrl": "https://rss.art19.com/episodes/ea50d608-72b4-4d50-ac11-b500439318c7.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        },
-        {
-          "title": "Whiskey in Mexico - In Years Past and Today",
-          "pubDate": "Wed, 02 Nov 2022 17:00:00 -0000",
-          "duration": "00:42:19",
-          "audioUrl": "https://rss.art19.com/episodes/f03ff8c0-3508-4d40-a453-3db47963d22f.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        },
-        {
-          "title": "Like Water for Horchata",
-          "pubDate": "Wed, 26 Oct 2022 17:00:00 -0000",
-          "duration": "00:34:20",
-          "audioUrl": "https://rss.art19.com/episodes/b2b686c7-1973-4ecb-b2c3-f5fdffd10604.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        },
-        {
-          "title": "Fish in Ensenada and Beyond",
-          "pubDate": "Wed, 19 Oct 2022 17:00:00 -0000",
-          "duration": "00:44:55",
-          "audioUrl": "https://rss.art19.com/episodes/d4edc8f3-8644-4801-b8d9-47d30680e310.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70"
-        }
-      ],
-      "beverageType": "spirits"
     },
     {
       "name": "Um...What Did We Just Watch?",
