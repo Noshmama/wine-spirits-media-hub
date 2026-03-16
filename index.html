@@ -55,6 +55,7 @@
             <a href="#sec-workflows" class="toc-link">Workflow Projects</a>
             <a href="#sec-games" class="toc-link">Games</a>
             <a href="#sec-linkedin" class="toc-link">LinkedIn</a>
+            <a href="#sec-howbuilt" class="toc-link">How I Built This</a>
             <a href="#sec-contact" class="toc-link">Contact</a>
           </nav>
           <h2 id="sec-analyses">Industry Analyses</h2>
@@ -121,6 +122,13 @@
               <span class="analysis-title">Zillah Bahar on LinkedIn</span>
               <span class="analysis-desc">Connect with me for wine &amp; spirits industry insights, AI implementation, and workflow automation</span>
             </a>
+          </div>
+          <h2 id="sec-howbuilt" style="margin-top: 1.5rem; margin-bottom: 0.25rem; font-size: 1.3rem; color: var(--burgundy);">How I Built This</h2>
+          <div class="howbuilt-section" style="font-size: 0.85rem; color: var(--gray-700); line-height: 1.6;">
+            <p>Wine &amp; Spirits Media Hub is a fully automated content platform built without frameworks — just HTML, CSS, and JavaScript.</p>
+            <p><strong>Data Pipeline:</strong> Node.js scripts query the YouTube Data API and iTunes Search API weekly via GitHub Actions, pulling fresh videos and podcasts across 24 categories. Content is deduplicated, tagged by beverage type and region, and filtered for language and relevance — all without manual intervention.</p>
+            <p><strong>Performance:</strong> The app renders 1,000+ cards once on page load, then filters instantly via CSS display toggling — no DOM rebuilding. Images lazy-load via IntersectionObserver, and pagination keeps initial render fast. Data files are trimmed to exclude unused fields, cutting download size by 75%.</p>
+            <p><strong>Stack:</strong> HTML/CSS/JS, Node.js, YouTube Data API v3, iTunes Search API, RSS parsing, GitHub Actions, GitHub Pages.</p>
           </div>
           <h2 id="sec-contact" style="margin-top: 1.5rem; margin-bottom: 0.25rem; font-size: 1.3rem; color: var(--burgundy);">Contact</h2>
           <p class="modal-subtitle">Send me a message</p>
