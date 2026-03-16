@@ -138,7 +138,7 @@ body {
   cursor: pointer;
   font-family: inherit;
   line-height: 1.5;
-  text-align: right;
+  text-align: center;
   transition: color var(--transition);
 }
 
