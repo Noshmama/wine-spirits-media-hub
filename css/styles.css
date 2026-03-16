@@ -98,6 +98,29 @@ body {
   width: 100%;
 }
 
+/* ===== Game Button (left side) ===== */
+.game-btn {
+  position: absolute;
+  left: 3rem;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 0.5rem 1rem;
+  background: var(--gold);
+  color: var(--burgundy-dark);
+  border: none;
+  border-radius: var(--radius);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  text-decoration: none;
+  transition: background var(--transition);
+}
+
+.game-btn:hover {
+  background: var(--gold-light);
+}
+
 /* ===== Analyses Button ===== */
 .analyses-btn {
   position: absolute;
@@ -882,6 +905,13 @@ img[data-src] {
 @media (max-width: 1024px) {
   .site-header h1 {
     font-size: 1.8rem;
+  }
+
+  .game-btn {
+    position: static;
+    transform: none;
+    display: block;
+    margin: 0.5rem auto 0;
   }
 
   .analyses-btn {
