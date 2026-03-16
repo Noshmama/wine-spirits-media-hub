@@ -198,11 +198,31 @@ function isBlocked(title, channel) {
 
 // Filter out non-English content by detecting non-Latin scripts
 function isNonEnglish(text) {
-  // Count characters in non-Latin scripts (CJK, Cyrillic, Arabic, Thai, Korean, Devanagari, etc.)
   const nonLatin = text.replace(/[\x00-\x7F\u00C0-\u024F\u1E00-\u1EFF]/g, '').replace(/\s/g, '');
   const total = text.replace(/\s/g, '').length;
   if (total === 0) return false;
-  return (nonLatin.length / total) > 0.3;
+  if ((nonLatin.length / total) > 0.3) return true;
+
+  // Also catch Western European languages by common words
+  const lower = text.toLowerCase();
+  const foreignPatterns = [
+    /\b(der|die|das|und|oder|mit|ein|eine|für|ist|nicht|auch|auf|aus|dem|den|des|sich|wie|noch|bei)\b/,  // German
+    /\b(le|la|les|des|une|est|dans|pour|avec|sur|qui|que|pas|sont|nous|mais|vous|cette|tout|plus)\b/,     // French
+    /\b(il|della|delle|degli|nel|nella|sono|che|con|una|per|alla|questo|anche|dal|dei|gli|sua|tra)\b/,     // Italian
+    /\b(el|los|las|del|una|por|con|para|que|más|pero|como|esto|desde|todo|esta|estos|sobre|tiene)\b/,      // Spanish
+    /\b(het|een|van|dat|voor|zijn|ook|aan|naar|maar|nog|uit|dan|hun|haar|werd|wordt|deze|geen)\b/,         // Dutch
+    /\b(och|att|det|som|för|med|den|har|till|inte|var|kan|ett|hade|från|ska|alla|min|efter)\b/,             // Swedish/Norwegian
+    /\b(e|ou|para|com|uma|não|por|mais|como|sua|dos|das|pelo|esta|esse|isso|são|foi|nos)\b/,               // Portuguese
+  ];
+
+  let matches = 0;
+  for (const pattern of foreignPatterns) {
+    const found = lower.match(new RegExp(pattern.source, 'g'));
+    if (found) matches += found.length;
+  }
+
+  // If 3+ foreign common words detected, likely non-English
+  return matches >= 3;
 }
 
 /**

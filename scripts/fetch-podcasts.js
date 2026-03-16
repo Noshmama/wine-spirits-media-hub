@@ -254,8 +254,15 @@ async function fetchAllPodcasts() {
             continue;
           }
 
+          // Filter by iTunes language field — only allow English
+          const lang = (result.languageCodesISO2A || '').toLowerCase();
+          if (lang && lang !== 'en') {
+            console.log(`    Skipped non-English (lang: ${lang}): "${podcastName}"`);
+            continue;
+          }
+
           if (isNonEnglish(podcastName)) {
-            console.log(`    Skipped non-English: "${podcastName}"`);
+            console.log(`    Skipped non-English script: "${podcastName}"`);
             continue;
           }
 
