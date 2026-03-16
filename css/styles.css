@@ -101,24 +101,25 @@ body {
 /* ===== Game Button (left side) ===== */
 .game-btn {
   position: absolute;
-  left: 3rem;
+  left: 2rem;
   top: 50%;
   transform: translateY(-50%);
-  padding: 0.5rem 1rem;
-  background: var(--gold);
-  color: var(--burgundy-dark);
-  border: none;
-  border-radius: var(--radius);
-  font-size: 0.8rem;
-  font-weight: 600;
-  cursor: pointer;
-  font-family: inherit;
   text-decoration: none;
-  transition: background var(--transition);
+  line-height: 0;
 }
 
-.game-btn:hover {
-  background: var(--gold-light);
+.game-btn-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform var(--transition), box-shadow var(--transition);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.game-btn-img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
 }
 
 /* ===== Analyses Button ===== */
@@ -912,6 +913,12 @@ img[data-src] {
     transform: none;
     display: block;
     margin: 0.5rem auto 0;
+    line-height: 0;
+  }
+
+  .game-btn-img {
+    width: 60px;
+    height: 60px;
   }
 
   .analyses-btn {
