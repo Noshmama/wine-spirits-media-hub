@@ -55,6 +55,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.mobile-break {
+  display: none;
+}
+
 .site-header .tagline {
   margin-top: 0.3rem;
   font-size: 0.95rem;
@@ -906,6 +910,10 @@ img[data-src] {
 @media (max-width: 1024px) {
   .site-header h1 {
     font-size: 1.8rem;
+  }
+
+  .mobile-break {
+    display: inline;
   }
 
   .game-btn {
