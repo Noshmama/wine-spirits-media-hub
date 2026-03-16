@@ -101,7 +101,7 @@ body {
 /* ===== Game Button (left side) ===== */
 .game-btn {
   position: absolute;
-  left: 1rem;
+  left: 15%;
   top: 50%;
   transform: translateY(-50%);
   text-decoration: none;
@@ -125,7 +125,7 @@ body {
 /* ===== Analyses Button ===== */
 .analyses-btn {
   position: absolute;
-  right: 1rem;
+  right: 15%;
   top: 50%;
   transform: translateY(-50%);
   max-width: 380px;
