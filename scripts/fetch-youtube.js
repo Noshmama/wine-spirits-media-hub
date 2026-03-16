@@ -182,6 +182,17 @@ const TITLE_BLOCKLIST = [
   /\bbrewer(y|ies|ing)?\b/i,
   /\bbrews\b/i,
   /\bkombucha\b/i,
+  /\blipstick\b/i,
+  /\bmakeup\b/i,
+  /\bcosmetic/i,
+  /\bfoundation\b.*\bshade/i,
+  /\beyeshadow\b/i,
+  /\bblush\b.*\b(palette|shade|swatch)/i,
+  /\bnail\s*polish\b/i,
+  /\bnail\s*color\b/i,
+  /\bbeauty\s*(routine|tutorial|hack|tip|look|review)/i,
+  /\bskincare\b/i,
+  /\bhair\s*(color|dye|style|tutorial)/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
