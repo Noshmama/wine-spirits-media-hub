@@ -193,6 +193,8 @@ const TITLE_BLOCKLIST = [
   /\bbeauty\s*(routine|tutorial|hack|tip|look|review)/i,
   /\bskincare\b/i,
   /\bhair\s*(color|dye|style|tutorial)/i,
+  /\blips?\b.*\blike\b/i,
+  /\blip\s*(liner|gloss|stick|shade|color|tint)/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
