@@ -196,6 +196,15 @@ function isBlocked(title, channel) {
   return false;
 }
 
+// Filter out non-English content by detecting non-Latin scripts
+function isNonEnglish(text) {
+  // Count characters in non-Latin scripts (CJK, Cyrillic, Arabic, Thai, Korean, Devanagari, etc.)
+  const nonLatin = text.replace(/[\x00-\x7F\u00C0-\u024F\u1E00-\u1EFF]/g, '').replace(/\s/g, '');
+  const total = text.replace(/\s/g, '').length;
+  if (total === 0) return false;
+  return (nonLatin.length / total) > 0.3;
+}
+
 /**
  * Determine beverageType from a video's categories.
  */
@@ -246,6 +255,11 @@ async function fetchAllVideos() {
 
           if (isBlocked(title, channel)) {
             console.log(`    Blocked: "${title}" (${channel})`);
+            continue;
+          }
+
+          if (isNonEnglish(title)) {
+            console.log(`    Skipped non-English: "${title}"`);
             continue;
           }
 

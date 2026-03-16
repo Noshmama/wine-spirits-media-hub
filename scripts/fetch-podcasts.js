@@ -160,6 +160,14 @@ function isPodcastBlocked(name) {
   return false;
 }
 
+// Filter out non-English content by detecting non-Latin scripts
+function isNonEnglish(text) {
+  const nonLatin = text.replace(/[\x00-\x7F\u00C0-\u024F\u1E00-\u1EFF]/g, '').replace(/\s/g, '');
+  const total = text.replace(/\s/g, '').length;
+  if (total === 0) return false;
+  return (nonLatin.length / total) > 0.3;
+}
+
 /**
  * Determine beverageType from a podcast's categories.
  */
@@ -243,6 +251,11 @@ async function fetchAllPodcasts() {
           const podcastName = result.collectionName || result.trackName || '';
           if (isPodcastBlocked(podcastName)) {
             console.log(`    Blocked: "${podcastName}"`);
+            continue;
+          }
+
+          if (isNonEnglish(podcastName)) {
+            console.log(`    Skipped non-English: "${podcastName}"`);
             continue;
           }
 
