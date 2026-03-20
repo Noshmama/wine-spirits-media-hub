@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HubSpot Member Re-Engagement Campaign</title>
+  <style>
+    :root {
+      --burgundy: #722F37;
+      --gold: #C9A84C;
+      --cream: #FAF6F0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--cream);
+      color: #1A1A1A;
+      line-height: 1.6;
+    }
+    header {
+      background: var(--burgundy);
+      color: #fff;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    header h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    header p { color: #E8D5A3; font-size: 1rem; }
+    .back-link {
+      display: inline-block;
+      margin: 1.5rem 0 0;
+      color: var(--gold);
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+    .back-link:hover { text-decoration: underline; }
+    main { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
+    .overview {
+      background: #fff;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .overview h2 {
+      color: var(--burgundy);
+      font-size: 1.3rem;
+      margin-bottom: 0.75rem;
+    }
+    .overview ul {
+      list-style: none;
+      padding: 0;
+    }
+    .overview li {
+      padding: 0.4rem 0;
+      padding-left: 1.2rem;
+      position: relative;
+    }
+    .overview li::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.75rem;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--gold);
+    }
+    .workflow-image {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .workflow-image img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .workflow-image p {
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+    .steps {
+      background: #fff;
+      border-radius: 8px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+    .steps h2 {
+      color: var(--burgundy);
+      font-size: 1.3rem;
+      margin-bottom: 0.75rem;
+    }
+    .step {
+      display: flex;
+      gap: 1rem;
+      padding: 0.75rem 0;
+      border-bottom: 1px solid #E8E8E8;
+    }
+    .step:last-child { border-bottom: none; }
+    .step-num {
+      background: var(--burgundy);
+      color: #fff;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .step-text strong { color: var(--burgundy); }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      color: #888;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>HubSpot Member Re-Engagement Campaign</h1>
+    <p>Automated workflow for membership organization engagement management</p>
+    <a href="https://noshmama.github.io/wine-spirits-media-hub/" class="back-link">&larr; Back to Wine &amp; Spirits Media Hub</a>
+  </header>
+  <main>
+    <div class="overview">
+      <h2>Project Overview</h2>
+      <ul>
+        <li>51 contacts imported and segmented by engagement level (Active, At-Risk, Lapsed)</li>
+        <li>Smart segments that auto-update as contact properties change</li>
+        <li>Three automated email templates tailored to each engagement segment</li>
+        <li>Conditional workflow with branching logic based on email engagement</li>
+        <li>Reporting dashboard with engagement breakdown and trend analysis</li>
+      </ul>
+    </div>
+    <div class="workflow-image">
+      <img src="images/hubspot-workflow.png" alt="HubSpot At-Risk Re-Engagement Workflow">
+      <p>At-Risk Re-Engagement Workflow &mdash; built in HubSpot</p>
+    </div>
+    <div class="steps">
+      <h2>Workflow Logic</h2>
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-text"><strong>Trigger:</strong> Contact's Engagement Rating changes to At-Risk</div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-text"><strong>Send Email:</strong> At-Risk Re-Engagement Nudge</div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-text"><strong>Delay:</strong> Wait 7 days for the contact to open the email</div>
+      </div>
+      <div class="step">
+        <div class="step-num">4</div>
+        <div class="step-text"><strong>Branch:</strong> Check if the marketing email was opened</div>
+      </div>
+      <div class="step">
+        <div class="step-num">5</div>
+        <div class="step-text"><strong>Opened (>0):</strong> Set Engagement Rating back to Active &mdash; contact is re-engaged</div>
+      </div>
+      <div class="step">
+        <div class="step-num">6</div>
+        <div class="step-text"><strong>Not Opened:</strong> Send follow-up email &ldquo;One More Thing Before We Go&rdquo;</div>
+      </div>
+      <div class="step">
+        <div class="step-num">7</div>
+        <div class="step-text"><strong>Delay:</strong> Wait 14 more days</div>
+      </div>
+      <div class="step">
+        <div class="step-num">8</div>
+        <div class="step-text"><strong>Final Action:</strong> Set Engagement Rating to Lapsed</div>
+      </div>
+    </div>
+  </main>
+  <footer>
+    Built by Zillah Bahar &mdash; 2026
+  </footer>
+</body>
+</html>
