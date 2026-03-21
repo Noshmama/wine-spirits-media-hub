@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
       submitBtn.textContent = 'Sending...';
       acStatus.textContent = '';
 
-      const addr = ['nosh', 'mama', 'm@', 'ya', 'hoo', '.com'].join('');
+      const addr = ['nosh', 'mama', '@', 'ya', 'hoo', '.com'].join('');
       const formData = new FormData(acForm);
 
       try {
