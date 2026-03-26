@@ -341,10 +341,13 @@ async function main() {
   // Sort by publish date (newest first)
   videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
+  // Cap at 100 videos
+  const capped = videos.slice(0, 100);
+
   const output = {
     lastUpdated: new Date().toISOString(),
-    totalVideos: videos.length,
-    videos
+    totalVideos: capped.length,
+    videos: capped
   };
 
   const outPath = path.join(__dirname, '..', 'data', 'youtube.json');

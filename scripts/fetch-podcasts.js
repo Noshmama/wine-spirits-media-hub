@@ -316,7 +316,7 @@ async function fetchAllPodcasts() {
   return allPodcasts;
 }
 
-const MAX_PODCASTS_TO_ENRICH = 100;
+const MAX_PODCASTS_TO_ENRICH = 50;
 
 async function enrichWithEpisodes(podcastsMap) {
   const podcasts = Array.from(podcastsMap.values());
@@ -376,8 +376,8 @@ async function main() {
     return a.name.localeCompare(b.name);
   });
 
-  // Strip feedUrl (not needed on the frontend)
-  const cleanPodcasts = playable.map(({ feedUrl, ...rest }) => rest);
+  // Strip feedUrl (not needed on the frontend) and cap at 100
+  const cleanPodcasts = playable.slice(0, 100).map(({ feedUrl, ...rest }) => rest);
 
   const output = {
     lastUpdated: new Date().toISOString(),
