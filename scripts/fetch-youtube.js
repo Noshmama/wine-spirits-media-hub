@@ -356,7 +356,7 @@ async function main() {
   // Don't overwrite existing data if quota was exhausted (fewer results)
   if (fs.existsSync(outPath)) {
     const existing = JSON.parse(fs.readFileSync(outPath, 'utf8'));
-    if (videos.length < existing.totalVideos * 0.5) {
+    if (videos.length < 20) {
       console.log(`\nSkipping save: only fetched ${videos.length} videos vs ${existing.totalVideos} existing (likely quota exhausted)`);
       return;
     }
