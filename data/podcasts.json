@@ -1,50 +1,7 @@
 {
   "lastUpdated": "2026-03-22T03:07:28.398Z",
-  "totalPodcasts": 314,
+  "totalPodcasts": 313,
   "podcasts": [
-    {
-      "name": "Newshour",
-      "author": "BBC World Service",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/6d/79/606d7992-2e59-3374-579f-83d3010f25bd/mza_15128963149149619329.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "UK condemns Iranian attack on Diego Garcia base",
-          "pubDate": "Sat, 21 Mar 2026 22:10:00 +0000",
-          "duration": "2847",
-          "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0n82lq8.mp3"
-        },
-        {
-          "title": "Iran says its nuclear facility at Natanz has been attacked again",
-          "pubDate": "Sat, 21 Mar 2026 14:55:00 +0000",
-          "duration": "2850",
-          "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0n813c3.mp3"
-        },
-        {
-          "title": "Trump calls Nato allies 'cowards'",
-          "pubDate": "Fri, 20 Mar 2026 22:28:00 +0000",
-          "duration": "2851",
-          "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0n7yjwm.mp3"
-        },
-        {
-          "title": "Iran marks Persian new year under US-Israeli bombardment",
-          "pubDate": "Fri, 20 Mar 2026 15:24:00 +0000",
-          "duration": "2850",
-          "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0n7vzxc.mp3"
-        },
-        {
-          "title": "The global impact of energy price rises",
-          "pubDate": "Thu, 19 Mar 2026 22:14:00 +0000",
-          "duration": "2839",
-          "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0n7qsvm.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
     {
       "name": "Tasting Tequila with Brad",
       "author": "Bradley Niccum",

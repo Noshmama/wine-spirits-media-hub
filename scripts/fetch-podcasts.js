@@ -155,11 +155,17 @@ const NAME_BLOCKLIST = [
   /cooking in mexican/i,
   /\bcooking\s*(show|class|lesson|podcast)\b/i,
   /\brecipe(s)?\s*(podcast|show)\b/i,
+  /\bbbc\b/i,
+  /\bnewshour\b/i,
+  /\bcnn\b/i,
+  /\bnpr\b/i,
+  /\breuters\b/i,
 ];
 
-function isPodcastBlocked(name) {
+function isPodcastBlocked(name, author) {
+  const text = name + ' ' + (author || '');
   for (const pattern of NAME_BLOCKLIST) {
-    if (pattern.test(name)) return true;
+    if (pattern.test(text)) return true;
   }
   return false;
 }
@@ -253,8 +259,9 @@ async function fetchAllPodcasts() {
           if (!podcastId) continue;
 
           const podcastName = result.collectionName || result.trackName || '';
-          if (isPodcastBlocked(podcastName)) {
-            console.log(`    Blocked: "${podcastName}"`);
+          const podcastAuthor = result.artistName || '';
+          if (isPodcastBlocked(podcastName, podcastAuthor)) {
+            console.log(`    Blocked: "${podcastName}" by "${podcastAuthor}"`);
             continue;
           }
 
