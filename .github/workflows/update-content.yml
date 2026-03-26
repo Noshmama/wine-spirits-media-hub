@@ -12,7 +12,7 @@ permissions:
 jobs:
   update-content:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
 
     steps:
       - name: Checkout repository
@@ -29,13 +29,16 @@ jobs:
 
       - name: Fetch YouTube videos
         run: node scripts/fetch-youtube.js
+        timeout-minutes: 30
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
       - name: Fetch Podcasts
         run: node scripts/fetch-podcasts.js
+        timeout-minutes: 45
 
       - name: Commit and push updated data
+        timeout-minutes: 5
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
