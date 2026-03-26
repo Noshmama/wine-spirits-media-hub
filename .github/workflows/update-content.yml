@@ -2,7 +2,7 @@ name: Update Wine & Spirits Media Content
 
 on:
   schedule:
-    # Run every Wednesday and Sunday at 8:30 AM UTC (12:30 AM Pacific, after quota resets)
+    # Run every Wednesday and Sunday at 8:30 AM UTC (3:30 AM Eastern, after quota resets)
     - cron: '30 8 * * 0,3'
   workflow_dispatch: # Allow manual triggering
 
