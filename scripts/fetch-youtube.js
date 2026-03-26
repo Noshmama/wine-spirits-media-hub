@@ -160,7 +160,7 @@ const SPIRITS_CATEGORIES = {
   ]
 };
 
-const MAX_RESULTS_PER_QUERY = 10;
+const MAX_RESULTS_PER_QUERY = 5;
 
 // Blocklist: titles or channels that aren't about wine/spirits
 const TITLE_BLOCKLIST = [
