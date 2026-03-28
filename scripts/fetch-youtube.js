@@ -217,6 +217,12 @@ const TITLE_BLOCKLIST = [
   /\bpolitics\b/i,
   /\btrump\b/i,
   /\belection\b/i,
+  /\baiming\b/i,
+  /\bgun\b/i,
+  /\bfirearm/i,
+  /\bshoot(ing|er)?\b/i,
+  /\brifle\b/i,
+  /\bammunition\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
