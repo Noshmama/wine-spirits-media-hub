@@ -223,6 +223,11 @@ const TITLE_BLOCKLIST = [
   /\bshoot(ing|er)?\b/i,
   /\brifle\b/i,
   /\bammunition\b/i,
+  /\bvlog\b/i,
+  /\bgot\s*drunk\b/i,
+  /\bspa\s*day\b/i,
+  /\bgrwm\b/i,
+  /\bget\s*ready\s*with\s*me\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
