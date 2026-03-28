@@ -10,9 +10,9 @@ permissions:
   contents: write
 
 jobs:
-  update-content:
+  update-youtube:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -29,23 +29,51 @@ jobs:
 
       - name: Fetch YouTube videos
         run: node scripts/fetch-youtube.js
-        timeout-minutes: 30
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
-      - name: Fetch Podcasts
-        run: node scripts/fetch-podcasts.js
-        timeout-minutes: 45
-
-      - name: Commit and push updated data
+      - name: Commit and push YouTube data
         timeout-minutes: 5
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/youtube.json data/podcasts.json
+          git add data/youtube.json data/known-channels.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update wine & spirits media content [automated]"
+            git commit -m "chore: update YouTube video content [automated]"
+            git push
+          fi
+
+  update-podcasts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch Podcasts
+        run: node scripts/fetch-podcasts.js
+
+      - name: Commit and push Podcast data
+        timeout-minutes: 5
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/podcasts.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update podcast content [automated]"
             git push
           fi

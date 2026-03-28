@@ -1,6 +1,7 @@
 const { google } = require('googleapis');
 const fs = require('fs');
 const path = require('path');
+const Parser = require('rss-parser');
 const { detectRegions } = require('./regions');
 
 const API_KEY = process.env.YOUTUBE_API_KEY;
@@ -10,6 +11,14 @@ if (!API_KEY) {
 }
 
 const youtube = google.youtube({ version: 'v3', auth: API_KEY });
+const rssParser = new Parser();
+
+const DATA_DIR = path.join(__dirname, '..', 'data');
+const YOUTUBE_JSON_PATH = path.join(DATA_DIR, 'youtube.json');
+const KNOWN_CHANNELS_PATH = path.join(DATA_DIR, 'known-channels.json');
+
+// Maximum number of known channels to check via RSS (keeps it fast)
+const MAX_RSS_CHANNELS = 50;
 
 // ── Wine Categories ──
 const WINE_CATEGORIES = {
@@ -254,6 +263,147 @@ function getBeverageType(categories) {
   return 'wine';
 }
 
+// ─── Improvement 2: Cache/skip stale categories ───
+
+/**
+ * Load existing youtube.json and determine which categories are fresh
+ * (newest video published less than 2 days ago). Returns a Set of
+ * category names that can be skipped.
+ */
+function getFreshCategories() {
+  if (!fs.existsSync(YOUTUBE_JSON_PATH)) {
+    console.log('No existing youtube.json found — will fetch all categories.');
+    return new Set();
+  }
+
+  let existing;
+  try {
+    existing = JSON.parse(fs.readFileSync(YOUTUBE_JSON_PATH, 'utf8'));
+  } catch (err) {
+    console.log(`Could not parse existing youtube.json: ${err.message} — will fetch all categories.`);
+    return new Set();
+  }
+
+  if (!existing.videos || !Array.isArray(existing.videos)) {
+    return new Set();
+  }
+
+  const twoDaysAgo = Date.now() - 2 * 24 * 60 * 60 * 1000;
+  const freshCategories = new Set();
+
+  // Build a map: category -> newest publishedAt timestamp
+  const newestByCategory = {};
+  for (const video of existing.videos) {
+    if (!video.categories) continue;
+    const ts = new Date(video.publishedAt).getTime();
+    for (const cat of video.categories) {
+      if (!newestByCategory[cat] || ts > newestByCategory[cat]) {
+        newestByCategory[cat] = ts;
+      }
+    }
+  }
+
+  for (const [cat, ts] of Object.entries(newestByCategory)) {
+    if (ts > twoDaysAgo) {
+      freshCategories.add(cat);
+    }
+  }
+
+  if (freshCategories.size > 0) {
+    console.log(`Skipping ${freshCategories.size} fresh categories: ${[...freshCategories].join(', ')}`);
+  }
+
+  return freshCategories;
+}
+
+// ─── Improvement 3: Known channels & RSS feed hybrid ───
+
+/**
+ * Load known channel IDs from data/known-channels.json.
+ * Returns a Map of channelId -> channelTitle.
+ */
+function loadKnownChannels() {
+  if (!fs.existsSync(KNOWN_CHANNELS_PATH)) {
+    return new Map();
+  }
+  try {
+    const data = JSON.parse(fs.readFileSync(KNOWN_CHANNELS_PATH, 'utf8'));
+    // data is an array of { channelId, channelTitle, lastSeen }
+    return new Map(data.map(c => [c.channelId, c]));
+  } catch (err) {
+    console.log(`Could not parse known-channels.json: ${err.message}`);
+    return new Map();
+  }
+}
+
+/**
+ * Save known channel IDs to data/known-channels.json.
+ */
+function saveKnownChannels(channelsMap) {
+  fs.mkdirSync(DATA_DIR, { recursive: true });
+  const data = Array.from(channelsMap.values());
+  // Sort by lastSeen descending so the most recently seen are first
+  data.sort((a, b) => new Date(b.lastSeen) - new Date(a.lastSeen));
+  fs.writeFileSync(KNOWN_CHANNELS_PATH, JSON.stringify(data, null, 2));
+  console.log(`Saved ${data.length} known channels to data/known-channels.json`);
+}
+
+/**
+ * Fetch recent videos from a channel's RSS feed (free, no API quota).
+ * Returns an array of video objects or empty array on failure.
+ */
+async function fetchChannelRSS(channelId) {
+  const feedUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
+  try {
+    const feed = await rssParser.parseURL(feedUrl);
+    return (feed.items || []).map(item => {
+      // RSS item has: title, link, pubDate, author, id (yt:video:XXXX)
+      const videoId = item.id ? item.id.replace('yt:video:', '') : null;
+      if (!videoId) return null;
+      return {
+        videoId,
+        title: item.title || '',
+        channel: item.author || feed.title || '',
+        channelId,
+        thumbnail: `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`,
+        publishedAt: item.pubDate || item.isoDate || null,
+      };
+    }).filter(Boolean);
+  } catch (err) {
+    console.log(`    RSS fetch failed for channel ${channelId}: ${err.message}`);
+    return [];
+  }
+}
+
+/**
+ * Fetch videos from known channels via RSS feeds.
+ * Returns an array of video-like objects (without categories yet).
+ */
+async function fetchFromKnownChannels(knownChannelsMap) {
+  const channels = Array.from(knownChannelsMap.values());
+  // Limit to most recent MAX_RSS_CHANNELS channels
+  const channelsToCheck = channels.slice(0, MAX_RSS_CHANNELS);
+
+  if (channelsToCheck.length === 0) {
+    console.log('No known channels to check via RSS.');
+    return [];
+  }
+
+  console.log(`\nChecking ${channelsToCheck.length} known channels via RSS feeds (free, no quota)...`);
+  const allRSSVideos = [];
+
+  for (const ch of channelsToCheck) {
+    const videos = await fetchChannelRSS(ch.channelId);
+    if (videos.length > 0) {
+      console.log(`  RSS: ${ch.channelTitle} — ${videos.length} videos`);
+      allRSSVideos.push(...videos);
+    }
+  }
+
+  console.log(`RSS feeds returned ${allRSSVideos.length} total videos.`);
+  return allRSSVideos;
+}
+
 async function searchVideos(query) {
   const response = await youtube.search.list({
     part: 'snippet',
@@ -269,11 +419,41 @@ async function searchVideos(query) {
 
 async function fetchAllVideos() {
   const allVideos = new Map();
+  const freshCategories = getFreshCategories();
+  const knownChannelsMap = loadKnownChannels();
 
-  // Process both wine and spirits categories
+  // ─── Phase 1: Fetch from known channels via RSS (free) ───
+  const rssVideos = await fetchFromKnownChannels(knownChannelsMap);
+
+  for (const rv of rssVideos) {
+    if (isBlocked(rv.title, rv.channel)) continue;
+    if (isNonEnglish(rv.title)) continue;
+
+    if (!allVideos.has(rv.videoId)) {
+      const searchText = rv.title + ' ' + rv.channel;
+      allVideos.set(rv.videoId, {
+        videoId: rv.videoId,
+        title: rv.title,
+        channel: rv.channel,
+        thumbnail: rv.thumbnail,
+        publishedAt: rv.publishedAt,
+        categories: [],  // Will be enriched below or left empty
+        regions: detectRegions(searchText),
+        _channelId: rv.channelId,
+      });
+    }
+  }
+
+  // ─── Phase 2: Search API for discovery (skipping fresh categories) ───
   const allCategories = { ...WINE_CATEGORIES, ...SPIRITS_CATEGORIES };
 
   for (const [category, queries] of Object.entries(allCategories)) {
+    // Improvement 2: skip categories that are already fresh
+    if (freshCategories.has(category)) {
+      console.log(`\nSkipping fresh category: ${category}`);
+      continue;
+    }
+
     console.log(`\nFetching category: ${category}`);
 
     for (const query of queries) {
@@ -285,6 +465,7 @@ async function fetchAllVideos() {
           const videoId = item.id.videoId;
           const title = item.snippet.title;
           const channel = item.snippet.channelTitle;
+          const channelId = item.snippet.channelId;
 
           if (isBlocked(title, channel)) {
             console.log(`    Blocked: "${title}" (${channel})`);
@@ -294,6 +475,15 @@ async function fetchAllVideos() {
           if (isNonEnglish(title)) {
             console.log(`    Skipped non-English: "${title}"`);
             continue;
+          }
+
+          // Track discovered channels for future RSS fetching
+          if (channelId) {
+            knownChannelsMap.set(channelId, {
+              channelId,
+              channelTitle: channel,
+              lastSeen: new Date().toISOString(),
+            });
           }
 
           if (allVideos.has(videoId)) {
@@ -312,7 +502,8 @@ async function fetchAllVideos() {
             thumbnail: item.snippet.thumbnails.medium?.url || item.snippet.thumbnails.default?.url,
             publishedAt: item.snippet.publishedAt,
             categories: [category],
-            regions: detectRegions(searchText)
+            regions: detectRegions(searchText),
+            _channelId: channelId,
           });
         }
 
@@ -323,10 +514,33 @@ async function fetchAllVideos() {
     }
   }
 
-  // Set beverageType based on final categories
+  // ─── Enrich RSS-only videos: assign categories based on title keywords ───
+  const allCategoryEntries = Object.entries(allCategories);
+  for (const video of allVideos.values()) {
+    if (video.categories.length === 0) {
+      // Try to match categories from title text
+      const lowerTitle = (video.title + ' ' + video.channel).toLowerCase();
+      for (const [category, queries] of allCategoryEntries) {
+        for (const query of queries) {
+          if (lowerTitle.includes(query.toLowerCase())) {
+            if (!video.categories.includes(category)) {
+              video.categories.push(category);
+            }
+            break;
+          }
+        }
+      }
+    }
+  }
+
+  // Save updated known channels
+  saveKnownChannels(knownChannelsMap);
+
+  // Set beverageType based on final categories and clean up internal fields
   const videos = Array.from(allVideos.values());
   for (const video of videos) {
     video.beverageType = getBeverageType(video.categories);
+    delete video._channelId;
   }
 
   return videos;
@@ -350,19 +564,18 @@ async function main() {
     videos: capped
   };
 
-  const outPath = path.join(__dirname, '..', 'data', 'youtube.json');
-  fs.mkdirSync(path.dirname(outPath), { recursive: true });
+  fs.mkdirSync(DATA_DIR, { recursive: true });
 
   // Don't overwrite existing data if quota was exhausted (fewer results)
-  if (fs.existsSync(outPath)) {
-    const existing = JSON.parse(fs.readFileSync(outPath, 'utf8'));
+  if (fs.existsSync(YOUTUBE_JSON_PATH)) {
+    const existing = JSON.parse(fs.readFileSync(YOUTUBE_JSON_PATH, 'utf8'));
     if (videos.length < 20) {
       console.log(`\nSkipping save: only fetched ${videos.length} videos vs ${existing.totalVideos} existing (likely quota exhausted)`);
       return;
     }
   }
 
-  fs.writeFileSync(outPath, JSON.stringify(output, null, 2));
+  fs.writeFileSync(YOUTUBE_JSON_PATH, JSON.stringify(output, null, 2));
 
   console.log(`\nDone! Saved ${videos.length} videos to data/youtube.json`);
 }
