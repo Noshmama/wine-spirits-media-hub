@@ -391,7 +391,7 @@ async function main() {
   // Don't overwrite existing data if rate-limited (fewer results)
   if (fs.existsSync(outPath)) {
     const existing = JSON.parse(fs.readFileSync(outPath, 'utf8'));
-    if (cleanPodcasts.length < existing.totalPodcasts * 0.5) {
+    if (cleanPodcasts.length < 20) {
       console.log(`\nSkipping save: only fetched ${cleanPodcasts.length} podcasts vs ${existing.totalPodcasts} existing (likely rate-limited)`);
       return;
     }
