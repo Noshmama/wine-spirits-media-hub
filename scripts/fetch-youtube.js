@@ -228,6 +228,16 @@ const TITLE_BLOCKLIST = [
   /\bspa\s*day\b/i,
   /\bgrwm\b/i,
   /\bget\s*ready\s*with\s*me\b/i,
+  /\bminecraft\b/i,
+  /\bhypixel\b/i,
+  /\bbedwars?\b/i,
+  /\bfortnite\b/i,
+  /\broblox\b/i,
+  /\bgaming\b/i,
+  /\bvideo\s*game/i,
+  /\bgameplay\b/i,
+  /\bstreamer\b/i,
+  /\btwitch\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
