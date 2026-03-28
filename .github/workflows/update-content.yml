@@ -30,7 +30,7 @@ jobs:
       - name: Fetch YouTube videos
         run: node scripts/fetch-youtube.js
         env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY_CI }}
 
       - name: Commit and push YouTube data
         timeout-minutes: 5
