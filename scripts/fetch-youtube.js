@@ -546,6 +546,13 @@ async function fetchAllVideos() {
     }
   }
 
+  // Remove RSS-sourced videos that couldn't be matched to any category — likely irrelevant
+  for (const [videoId, video] of allVideos) {
+    if (video.categories.length === 0) {
+      allVideos.delete(videoId);
+    }
+  }
+
   // Save updated known channels
   saveKnownChannels(knownChannelsMap);
 
