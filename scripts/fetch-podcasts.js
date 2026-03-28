@@ -125,8 +125,8 @@ const SPIRITS_CATEGORIES = {
   ]
 };
 
-const MAX_RESULTS_PER_QUERY = 5;
-const MAX_EPISODES_PER_PODCAST = 3;
+const MAX_RESULTS_PER_QUERY = 10;
+const MAX_EPISODES_PER_PODCAST = 5;
 
 // Blocklist: podcast names that aren't about wine/spirits
 const NAME_BLOCKLIST = [
@@ -316,7 +316,7 @@ async function fetchAllPodcasts() {
   return allPodcasts;
 }
 
-const MAX_PODCASTS_TO_ENRICH = 50;
+const MAX_PODCASTS_TO_ENRICH = 100;
 
 async function enrichWithEpisodes(podcastsMap) {
   const podcasts = Array.from(podcastsMap.values());
@@ -377,7 +377,7 @@ async function main() {
   });
 
   // Strip feedUrl (not needed on the frontend) and cap at 100
-  const cleanPodcasts = playable.slice(0, 100).map(({ feedUrl, ...rest }) => rest);
+  const cleanPodcasts = playable.slice(0, 200).map(({ feedUrl, ...rest }) => rest);
 
   const output = {
     lastUpdated: new Date().toISOString(),

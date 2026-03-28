@@ -18,7 +18,7 @@ const YOUTUBE_JSON_PATH = path.join(DATA_DIR, 'youtube.json');
 const KNOWN_CHANNELS_PATH = path.join(DATA_DIR, 'known-channels.json');
 
 // Maximum number of known channels to check via RSS (keeps it fast)
-const MAX_RSS_CHANNELS = 50;
+const MAX_RSS_CHANNELS = 75;
 
 // ── Wine Categories ──
 const WINE_CATEGORIES = {
@@ -169,7 +169,7 @@ const SPIRITS_CATEGORIES = {
   ]
 };
 
-const MAX_RESULTS_PER_QUERY = 5;
+const MAX_RESULTS_PER_QUERY = 10;
 
 // Blocklist: titles or channels that aren't about wine/spirits
 const TITLE_BLOCKLIST = [
@@ -556,7 +556,7 @@ async function main() {
   videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
   // Cap at 100 videos
-  const capped = videos.slice(0, 100);
+  const capped = videos.slice(0, 200);
 
   const output = {
     lastUpdated: new Date().toISOString(),
