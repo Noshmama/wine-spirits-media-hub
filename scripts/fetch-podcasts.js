@@ -15,9 +15,9 @@ const WINE_CATEGORIES = {
     'wine industry'
   ],
   'Tasting & Sommelier': [
-    'wine tasting',
-    'sommelier',
-    'wine review'
+    'wine tasting notes',
+    'sommelier wine podcast',
+    'wine review tasting'
   ],
   'Wines by Region': [
     'wine regions',
@@ -160,6 +160,15 @@ const NAME_BLOCKLIST = [
   /\bcnn\b/i,
   /\bnpr\b/i,
   /\breuters\b/i,
+  /all ears english/i,
+  /splendid table/i,
+  /shmanners/i,
+  /\betiquette\b/i,
+  /\bmanners\b/i,
+  /\benglish\s*(podcast|lesson|class|learn)/i,
+  /\bpolitics\b/i,
+  /\bcooking\b/i,
+  /\brecipe/i,
 ];
 
 function isPodcastBlocked(name, author) {

@@ -29,10 +29,10 @@ const WINE_CATEGORIES = {
     'wine market'
   ],
   'Tasting & Sommelier': [
-    'wine tasting',
-    'sommelier',
-    'wine review',
-    'wine pairing'
+    'wine tasting notes',
+    'sommelier wine',
+    'wine review tasting',
+    'wine pairing food'
   ],
   'Wines by Region': [
     'French wine',
@@ -204,6 +204,19 @@ const TITLE_BLOCKLIST = [
   /\bhair\s*(color|dye|style|tutorial)/i,
   /\blips?\b.*\blike\b/i,
   /\blip\s*(liner|gloss|stick|shade|color|tint)/i,
+  /\bpaella\b/i,
+  /\bseafood\b/i,
+  /\bprotest(ors?|ers?)?\b/i,
+  /\boverdose/i,
+  /\bhospital\b/i,
+  /\bperfum/i,
+  /\benglish\s*(podcast|lesson|class|learn)/i,
+  /\bcook(s|ing|ed)?\s*(and|&)\s*(eat|eater)/i,
+  /\betiquette\b/i,
+  /\bmanners\b/i,
+  /\bpolitics\b/i,
+  /\btrump\b/i,
+  /\belection\b/i,
 ];
 
 const CHANNEL_BLOCKLIST = [];
