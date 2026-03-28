@@ -28,7 +28,7 @@ const WINE_CATEGORIES = {
     'wine trade',
     'wine market'
   ],
-  'Connoisseur & Tasting': [
+  'Tasting & Sommelier': [
     'wine tasting',
     'sommelier',
     'wine review',

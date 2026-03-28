@@ -4,7 +4,7 @@
 
 const WINE_CATEGORIES = [
   'Business & Trade',
-  'Connoisseur & Tasting',
+  'Tasting & Sommelier',
   'Wines by Region',
   'Grape Varieties',
   'Winemaking & Viticulture',

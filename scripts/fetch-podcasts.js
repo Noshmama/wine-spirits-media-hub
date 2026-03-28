@@ -14,10 +14,10 @@ const WINE_CATEGORIES = {
     'wine trade',
     'wine industry'
   ],
-  'Connoisseur & Tasting': [
+  'Tasting & Sommelier': [
     'wine tasting',
     'sommelier',
-    'wine connoisseur'
+    'wine review'
   ],
   'Wines by Region': [
     'wine regions',
