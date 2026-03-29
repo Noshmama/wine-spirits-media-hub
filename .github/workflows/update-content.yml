@@ -42,6 +42,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update YouTube video content [automated]"
+            git pull --rebase origin master
             git push
           fi
 
@@ -75,5 +76,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update podcast content [automated]"
+            git pull --rebase origin master
             git push
           fi
