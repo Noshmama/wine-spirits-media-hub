@@ -47,6 +47,7 @@ jobs:
           fi
 
   update-podcasts:
+    needs: update-youtube
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
