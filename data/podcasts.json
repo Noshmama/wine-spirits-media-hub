@@ -1,7 +1,351 @@
 {
-  "lastUpdated": "2026-04-01T09:44:33.929Z",
+  "lastUpdated": "2026-04-05T09:06:55.868Z",
   "totalPodcasts": 97,
   "podcasts": [
+    {
+      "name": "Hobby Talks",
+      "author": "Auralien, Domnin",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/32/a3/5732a39c-a48a-ae5a-3d3f-8c47e95174ec/mza_11593373211829255928.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "649 Preview: Нефть в Персидском заливе",
+          "pubDate": "Sun, 05 Apr 2026 09:31:06 +0200",
+          "duration": "1912",
+          "audioUrl": "https://hobbytalks.org/ht/hobbytalks649_preview.mp3"
+        },
+        {
+          "title": "648: Современная медицинская диагностика",
+          "pubDate": "Sun, 29 Mar 2026 19:30:59 +0200",
+          "duration": "4908",
+          "audioUrl": "https://hobbytalks.org/ht/hobbytalks648.mp3"
+        },
+        {
+          "title": "647: Сикхи",
+          "pubDate": "Sun, 22 Mar 2026 23:38:28 +0200",
+          "duration": "5078",
+          "audioUrl": "https://hobbytalks.org/ht/hobbytalks647.mp3"
+        },
+        {
+          "title": "646 Preview: Зороастризм",
+          "pubDate": "Sun, 15 Mar 2026 19:02:08 +0200",
+          "duration": "2089",
+          "audioUrl": "https://hobbytalks.org/ht/hobbytalks646_preview.mp3"
+        },
+        {
+          "title": "645: Пластики и полимеры",
+          "pubDate": "Sun, 08 Mar 2026 11:32:11 +0300",
+          "duration": "5229",
+          "audioUrl": "https://hobbytalks.org/ht/hobbytalks645.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "This Is TASTE",
+      "author": "Aliza Abarbanel & Matt Rodbard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/09/88/250988fe-95d4-418e-1ff3-fb8b0c44c7f5/mza_17208489922958381817.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "755: For the Semisecret Coffee Club in New York, Membership Has Its Perks.",
+          "pubDate": "Sat, 04 Apr 2026 07:00:00 -0000",
+          "duration": "3039",
+          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI8968647122.mp3?updated=1775223939"
+        },
+        {
+          "title": "754: The Brisket Champion Nobody Saw Coming with Erica Roby",
+          "pubDate": "Fri, 03 Apr 2026 07:00:00 -0000",
+          "duration": "2555",
+          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI8609781968.mp3?updated=1775067620"
+        },
+        {
+          "title": "753: On Eating and Not Eating with Amber Husain",
+          "pubDate": "Wed, 01 Apr 2026 07:00:00 -0000",
+          "duration": "4158",
+          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI7159447574.mp3?updated=1774971988"
+        },
+        {
+          "title": "752: Asha Loupy Is Here to Save Your Spice Drawer",
+          "pubDate": "Mon, 30 Mar 2026 07:00:00 -0000",
+          "duration": "3324",
+          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI1181321651.mp3?updated=1774791637"
+        },
+        {
+          "title": "751: Inside the Mind, and Shopping Cart, of a Food VC with Elly Truesdell",
+          "pubDate": "Fri, 27 Mar 2026 07:00:00 -0000",
+          "duration": "4965",
+          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI8096480708.mp3?updated=1774620943"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Wine Thirty with Andrew & Lindsey",
+      "author": "Nu Muse Collective",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/41/e0/1d41e052-2cb0-de50-17a9-a35e91dc2adf/mza_17010235858419566705.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Disneyland, WonderCon, & Interview w/the Cast of For All Mankind",
+          "pubDate": "Thu, 02 Apr 2026 20:41:00 GMT",
+          "duration": "00:42:11",
+          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/117925848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2Fe07aaeaa-43ab-cc04-0335-f50b36bb0e29.mp3"
+        },
+        {
+          "title": "Iran Headlines & Taylor Frankie Paul Controversy",
+          "pubDate": "Thu, 19 Mar 2026 17:04:00 GMT",
+          "duration": "01:00:58",
+          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/117275640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-21%2F2b44e012-f710-b834-55e3-1afb98abf155.mp3"
+        },
+        {
+          "title": "From Fantasy Cons to Real World Problems",
+          "pubDate": "Thu, 05 Mar 2026 08:03:00 GMT",
+          "duration": "00:55:22",
+          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/116986178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420099697-44100-2-fc97d4f535f73.m4a"
+        },
+        {
+          "title": "Cabernet, Colbert & Clickbait",
+          "pubDate": "Thu, 19 Feb 2026 17:59:00 GMT",
+          "duration": "00:51:18",
+          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/115959481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2Fe8e53e73-51a7-d753-9c5f-ad23c48c0305.mp3"
+        },
+        {
+          "title": "Ambition & Burn Out with Wellnite",
+          "pubDate": "Wed, 11 Feb 2026 18:35:00 GMT",
+          "duration": "01:05:00",
+          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/115669250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2Fda33350f-fa43-1ea6-1d3e-9c7fb90e9431.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Viti Daily –  Viticulture & Wine News",
+      "author": "Viti Daily",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/95/d7/8b95d726-a7d8-922d-2038-ed960cf95c27/mza_13509576391832856132.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Viti Daily - 3/4/26 - EU vs US Tariffs, Chitosan, Calcium’s Central Role, plus more!",
+          "pubDate": "Fri, 03 Apr 2026 04:29:00 +0900",
+          "duration": "353",
+          "audioUrl": "https://mcdn.podbean.com/mf/web/9unx9avs4t8u7erx/Viti_Daily_-_3_4_269d5sk.mp3"
+        },
+        {
+          "title": "Viti Daily - 2/4/26 - Fruit Shading, Yeast Lees, Cooked Fruit Aroma’s, plus more!",
+          "pubDate": "Thu, 02 Apr 2026 04:19:00 +0900",
+          "duration": "292",
+          "audioUrl": "https://mcdn.podbean.com/mf/web/icbg9y84xufx2kia/Viti_Daily_-_2_4_269pro7.mp3"
+        },
+        {
+          "title": "Viti Daily - 1/4/26 - Biochar Engineering, Silica Nanoparticles, Smoke Taint Translocation plus more!",
+          "pubDate": "Wed, 01 Apr 2026 04:13:00 +0900",
+          "duration": "357",
+          "audioUrl": "https://mcdn.podbean.com/mf/web/u472adnevahnvn38/Viti_Daily_-_1_4_26bo3fd.mp3"
+        },
+        {
+          "title": "Viti Daily - 31/3/26 - AgriRover, MLF Blocking, Yield Stability, plus more!",
+          "pubDate": "Tue, 31 Mar 2026 04:03:00 +0900",
+          "duration": "363",
+          "audioUrl": "https://mcdn.podbean.com/mf/web/6dfs97y839pc9j6b/Viti_Daily_-_31_3_266xknz.mp3"
+        },
+        {
+          "title": "Viti Daily - 30/3/26 - Old Vine Registry, Leaf Microbiome, Spontaneous Ferments, plus more!",
+          "pubDate": "Mon, 30 Mar 2026 04:05:00 +0900",
+          "duration": "398",
+          "audioUrl": "https://mcdn.podbean.com/mf/web/iwmsg99w7n2tk4de/Viti_Daily_-_30_3_26ayoyw.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Kjells vinkjeller",
+      "author": "Nettavisen og Bauer Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/f9/03/6ff90343-14d7-9bbb-d08a-264048e81089/mza_15136355612091183162.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Historisk sider fra Eidsvold",
+          "pubDate": "Thu, 02 Apr 2026 01:00:00 +0000",
+          "duration": "835",
+          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/b0557d28-7b3a-4fb3-9424-b41c014e1829/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
+        },
+        {
+          "title": "Hun er 23 og vinmarker",
+          "pubDate": "Tue, 31 Mar 2026 01:00:00 +0000",
+          "duration": "486",
+          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/6725337b-a58d-4375-a4a2-b401011e2fbc/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
+        },
+        {
+          "title": "O vestland, Odalsgut O",
+          "pubDate": "Thu, 26 Mar 2026 02:00:00 +0000",
+          "duration": "777",
+          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/5dec06a8-9ace-4c08-b87d-b418013ded70/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
+        },
+        {
+          "title": "Jeg har blitt ridder",
+          "pubDate": "Tue, 24 Mar 2026 02:00:00 +0000",
+          "duration": "621",
+          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/af7dcafe-fe87-407d-8ed5-b41600fb062f/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
+        },
+        {
+          "title": "Krangel i panelet",
+          "pubDate": "Tue, 17 Mar 2026 02:00:00 +0000",
+          "duration": "371",
+          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/1d4471e7-5bb9-432b-991a-b401011c2ec4/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Terroir & Adiletten - Der Weinpodcast",
+      "author": "Willi Schlögl, Curly & pleasure*",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/06/0b/6e060bae-2de7-a4e3-944e-3c17c8582a87/mza_8336933044520172988.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "209: Bordeaux Collectors - mit Marcel Ribis",
+          "pubDate": "Wed, 01 Apr 2026 22:00:00 +0000",
+          "duration": "6504",
+          "audioUrl": "https://audio.podigee-cdn.net/2433295-m-d7403733f0f398aeec94144f5abc4166.mp3?source=feed"
+        },
+        {
+          "title": "1: Behind Bars: Hemingways Liebling - mit Arash Ghassemi",
+          "pubDate": "Wed, 25 Mar 2026 23:00:00 +0000",
+          "duration": "5439",
+          "audioUrl": "https://audio.podigee-cdn.net/2419487-m-9079156556017924a13406f3a21730ad.mp3?source=feed"
+        },
+        {
+          "title": "208: Brennkessel Boss - mit Hans Reisetbauer",
+          "pubDate": "Wed, 18 Mar 2026 23:00:00 +0000",
+          "duration": "6666",
+          "audioUrl": "https://audio.podigee-cdn.net/2407251-m-444b34aadc8b9a39d5bb78616403c7e2.mp3?source=feed"
+        },
+        {
+          "title": "207: Behind the Green Door - mit Maria Gorbatschova",
+          "pubDate": "Wed, 11 Mar 2026 23:00:00 +0000",
+          "duration": "5344",
+          "audioUrl": "https://audio.podigee-cdn.net/2396365-m-4ca9c9dd5d9f88b6afa986dcb27bf90a.mp3?source=feed"
+        },
+        {
+          "title": "206: Fuck die Rebsorten - mit Michael & Johannes Moosbrugger",
+          "pubDate": "Wed, 04 Mar 2026 23:00:00 +0000",
+          "duration": "7846",
+          "audioUrl": "https://audio.podigee-cdn.net/2385356-m-2e29e8252e6217d2500548cb9a47bb6a.mp3?source=feed"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Got Somme : Master Sommelier's Wine Podcast",
+      "author": "SESSION in PROGRESS",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a9/3c/a8/a93ca8c3-b3be-db0a-43cc-82bbcfe568f5/mza_933604840742218364.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Cab Sav from Bordeaux or Rioja from Spain? Master Somm MUST choose!",
+          "pubDate": "Wed, 01 Apr 2026 14:53:00 GMT",
+          "duration": "00:07:53",
+          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/117775486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-1%2F421167074-44100-2-4e292ce772a71.mp3"
+        },
+        {
+          "title": "Burgundy Under $100? Meet Aligoté",
+          "pubDate": "Wed, 18 Mar 2026 14:51:00 GMT",
+          "duration": "00:11:53",
+          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/116980174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420091841-44100-2-ec07e36c8860b.mp3"
+        },
+        {
+          "title": "Can Carlos Guess Angus' FAVOURITE wine of ALL TIME!?",
+          "pubDate": "Wed, 11 Mar 2026 17:26:00 GMT",
+          "duration": "00:05:12",
+          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/115762195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418447047-44100-2-b9c594833d63.mp3"
+        },
+        {
+          "title": "We Risked $1,700 to Answer: Is Expensive Wine Worth It?",
+          "pubDate": "Wed, 04 Mar 2026 18:00:00 GMT",
+          "duration": "00:18:48",
+          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/116315121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F419183360-44100-2-804820d462e08.mp3"
+        },
+        {
+          "title": "The White Wine That Fooled a Master Sommelier",
+          "pubDate": "Wed, 25 Feb 2026 18:09:00 GMT",
+          "duration": "00:06:04",
+          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/115761664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418446279-44100-2-b0a1f78e2ac93.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "HR Wine Bar",
+      "author": "Amy Luckenbill and Jamie Mohrman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e0/fa/cfe0fa99-bbb2-4cdd-6c88-48a1b000d3e1/mza_1518181898664646441.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Ep. 9 - Safe From the Start: Orientation, Onboarding, and Optima",
+          "pubDate": "Wed, 01 Apr 2026 08:00:00 -0500",
+          "duration": "3820",
+          "audioUrl": "https://media.transistor.fm/f2b2a81f/21037a42.mp3"
+        },
+        {
+          "title": "Ep. 8 - HR Advocacy Day: Policy, Partnership, and Pecorino",
+          "pubDate": "Wed, 21 Jan 2026 15:03:04 -0600",
+          "duration": "3578",
+          "audioUrl": "https://media.transistor.fm/dd139594/0af09e25.mp3"
+        },
+        {
+          "title": "Ep. 7 - HR's PR Problem: Reputation, Reality, and Riesling ",
+          "pubDate": "Thu, 01 Jan 2026 19:41:06 -0600",
+          "duration": "3049",
+          "audioUrl": "https://media.transistor.fm/613b923f/8690eb3b.mp3"
+        },
+        {
+          "title": "Ep. 6 - Spill the Wine, but Not the Tea",
+          "pubDate": "Fri, 12 Dec 2025 06:43:46 -0600",
+          "duration": "2371",
+          "audioUrl": "https://media.transistor.fm/23766ad7/468a08bb.mp3"
+        },
+        {
+          "title": "Ep. 5 - I Forgot.doc: Records, Receipts, and Rosé",
+          "pubDate": "Fri, 12 Dec 2025 06:43:39 -0600",
+          "duration": "2663",
+          "audioUrl": "https://media.transistor.fm/7498b051/c410a32a.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
     {
       "name": "Wine Flash, il Podcast di WorldWinePassion.it",
       "author": "Augusto Gentilli",
@@ -132,49 +476,6 @@
       "beverageType": "wine"
     },
     {
-      "name": "This Is TASTE",
-      "author": "Aliza Abarbanel & Matt Rodbard",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/25/09/88/250988fe-95d4-418e-1ff3-fb8b0c44c7f5/mza_17208489922958381817.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "753: On Eating and Not Eating with Amber Husain",
-          "pubDate": "Wed, 01 Apr 2026 07:00:00 -0000",
-          "duration": "4158",
-          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI7159447574.mp3?updated=1774971988"
-        },
-        {
-          "title": "752: Asha Loupy Is Here to Save Your Spice Drawer",
-          "pubDate": "Mon, 30 Mar 2026 07:00:00 -0000",
-          "duration": "3324",
-          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI1181321651.mp3?updated=1774791637"
-        },
-        {
-          "title": "751: Inside the Mind, and Shopping Cart, of a Food VC with Elly Truesdell",
-          "pubDate": "Fri, 27 Mar 2026 07:00:00 -0000",
-          "duration": "4965",
-          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI8096480708.mp3?updated=1774620943"
-        },
-        {
-          "title": "750: Mariam Daud Gets Inspired By Her Mom and Miyazaki",
-          "pubDate": "Wed, 25 Mar 2026 07:00:00 -0000",
-          "duration": "2838",
-          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI2450034689.mp3?updated=1774375455"
-        },
-        {
-          "title": "749: Mariana Velásquez Throws the Perfect Dinner Party. You're Closer Than You Think.",
-          "pubDate": "Mon, 23 Mar 2026 07:00:00 -0000",
-          "duration": "3137",
-          "audioUrl": "https://clrtpod.com/m/pscrb.fm/rss/p/arttrk.com/p/2D5E6/mgln.ai/e/1246/traffic.megaphone.fm/THI8185323405.mp3?updated=1774196373"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
       "name": "Eat Live Love Train ®",
       "author": "Channon T. | Executive Chef & Certified Sommelier | Certified Wellness Coach",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9b/6c/da/9b6cda19-2f5c-cc40-f99e-ed3e30daaf47/mza_9403072971534599563.jpg/600x600bb.jpg",
@@ -185,10 +486,10 @@
       "regions": [],
       "episodes": [
         {
-          "title": "Why You’re Always --> Burnout",
+          "title": "Why You’re Always Tired --> Burnout",
           "pubDate": "Wed, 01 Apr 2026 01:00:00 -0500",
           "duration": "1293",
-          "audioUrl": "https://www.buzzsprout.com/889846/episodes/18942262-why-you-re-always-burnout.mp3"
+          "audioUrl": "https://www.buzzsprout.com/889846/episodes/18942262-why-you-re-always-tired-burnout.mp3"
         },
         {
           "title": "Just Because > Not Hustle Culture ",
@@ -213,49 +514,6 @@
           "pubDate": "Mon, 01 Dec 2025 01:00:00 -0600",
           "duration": "967",
           "audioUrl": "https://www.buzzsprout.com/889846/episodes/18289349-decompress-stress-part-2-holiday-travel.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "Viti Daily –  Viticulture & Wine News",
-      "author": "Viti Daily",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/95/d7/8b95d726-a7d8-922d-2038-ed960cf95c27/mza_13509576391832856132.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Viti Daily - 1/4/26 - Biochar Engineering, Silica Nanoparticles, Smoke Taint Translocation plus more!",
-          "pubDate": "Wed, 01 Apr 2026 04:13:00 +0900",
-          "duration": "357",
-          "audioUrl": "https://mcdn.podbean.com/mf/web/u472adnevahnvn38/Viti_Daily_-_1_4_26bo3fd.mp3"
-        },
-        {
-          "title": "Viti Daily - 31/3/26 - AgriRover, MLF Blocking, Yield Stability, plus more!",
-          "pubDate": "Tue, 31 Mar 2026 04:03:00 +0900",
-          "duration": "363",
-          "audioUrl": "https://mcdn.podbean.com/mf/web/6dfs97y839pc9j6b/Viti_Daily_-_31_3_266xknz.mp3"
-        },
-        {
-          "title": "Viti Daily - 30/3/26 - Old Vine Registry, Leaf Microbiome, Spontaneous Ferments, plus more!",
-          "pubDate": "Mon, 30 Mar 2026 04:05:00 +0900",
-          "duration": "398",
-          "audioUrl": "https://mcdn.podbean.com/mf/web/iwmsg99w7n2tk4de/Viti_Daily_-_30_3_26ayoyw.mp3"
-        },
-        {
-          "title": "Viti Daily - 27/3/26 - Asti Rose, Bunch Thinning, Summer Pruning, plus more!",
-          "pubDate": "Fri, 27 Mar 2026 04:01:00 +0900",
-          "duration": "367",
-          "audioUrl": "https://mcdn.podbean.com/mf/web/nus2fz4c3y7ymurw/Viti_Daily_-_27_3_2684isq.mp3"
-        },
-        {
-          "title": "Viti Daily - 26/3/26 - Aussie & EU FTA, Multi Cordons, Powdery Mildew Suppression, plus more!",
-          "pubDate": "Thu, 26 Mar 2026 04:03:00 +0900",
-          "duration": "366",
-          "audioUrl": "https://mcdn.podbean.com/mf/web/whbj5hgevakah8qn/Viti_Daily_-_26_3_2660au6.mp3"
         }
       ],
       "beverageType": "wine"
@@ -390,49 +648,6 @@
       "beverageType": "wine"
     },
     {
-      "name": "Kjells vinkjeller",
-      "author": "Nettavisen og Bauer Media",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/f9/03/6ff90343-14d7-9bbb-d08a-264048e81089/mza_15136355612091183162.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Hun er 23 og vinmarker",
-          "pubDate": "Tue, 31 Mar 2026 01:00:00 +0000",
-          "duration": "486",
-          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/6725337b-a58d-4375-a4a2-b401011e2fbc/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
-        },
-        {
-          "title": "O vestland, Odalsgut O",
-          "pubDate": "Thu, 26 Mar 2026 02:00:00 +0000",
-          "duration": "777",
-          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/5dec06a8-9ace-4c08-b87d-b418013ded70/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
-        },
-        {
-          "title": "Jeg har blitt ridder",
-          "pubDate": "Tue, 24 Mar 2026 02:00:00 +0000",
-          "duration": "621",
-          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/af7dcafe-fe87-407d-8ed5-b41600fb062f/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
-        },
-        {
-          "title": "Krangel i panelet",
-          "pubDate": "Tue, 17 Mar 2026 02:00:00 +0000",
-          "duration": "371",
-          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/1d4471e7-5bb9-432b-991a-b401011c2ec4/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
-        },
-        {
-          "title": "Georgisk spenstvin",
-          "pubDate": "Thu, 12 Mar 2026 02:00:00 +0000",
-          "duration": "548",
-          "audioUrl": "https://traffic.omny.fm/d/clips/b879ead7-5fbb-4c64-bede-b13801013ca4/58fe20b2-57b4-4e78-a39c-b15500e1f0d1/fa0e4732-7ea6-4a6c-8ea6-b401011ce59f/audio.mp3?utm_source=Podcast&in_playlist=3dc3c9a3-ef02-42f1-9f24-b15500e1f0ed"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
       "name": "Drinking During Business Hours with Sarah Halstead and Rich Chassler | Where comedy & fine wine meet!",
       "author": "Sarah Halstead",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/09/bf/4a09bf96-76ab-3462-1105-081d8c2ab617/mza_6466542237015672820.jpg/600x600bb.jpg",
@@ -486,7 +701,7 @@
       "regions": [],
       "episodes": [
         {
-          "title": "Ep 255 - Vittoria Wine Region, Sicily - Organic Wine, Indigenous Grapes & Sicilian Wine Travel",
+          "title": "Ep 255 - Vittoria Wine Region, Sicily - Organic Wine, Indigenous Grapes & Sicilian Wine Travel with Stefano Girelli of Santa Tresa",
           "pubDate": "Mon, 30 Mar 2026 17:00:00 +0100",
           "duration": "3764",
           "audioUrl": "https://mcdn.podbean.com/mf/web/qjwjk6rje55w8kq6/ESWR_Episode_255.mp3"
@@ -557,49 +772,6 @@
           "pubDate": "Mon, 19 Jan 2026 08:00:00 -0500",
           "duration": "742",
           "audioUrl": "https://www.buzzsprout.com/1887049/episodes/18521392-greece-reasons-for-retsina.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "Hobby Talks",
-      "author": "Auralien, Domnin",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/32/a3/5732a39c-a48a-ae5a-3d3f-8c47e95174ec/mza_11593373211829255928.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "648: Современная медицинская диагностика",
-          "pubDate": "Sun, 29 Mar 2026 19:30:59 +0200",
-          "duration": "4908",
-          "audioUrl": "https://hobbytalks.org/ht/hobbytalks648.mp3"
-        },
-        {
-          "title": "647: Сикхи",
-          "pubDate": "Sun, 22 Mar 2026 23:38:28 +0200",
-          "duration": "5078",
-          "audioUrl": "https://hobbytalks.org/ht/hobbytalks647.mp3"
-        },
-        {
-          "title": "646 Preview: Зороастризм",
-          "pubDate": "Sun, 15 Mar 2026 19:02:08 +0200",
-          "duration": "2089",
-          "audioUrl": "https://hobbytalks.org/ht/hobbytalks646_preview.mp3"
-        },
-        {
-          "title": "645: Пластики и полимеры",
-          "pubDate": "Sun, 08 Mar 2026 11:32:11 +0300",
-          "duration": "5229",
-          "audioUrl": "https://hobbytalks.org/ht/hobbytalks645.mp3"
-        },
-        {
-          "title": "644: Американские религиозные общины",
-          "pubDate": "Sun, 01 Mar 2026 14:37:37 +0200",
-          "duration": "6589",
-          "audioUrl": "https://hobbytalks.org/ht/hobbytalks644.mp3"
         }
       ],
       "beverageType": "wine"
@@ -906,49 +1078,6 @@
       "beverageType": "wine"
     },
     {
-      "name": "Terroir & Adiletten - Der Weinpodcast",
-      "author": "Willi Schlögl, Curly & pleasure*",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/06/0b/6e060bae-2de7-a4e3-944e-3c17c8582a87/mza_8336933044520172988.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "1: Behind Bars: Hemingways Liebling - mit Arash Ghassemi",
-          "pubDate": "Wed, 25 Mar 2026 23:00:00 +0000",
-          "duration": "5439",
-          "audioUrl": "https://audio.podigee-cdn.net/2419487-m-9079156556017924a13406f3a21730ad.mp3?source=feed"
-        },
-        {
-          "title": "208: Brennkessel Boss - mit Hans Reisetbauer",
-          "pubDate": "Wed, 18 Mar 2026 23:00:00 +0000",
-          "duration": "6666",
-          "audioUrl": "https://audio.podigee-cdn.net/2407251-m-444b34aadc8b9a39d5bb78616403c7e2.mp3?source=feed"
-        },
-        {
-          "title": "207: Behind the Green Door - mit Maria Gorbatschova",
-          "pubDate": "Wed, 11 Mar 2026 23:00:00 +0000",
-          "duration": "5344",
-          "audioUrl": "https://audio.podigee-cdn.net/2396365-m-4ca9c9dd5d9f88b6afa986dcb27bf90a.mp3?source=feed"
-        },
-        {
-          "title": "206: Fuck die Rebsorten - mit Michael & Johannes Moosbrugger",
-          "pubDate": "Wed, 04 Mar 2026 23:00:00 +0000",
-          "duration": "7846",
-          "audioUrl": "https://audio.podigee-cdn.net/2385356-m-2e29e8252e6217d2500548cb9a47bb6a.mp3?source=feed"
-        },
-        {
-          "title": "205: Warum die Wein-Bubble ein Update braucht - mit Hanna und Ronja",
-          "pubDate": "Wed, 25 Feb 2026 23:00:00 +0000",
-          "duration": "6090",
-          "audioUrl": "https://audio.podigee-cdn.net/2374240-m-7bc151717d3044f5cdc22d62ebb74a23.mp3?source=feed"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
       "name": "No Sediment Wine Podcast",
       "author": "No Sediment",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/58/66/7f/58667f31-d2ad-071b-0de4-e12fd2c4c1b0/mza_10297214360362263409.jpg/600x600bb.jpg",
@@ -1164,49 +1293,6 @@
       "beverageType": "wine"
     },
     {
-      "name": "Wine Thirty with Andrew & Lindsey",
-      "author": "Nu Muse Collective",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6e/c5/64/6ec564af-08a8-1f8f-57e9-86987a5ef3e4/mza_3215149569839944634.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Iran Headlines & Taylor Frankie Paul Controversy",
-          "pubDate": "Thu, 19 Mar 2026 17:04:00 GMT",
-          "duration": "01:00:58",
-          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/117275640/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-21%2F2b44e012-f710-b834-55e3-1afb98abf155.mp3"
-        },
-        {
-          "title": "From Fantasy Cons to Real World Problems",
-          "pubDate": "Thu, 05 Mar 2026 08:03:00 GMT",
-          "duration": "00:55:22",
-          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/116986178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420099697-44100-2-fc97d4f535f73.m4a"
-        },
-        {
-          "title": "Cabernet, Colbert & Clickbait",
-          "pubDate": "Thu, 19 Feb 2026 17:59:00 GMT",
-          "duration": "00:51:18",
-          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/115959481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2Fe8e53e73-51a7-d753-9c5f-ad23c48c0305.mp3"
-        },
-        {
-          "title": "Ambition & Burn Out with Wellnite",
-          "pubDate": "Wed, 11 Feb 2026 18:35:00 GMT",
-          "duration": "01:05:00",
-          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/115669250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2Fda33350f-fa43-1ea6-1d3e-9c7fb90e9431.mp3"
-        },
-        {
-          "title": "Listener Questions Are Back!",
-          "pubDate": "Thu, 22 Jan 2026 19:20:00 GMT",
-          "duration": "00:53:58",
-          "audioUrl": "https://anchor.fm/s/fb971034/podcast/play/114670178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-28%2F555e767d-6c0f-61bb-ba7c-da0ee31e719b.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
       "name": "Inside Wine Podcast",
       "author": "Joe Janish",
       "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/44/13/ff441376-e42a-3a5f-538f-158ea4d148e1/mza_3625138429100800212.jpg/600x600bb.jpg",
@@ -1245,49 +1331,6 @@
           "pubDate": "Fri, 31 May 2024 21:06:00 +0000",
           "duration": "32:58",
           "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/insidewine/033-IWP-AurelioMontes-2.mp3?dest-id=1565006"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "Got Somme : Master Sommelier's Wine Podcast",
-      "author": "SESSION in PROGRESS",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/a9/3c/a8/a93ca8c3-b3be-db0a-43cc-82bbcfe568f5/mza_933604840742218364.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Burgundy Under $100? Meet Aligoté",
-          "pubDate": "Wed, 18 Mar 2026 14:51:00 GMT",
-          "duration": "00:11:53",
-          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/116980174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F420091841-44100-2-ec07e36c8860b.mp3"
-        },
-        {
-          "title": "Can Carlos Guess Angus' FAVOURITE wine of ALL TIME!?",
-          "pubDate": "Wed, 11 Mar 2026 17:26:00 GMT",
-          "duration": "00:05:12",
-          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/115762195/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418447047-44100-2-b9c594833d63.mp3"
-        },
-        {
-          "title": "We Risked $1,700 to Answer: Is Expensive Wine Worth It?",
-          "pubDate": "Wed, 04 Mar 2026 18:00:00 GMT",
-          "duration": "00:18:48",
-          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/116315121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F419183360-44100-2-804820d462e08.mp3"
-        },
-        {
-          "title": "The White Wine That Fooled a Master Sommelier",
-          "pubDate": "Wed, 25 Feb 2026 18:09:00 GMT",
-          "duration": "00:06:04",
-          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/115761664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-19%2F418446279-44100-2-b0a1f78e2ac93.mp3"
-        },
-        {
-          "title": "We spent over $1,000,000 on wine!",
-          "pubDate": "Wed, 18 Feb 2026 13:17:00 GMT",
-          "duration": "00:24:03",
-          "audioUrl": "https://anchor.fm/s/10e234218/podcast/play/115664324/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F418315413-44100-2-4fda501ccd2f1.mp3"
         }
       ],
       "beverageType": "wine"
@@ -1346,12 +1389,6 @@
       "regions": [],
       "episodes": [
         {
-          "title": "214: Patrick Riggs - Jack Neal & Son Vineyard Managment",
-          "pubDate": "Tue, 17 Mar 2026 09:00:00 +0000",
-          "duration": null,
-          "audioUrl": null
-        },
-        {
           "title": "213: James Molesworth - Wine Spectator",
           "pubDate": "Tue, 17 Mar 2026 08:00:00 +0000",
           "duration": "01:13:11",
@@ -1374,6 +1411,12 @@
           "pubDate": "Thu, 15 Jan 2026 09:00:00 +0000",
           "duration": "01:10:31",
           "audioUrl": "https://traffic.libsyn.com/secure/insidewinemaking/210_Tommaso_Martignon.mp3?dest-id=208658"
+        },
+        {
+          "title": "209: Andrea Card - Francis Ford Coppola Winery",
+          "pubDate": "Tue, 23 Dec 2025 16:30:00 +0000",
+          "duration": "54:07",
+          "audioUrl": "https://traffic.libsyn.com/secure/insidewinemaking/209_Andrea_Card_-_Francis_Ford_Coppola_Winery.mp3?dest-id=208658"
         }
       ],
       "beverageType": "wine"
@@ -1505,49 +1548,6 @@
           "pubDate": "Wed, 07 Jan 2026 00:00:00 +0100",
           "duration": "785",
           "audioUrl": "https://audio.audiomeans.fr/guid/RglDtmNoeo/7a51bf99-8d4e-486c-b1b9-f8d4cebc9ddf/4cc81c78e1ba3159f0460d6be91da5fdac515354bfa39b317677fc78fb96502b.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "Fine Wine Confidential Podcast",
-      "author": "Fred Reno",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/62/9c/3f/629c3f48-125c-421e-ee80-bb8350619472/mza_12236001004921193126.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "EPISODE #11 CALIFORNIA SENATE SELECT COMMITTEE TESTIMONY ",
-          "pubDate": "Tue, 03 Mar 2026 11:00:00 -0500",
-          "duration": "521",
-          "audioUrl": "https://www.buzzsprout.com/1178228/episodes/18769293-episode-11-california-senate-select-committee-testimony.mp3"
-        },
-        {
-          "title": "EPISODE #10 WINERY FOUNDERS MOST OFTEN ARE NOT THE BRILLIANT BUSINESS FOLKS THEY LOOK TO BE",
-          "pubDate": "Mon, 29 Dec 2025 11:00:00 -0500",
-          "duration": "476",
-          "audioUrl": "https://www.buzzsprout.com/1178228/episodes/18419507-episode-10-winery-founders-most-often-are-not-the-brilliant-business-folks-they-look-to-be.mp3"
-        },
-        {
-          "title": "EPISODE #9 THE FRANK PRIAL ESCAPADE vs WILLIAM HILL WINERY",
-          "pubDate": "Mon, 24 Nov 2025 19:00:00 -0500",
-          "duration": "443",
-          "audioUrl": "https://www.buzzsprout.com/1178228/episodes/18224593-episode-9-the-frank-prial-escapade-vs-william-hill-winery.mp3"
-        },
-        {
-          "title": "EPISODE # 8 WINE BUSINESS IS A TRAILING ECONOMIC INDICATOR",
-          "pubDate": "Mon, 10 Nov 2025 11:00:00 -0500",
-          "duration": "267",
-          "audioUrl": "https://www.buzzsprout.com/1178228/episodes/18155405-episode-8-wine-business-is-a-trailing-economic-indicator.mp3"
-        },
-        {
-          "title": "EPISODE #7 FRANCHISE LAW PART 2",
-          "pubDate": "Wed, 22 Oct 2025 11:00:00 -0400",
-          "duration": "442",
-          "audioUrl": "https://www.buzzsprout.com/1178228/episodes/18032933-episode-7-franchise-law-part-2.mp3"
         }
       ],
       "beverageType": "wine"
@@ -1886,49 +1886,6 @@
           "pubDate": "Tue, 02 Dec 2025 02:00:00 -0600",
           "duration": "2103",
           "audioUrl": "https://www.buzzsprout.com/2417779/episodes/18279936-yes-hybrid-grapes-do-make-good-wine-with-dancing-dragonfly.mp3"
-        }
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "name": "HR Wine Bar",
-      "author": "Amy Luckenbill and Jamie Mohrman",
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/e0/fa/cfe0fa99-bbb2-4cdd-6c88-48a1b000d3e1/mza_1518181898664646441.jpg/600x600bb.jpg",
-      "description": "",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "episodes": [
-        {
-          "title": "Ep. 8 - HR Advocacy Day: Policy, Partnership, and Pecorino",
-          "pubDate": "Wed, 21 Jan 2026 15:03:04 -0600",
-          "duration": "3578",
-          "audioUrl": "https://media.transistor.fm/dd139594/0af09e25.mp3"
-        },
-        {
-          "title": "Ep. 7 - HR's PR Problem: Reputation, Reality, and Riesling ",
-          "pubDate": "Thu, 01 Jan 2026 19:41:06 -0600",
-          "duration": "3049",
-          "audioUrl": "https://media.transistor.fm/613b923f/8690eb3b.mp3"
-        },
-        {
-          "title": "Ep. 6 - Spill the Wine, but Not the Tea",
-          "pubDate": "Fri, 12 Dec 2025 06:43:46 -0600",
-          "duration": "2371",
-          "audioUrl": "https://media.transistor.fm/23766ad7/468a08bb.mp3"
-        },
-        {
-          "title": "Ep. 5 - I Forgot.doc: Records, Receipts, and Rosé",
-          "pubDate": "Fri, 12 Dec 2025 06:43:39 -0600",
-          "duration": "2663",
-          "audioUrl": "https://media.transistor.fm/7498b051/c410a32a.mp3"
-        },
-        {
-          "title": "Ep. 4 - Handbook Hangover: People, Policy, and Prosecco",
-          "pubDate": "Fri, 12 Dec 2025 06:43:28 -0600",
-          "duration": "2921",
-          "audioUrl": "https://media.transistor.fm/9c56f8e0/bbb548b1.mp3"
         }
       ],
       "beverageType": "wine"
@@ -2532,6 +2489,49 @@
           "pubDate": "Wed, 19 Jul 2023 14:39:36 +0000",
           "duration": "943",
           "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56155138/ep_4_en.mp3"
+        }
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "name": "Winemaking Experiences by Enartis (versione italiana)",
+      "author": "Enartis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/81/1c/81811cae-0d6a-876a-e14d-d629c22f373e/mza_10662803048097992697.jpg/600x600bb.jpg",
+      "description": "",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "episodes": [
+        {
+          "title": "Lieviti non-Saccharomyces: il futuro dell’enologia con Italiana Biotecnologie",
+          "pubDate": "Thu, 31 Jul 2025 05:00:10 +0000",
+          "duration": "1602",
+          "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67187322/enartis_podcast_2x04_it.mp3"
+        },
+        {
+          "title": "Rivoluzione del processo di vinificazione con il monitoraggio intelligente con Winegrid",
+          "pubDate": "Thu, 12 Jun 2025 04:00:07 +0000",
+          "duration": "1278",
+          "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66506944/enartis_podcast_2x03_winegrid_14_05.mp3"
+        },
+        {
+          "title": "Digitalizzazione del settore vitivinicolo con Wine Luthier",
+          "pubDate": "Thu, 29 May 2025 04:00:08 +0000",
+          "duration": "1148",
+          "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66312185/enartis_podcast_2x02_it_08_05.mp3"
+        },
+        {
+          "title": "Sostenibilità nella produzione di vino con Unione Italiana Vini",
+          "pubDate": "Thu, 15 May 2025 04:00:07 +0000",
+          "duration": "1836",
+          "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/66085921/fa_enartis_podcast_2x01_uiv.mp3"
+        },
+        {
+          "title": "La chiarifica del vino: un processo in continua evoluzione",
+          "pubDate": "Wed, 19 Jul 2023 14:41:50 +0000",
+          "duration": "1485",
+          "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/56155232/ep_4_it.mp3"
         }
       ],
       "beverageType": "wine"
