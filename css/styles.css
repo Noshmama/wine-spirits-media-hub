@@ -230,6 +230,7 @@ body {
   width: 150px;
   height: 150px;
   object-fit: cover;
+  object-position: center 20%;
   border-radius: 50%;
   flex-shrink: 0;
   border: 3px solid var(--burgundy);
