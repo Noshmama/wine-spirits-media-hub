@@ -1,17 +1,2927 @@
 [
   {
-    "channelId": "UCKjwNd3U9DQW0CHTLG9sw-Q",
-    "channelTitle": "MoJo Whiskey Bar",
-    "lastSeen": "2026-08-26T09:09:28.475Z"
-  },
-  {
     "channelId": "UCUCfslA1d7-ddlhQuY71jjQ",
     "channelTitle": "Hearts 'n Tales",
-    "lastSeen": "2026-08-26T09:09:28.475Z"
+    "lastSeen": "2026-08-30T13:53:55.844Z"
+  },
+  {
+    "channelId": "UCwTPzJBQgwXXg6OlWbdgm_w",
+    "channelTitle": "Standard Bank Group",
+    "lastSeen": "2026-08-30T13:53:55.844Z"
+  },
+  {
+    "channelId": "UCi-Q0nJ3ZSWJ5VTLwQBugUA",
+    "channelTitle": "Liquid Legacy",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCIHoGzlF6IZxhISF34dbmXQ",
+    "channelTitle": "Seven Three Distilling Co.",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCFDWzpDXp9pvfRiZGPUGXXw",
+    "channelTitle": "Seaway Whisky Wire",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCo78ETubA2dbB0swPKQs4tQ",
+    "channelTitle": "Glacier Distilling Company",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCdyaQPv6k0k3RMzT95ABM8g",
+    "channelTitle": "Silent Drama Stories",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCGjzN2ttNXiLpfwOGlDdGCA",
+    "channelTitle": "Ballast Point Brewing Company",
+    "lastSeen": "2026-08-30T13:53:55.843Z"
+  },
+  {
+    "channelId": "UCP3XNGe4Nlwh9WrVJaZkb4g",
+    "channelTitle": "Torsten Horn",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCnCE0-pPZuit8aud1l9rhkA",
+    "channelTitle": "Whisky.com",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCrRaqu5zvjZQB0HpzJyjoqA",
+    "channelTitle": "Boozy Blondes",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCGrC-Ojdn-kHHHTheqmqt2w",
+    "channelTitle": "A&M Roam",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UClZM8wabzf4lwtNIKPIcT9w",
+    "channelTitle": "Malt Mariners - Whisky Roads",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCB2KT2iZX5f3AbuIA4rR23g",
+    "channelTitle": "Alles over gin.",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCSkThnUUHxJXqDbfLb75WZg",
+    "channelTitle": "Ireland Diaries",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCxBAQ2xoAhI3DcQPVCKajng",
+    "channelTitle": "POV Trips",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UCbG2L4NOMdEb-xH_hfFFJdg",
+    "channelTitle": "McFamily Vibes",
+    "lastSeen": "2026-08-30T13:53:55.481Z"
+  },
+  {
+    "channelId": "UC3-Zu7Z5gdmaLQ9qgfFbROg",
+    "channelTitle": "Walking Bliss",
+    "lastSeen": "2026-08-30T13:53:55.134Z"
+  },
+  {
+    "channelId": "UCdqBRoWph4-ygGTfkaSpBHw",
+    "channelTitle": "COCKTAIL CHANNEL | Coquetelaria, Whisky e Receitas",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCLCGJuD1aRUma-UOizmKqIQ",
+    "channelTitle": "Cachaça Seleta",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCZZQbPd3Ng9yZPg6_8hSDXA",
+    "channelTitle": "Gui Rial",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCItJeHdWU8rKAI4xN33KwfA",
+    "channelTitle": "Nárnia Drink's PF",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCjqXVSaiVAIod0QYUTnK6Fw",
+    "channelTitle": "Kitchen Catalog",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCfJF_OQAG9OBHH0bCKtmSiQ",
+    "channelTitle": "Barman santos higo _ drinks e caipirinha ",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCraSt9gulKCP-t0_pu_rKXg",
+    "channelTitle": "FrankieTheItalian",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UCEg6tyYxfQa1XcOw3PWRZ2Q",
+    "channelTitle": "Marcasur",
+    "lastSeen": "2026-08-30T13:53:54.821Z"
+  },
+  {
+    "channelId": "UChMxIjugFXlc2AMYeLGi0Tw",
+    "channelTitle": "Into the Barchive",
+    "lastSeen": "2026-08-30T13:53:54.458Z"
+  },
+  {
+    "channelId": "UCbWf2whYTFWswWzCcbKGEqQ",
+    "channelTitle": "Gringo Jacinho",
+    "lastSeen": "2026-08-30T13:53:54.458Z"
+  },
+  {
+    "channelId": "UCGHSSuiWaS8U9ZJpm3S5pXA",
+    "channelTitle": "Marcelo",
+    "lastSeen": "2026-08-30T13:53:54.458Z"
+  },
+  {
+    "channelId": "UCzo6AD0twIi-M0mHhiP4MSw",
+    "channelTitle": "BraziTaste",
+    "lastSeen": "2026-08-30T13:53:54.457Z"
+  },
+  {
+    "channelId": "UCFTaps0aLSi_zPKTtY33WRg",
+    "channelTitle": "Jornal A Fonte de Jacutinga Oficial ",
+    "lastSeen": "2026-08-30T13:53:54.457Z"
+  },
+  {
+    "channelId": "UCtG0jlrkGURzTjxb00qj-UA",
+    "channelTitle": "Brazil Dark Country-8",
+    "lastSeen": "2026-08-30T13:53:54.457Z"
+  },
+  {
+    "channelId": "UCsya0XpaCrcyb9cZV75mMyg",
+    "channelTitle": "Sarah Caroline",
+    "lastSeen": "2026-08-30T13:53:54.457Z"
+  },
+  {
+    "channelId": "UCh7FlyQYt--5fx_0ydcqfGQ",
+    "channelTitle": "jacobjonesMONEY",
+    "lastSeen": "2026-08-30T13:53:54.123Z"
+  },
+  {
+    "channelId": "UC0qnNQle0uEXco1az_9HWHg",
+    "channelTitle": "Bunnie's Kitchen",
+    "lastSeen": "2026-08-30T13:53:54.123Z"
+  },
+  {
+    "channelId": "UCrWh2KtU-i_pnFjwYPcxGMw",
+    "channelTitle": "The Barbershop Duet",
+    "lastSeen": "2026-08-30T13:53:54.123Z"
+  },
+  {
+    "channelId": "UCWPjAyQo-0LuEOe14h9HFEA",
+    "channelTitle": "Destilados Brasil",
+    "lastSeen": "2026-08-30T13:53:54.123Z"
+  },
+  {
+    "channelId": "UCB2BATQ2gyk_SHuRhg0OcfA",
+    "channelTitle": "meiaum2",
+    "lastSeen": "2026-08-30T13:53:54.123Z"
+  },
+  {
+    "channelId": "UCeVhmon7Q5bUYL5aDCLSSKg",
+    "channelTitle": "Marcel | Só Cachaças",
+    "lastSeen": "2026-08-30T13:53:54.122Z"
+  },
+  {
+    "channelId": "UCCnWainoXfXVpFq59j5aFPw",
+    "channelTitle": "Marcia Michelle UGC CREATOR ",
+    "lastSeen": "2026-08-30T13:53:54.122Z"
+  },
+  {
+    "channelId": "UCMnPSlKNd_2ajq1JHCRmIhQ",
+    "channelTitle": "Tasting Tequila with Brad",
+    "lastSeen": "2026-08-30T13:53:53.813Z"
+  },
+  {
+    "channelId": "UCs6RimUTMXTmE5kMkf45mlA",
+    "channelTitle": "Ninnja Cortes",
+    "lastSeen": "2026-08-30T13:53:53.813Z"
+  },
+  {
+    "channelId": "UCelzy3CqVXPFZbPmoDDCTfA",
+    "channelTitle": "Zavu",
+    "lastSeen": "2026-08-30T13:53:53.813Z"
+  },
+  {
+    "channelId": "UCVkOMWa7R9rjGh_pAeOMagw",
+    "channelTitle": "Cachaçaria SP",
+    "lastSeen": "2026-08-30T13:53:53.813Z"
+  },
+  {
+    "channelId": "UCiOGh0zPBbQbNluUNFatzOQ",
+    "channelTitle": "Gustavo Beer",
+    "lastSeen": "2026-08-30T13:53:53.813Z"
+  },
+  {
+    "channelId": "UCigfdFvqQE6IY_NIlaef8kw",
+    "channelTitle": "TE VEJO AQUI by Zequinha Santos",
+    "lastSeen": "2026-08-30T13:53:53.812Z"
+  },
+  {
+    "channelId": "UC7-bWYtnROnwiL9wW5GJlWg",
+    "channelTitle": "ChrisTender",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UC9ln-iq2TxVl3M8fiux3d_A",
+    "channelTitle": "Flair Behind The Bar",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UCPV_jSGguHTweAenSa3NSYQ",
+    "channelTitle": "Nic Hamilton",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UCZGQOB0VHgcP3poqSzj_X3w",
+    "channelTitle": "Booze On The Rocks",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UCriVmIWu3rtMq4vgtrp1Mog",
+    "channelTitle": "Railz Hospitality",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UCXee_XwM6exsPmEygH4XoLQ",
+    "channelTitle": "Mom Said Yes Pizza Torrance",
+    "lastSeen": "2026-08-30T13:53:53.487Z"
+  },
+  {
+    "channelId": "UCHX8maRsaTGiQiymlUlxY3Q",
+    "channelTitle": "The 6ix Saigon",
+    "lastSeen": "2026-08-30T13:53:53.486Z"
+  },
+  {
+    "channelId": "UCYwt4owMZ6rqJk-bQcqII5A",
+    "channelTitle": "Dragon Duo",
+    "lastSeen": "2026-08-30T13:53:53.486Z"
+  },
+  {
+    "channelId": "UC_hRQLgQRttAds1PxAFVEZg",
+    "channelTitle": "Shaikh Yasmeen",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCEthKXa2cgZboN5EJRpz8eQ",
+    "channelTitle": "aiknowledgehub",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCA5IK1nOjKL7sxjw667NPBg",
+    "channelTitle": "Debasis Patra ",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCQj5ZLbASNO1elPruripPCA",
+    "channelTitle": "Sujit Pandit ",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCeyCeMEomuFoL7Zzz6KFJ2A",
+    "channelTitle": "ThatGuyDylan",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCtQ5dBRlivDBBFQlvg7mN1A",
+    "channelTitle": "Zelda Vtube",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCUXKg84aq3m2DxSe1k8Ff2g",
+    "channelTitle": "Mój Bar",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCylKsPy1DWfnpci1r66fpJw",
+    "channelTitle": "Beyond The Plate with Carol",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCTxxNW--NgwqpvyOKjucH_g",
+    "channelTitle": "CINEMILLS TV",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCdgxsrov6fC9fKiuwOKG4Wg",
+    "channelTitle": "KrakWithaK",
+    "lastSeen": "2026-08-30T13:53:53.156Z"
+  },
+  {
+    "channelId": "UCcwCQ3gA9Rwnnzm9UVPfNlg",
+    "channelTitle": "Drink Master",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCdHpxflP95JN-4SPBtgleUQ",
+    "channelTitle": "Anup's Uncorked",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UC46cQc5prnWXP3d4jq7KfcA",
+    "channelTitle": "Sipyra",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UC0EQLH5fiVdo70hPX-FY_Jw",
+    "channelTitle": "@Royal Jasmine Techs 👑",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCZM_hIGa5eZ0l6N4uQrD0-w",
+    "channelTitle": "K-Sippy",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCovb9kcaO5ySFHdJRAj-0kQ",
+    "channelTitle": "Duo💀",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCxOcqFFznINVK0ufL5OdhMg",
+    "channelTitle": "Vandalyre",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCusqSn7dZj5jSn0B88jmLeg",
+    "channelTitle": "Iannovich",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCVPdjZAdlvO_GahWpLOdUjw",
+    "channelTitle": "PhilNice Creative",
+    "lastSeen": "2026-08-30T13:53:52.881Z"
+  },
+  {
+    "channelId": "UCuyRsHZILrU7ZDIAbGASHdA",
+    "channelTitle": "ThePrint",
+    "lastSeen": "2026-08-30T13:53:52.528Z"
+  },
+  {
+    "channelId": "UCoAY0nCPr35617YQa4B7NJQ",
+    "channelTitle": "SHIV SHAKTI MACHTECH",
+    "lastSeen": "2026-08-30T13:53:52.527Z"
+  },
+  {
+    "channelId": "UCNJKWm0m4hN3ESct93e_hkQ",
+    "channelTitle": "Pinkesh Srivastava",
+    "lastSeen": "2026-08-30T13:53:52.527Z"
+  },
+  {
+    "channelId": "UCqZMxo34YJGWD3Ibt785H5Q",
+    "channelTitle": "Gowtham Kumar",
+    "lastSeen": "2026-08-30T13:53:52.527Z"
+  },
+  {
+    "channelId": "UCV_Qu0AQDS_0SErWWiMnCVw",
+    "channelTitle": "The Vishal Show ",
+    "lastSeen": "2026-08-30T13:53:52.527Z"
+  },
+  {
+    "channelId": "UCVVloczCV5cLYzOywhn-0Pw",
+    "channelTitle": "HOUSE OF TRENDS",
+    "lastSeen": "2026-08-30T13:53:52.527Z"
+  },
+  {
+    "channelId": "UC8RaWIRPOo0CjWo-q9z_Kcg",
+    "channelTitle": "Whisky Wealth Warrior",
+    "lastSeen": "2026-08-30T13:53:52.153Z"
+  },
+  {
+    "channelId": "UC8Mx85QQUmzABVwPfpqs7Ww",
+    "channelTitle": "The Spotlight: News",
+    "lastSeen": "2026-08-30T13:53:52.153Z"
+  },
+  {
+    "channelId": "UCSehnTbxjnZWcLLGG9YdtUg",
+    "channelTitle": "Rohan K Duggal",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UCZgfB1bruy5CETomglIsLXQ",
+    "channelTitle": "News and Interesting Facts by ShopsPrice",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UCOaYd_oH2JSabEtY6PpsMXA",
+    "channelTitle": "amazing golden history",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UC-C6QMpNXhf1kxP65OR4Wyw",
+    "channelTitle": "YinreikiOracle",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UCKlkLl3ubfPbJ1eF8xpho9A",
+    "channelTitle": "ALEstrellato",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UC1WXCw46yempRWuU4Y1qYFw",
+    "channelTitle": "Celeb Vault Daily",
+    "lastSeen": "2026-08-30T13:53:52.152Z"
+  },
+  {
+    "channelId": "UCwvwXTgJ5-T10QcFDqYM8FQ",
+    "channelTitle": "Park Street University",
+    "lastSeen": "2026-08-30T13:53:51.839Z"
+  },
+  {
+    "channelId": "UCVYzxtChw1BvtTa8QtegHUg",
+    "channelTitle": "Vaishali Sharda",
+    "lastSeen": "2026-08-30T13:53:51.839Z"
+  },
+  {
+    "channelId": "UCJHuQJRL_KnJrviKPQus1XA",
+    "channelTitle": "Fox Report",
+    "lastSeen": "2026-08-30T13:53:51.838Z"
+  },
+  {
+    "channelId": "UClnwfcpVufJ0luYzyOs6rUQ",
+    "channelTitle": "Mr.Randy's Wine & Spirits",
+    "lastSeen": "2026-08-30T13:53:51.572Z"
+  },
+  {
+    "channelId": "UCas3AKiE8aEv8CAdcFaXFpQ",
+    "channelTitle": "Office de tourisme Armagnac & D'Artagnan (OT Armagnac & D'Artagnan)",
+    "lastSeen": "2026-08-30T13:53:51.572Z"
+  },
+  {
+    "channelId": "UC0wItOfNwOLdvl1-9ukBrFA",
+    "channelTitle": "Eric Prato",
+    "lastSeen": "2026-08-30T13:53:51.572Z"
+  },
+  {
+    "channelId": "UCOm-IGBIBb2IB9kK953lwOQ",
+    "channelTitle": "The Feline Archivist",
+    "lastSeen": "2026-08-30T13:53:51.572Z"
+  },
+  {
+    "channelId": "UCgZFQOC5zxmWAClQQrP13rw",
+    "channelTitle": "Crashes Files",
+    "lastSeen": "2026-08-30T13:53:51.572Z"
+  },
+  {
+    "channelId": "UCJ3ZVBSaVwPraiwt0FAQm6w",
+    "channelTitle": "Different Spirits",
+    "lastSeen": "2026-08-30T13:53:51.571Z"
+  },
+  {
+    "channelId": "UC3E8ic-2slOww6n6p3n_mwA",
+    "channelTitle": "Genco Edit Barcelona",
+    "lastSeen": "2026-08-30T13:53:51.571Z"
+  },
+  {
+    "channelId": "UCjgAKt55N2SH00JfZ_2x7Rw",
+    "channelTitle": "Sean S",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCb4ySZUaNhbWhL_8_D-cM-A",
+    "channelTitle": "Profesor Macabro",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCvnpQ8ncwF1LFBX8_d1Xb5g",
+    "channelTitle": "Brandy & Tito's Everyday Finds",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UC1L0oAzUmt_vJMv8GgHcjVg",
+    "channelTitle": "kingdom of unpacking",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCl-_aUinNV6XQZeDv6RmLyA",
+    "channelTitle": "iamgt",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCuqibRsZlqtlreB_P5wVXPQ",
+    "channelTitle": "Brandy and Michael ",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCg_xtUA9sCrBljk0ObQFWfQ",
+    "channelTitle": "ss liquor Mart ",
+    "lastSeen": "2026-08-30T13:53:51.288Z"
+  },
+  {
+    "channelId": "UCvPnA-SGNyG1GZiIxRRpkLw",
+    "channelTitle": "Lady Brandy ",
+    "lastSeen": "2026-08-30T13:53:51.287Z"
+  },
+  {
+    "channelId": "UC4hR3GMcqKSmQFBqAk1Mu2Q",
+    "channelTitle": "Reilley's Tasting Room",
+    "lastSeen": "2026-08-30T13:53:50.966Z"
+  },
+  {
+    "channelId": "UC2zkKeZhrN94j8ttFNZCKfQ",
+    "channelTitle": "Jo Wine & Spirits ",
+    "lastSeen": "2026-08-30T13:53:50.966Z"
+  },
+  {
+    "channelId": "UCCnj6JN3CzGwhOaIfHvgxxg",
+    "channelTitle": "Laced Fresh",
+    "lastSeen": "2026-08-30T13:53:50.966Z"
+  },
+  {
+    "channelId": "UCGK1_m-Zul_5Fe6QZac62ug",
+    "channelTitle": "Коньяк и Ром / Cognac&Rum",
+    "lastSeen": "2026-08-30T13:53:50.966Z"
+  },
+  {
+    "channelId": "UChFguyQm6_0fX7C-be1wdTQ",
+    "channelTitle": "Perks of Cognac",
+    "lastSeen": "2026-08-30T13:53:50.966Z"
+  },
+  {
+    "channelId": "UCJsKfKMPTYMty09PnLDThTQ",
+    "channelTitle": "David",
+    "lastSeen": "2026-08-30T13:53:50.965Z"
+  },
+  {
+    "channelId": "UC5L9XnhUyoAlFlDhFV3mgxg",
+    "channelTitle": "cognacexpert YT",
+    "lastSeen": "2026-08-30T13:53:50.965Z"
+  },
+  {
+    "channelId": "UCvTwlJlid0gOR6qg3uRf-2A",
+    "channelTitle": "Bistro Ginkgo | The Longevity Cuisine",
+    "lastSeen": "2026-08-30T13:53:50.636Z"
+  },
+  {
+    "channelId": "UCmoRt71PYNtH8xoY1RFIOyA",
+    "channelTitle": "Mallorca Distillery",
+    "lastSeen": "2026-08-30T13:53:50.636Z"
+  },
+  {
+    "channelId": "UCOIq_Z2ARLKCE1CylHzgoJg",
+    "channelTitle": "Smokeshow Mixology",
+    "lastSeen": "2026-08-30T13:53:50.636Z"
+  },
+  {
+    "channelId": "UC6GcCaYjHL_Aq-ZTII2LeeQ",
+    "channelTitle": "Labu genius craft🌈🎨",
+    "lastSeen": "2026-08-30T13:53:50.636Z"
+  },
+  {
+    "channelId": "UCjYfRbrtX30Cqv6aEpndmwA",
+    "channelTitle": "TEO-BAR-LAB ",
+    "lastSeen": "2026-08-30T13:53:50.635Z"
+  },
+  {
+    "channelId": "UC8uSWfFXuVpNR6mP7Kxz4Og",
+    "channelTitle": "Emet Lifestyle",
+    "lastSeen": "2026-08-30T13:53:50.298Z"
+  },
+  {
+    "channelId": "UCBX7h-eX_R8wtECORkZwY_A",
+    "channelTitle": "Mr Wuu",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCAjb-PiitDCE-YCmJh3CfEA",
+    "channelTitle": "Mystery of Drinks",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCtG1c-v2McHp3A-kpV0MQyA",
+    "channelTitle": "allons.y",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCFT4vUJ_Uo40rrIK9AxVK9w",
+    "channelTitle": "Taste of Gin",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCgTn3BK4GEf0QqrnJ6tKvAw",
+    "channelTitle": "Malkat Gin",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCLaxi2QeK5dUFrnv3FbmoLw",
+    "channelTitle": "Liana Lately",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UC-2-xBryndi5G5jjNMG4Owg",
+    "channelTitle": "Classy Cocktail Reviews",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCPd651Z3WkNlZXtz6a5G7Ew",
+    "channelTitle": "Raw Review Downunder",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UC7XGiePsneEOZfjzAIv7huw",
+    "channelTitle": "ROY NADER",
+    "lastSeen": "2026-08-30T13:53:50.297Z"
+  },
+  {
+    "channelId": "UCPLV29Ja0yBo3iIYQMP8dpw",
+    "channelTitle": "Tincture House",
+    "lastSeen": "2026-08-30T13:53:49.965Z"
+  },
+  {
+    "channelId": "UCx0QydjPjCESw-PUYF6_a1g",
+    "channelTitle": "Nonhlanhla Moloi",
+    "lastSeen": "2026-08-30T13:53:49.965Z"
+  },
+  {
+    "channelId": "UC5KQuly53UyarqzAtGbbubA",
+    "channelTitle": "Code Felici",
+    "lastSeen": "2026-08-30T13:53:49.678Z"
+  },
+  {
+    "channelId": "UCgTbqNc69VxtcKue9fpS3wA",
+    "channelTitle": "Vodka Quang",
+    "lastSeen": "2026-08-30T13:53:49.678Z"
+  },
+  {
+    "channelId": "UCOV_7GPTARoxvgoZmvrS2Hw",
+    "channelTitle": "TheFilmJunkee",
+    "lastSeen": "2026-08-30T13:53:49.678Z"
+  },
+  {
+    "channelId": "UC83EYCwyy32xWM95koYaybQ",
+    "channelTitle": "The Spit or Swallow Beer Review",
+    "lastSeen": "2026-08-30T13:53:49.678Z"
+  },
+  {
+    "channelId": "UCg35iOj2ka702sxhw-RLjHA",
+    "channelTitle": "Vier Pfoten TV",
+    "lastSeen": "2026-08-30T13:53:49.678Z"
+  },
+  {
+    "channelId": "UCxCNgtgTquLc9_Z4gnaxjmQ",
+    "channelTitle": "Global Capital Network",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCMZiPqhTAaw17YPwJ9bh36A",
+    "channelTitle": "Im_off_stage",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UClF1LXjUdkLbxd1U855FbHQ",
+    "channelTitle": "David Hunter",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCps7AEOPmTsKKuE_Z0Rq00g",
+    "channelTitle": "BARJOCKEY Bartending Institute & Events",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UC19-YKuHN6eis3ca4VsTLmw",
+    "channelTitle": "Tales from the Meadow",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCoXbSxo0rKy-dQDQtSKMT9Q",
+    "channelTitle": "Colours. of. mr",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCN0iI3EbCdcGtWNDl9PRDRg",
+    "channelTitle": "Craft & Feast",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCJty66RCKAnqw6KSL7xj_gQ",
+    "channelTitle": "The Columbia Coast",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCPm-2McOmTlDzuw-u9e-FCw",
+    "channelTitle": "Алкополка",
+    "lastSeen": "2026-08-30T13:53:49.336Z"
+  },
+  {
+    "channelId": "UCppeJCGTYOupiBXJj6I4VPg",
+    "channelTitle": "CÎROC",
+    "lastSeen": "2026-08-30T13:53:49.335Z"
+  },
+  {
+    "channelId": "UCycORvCTjr7zn-fxttE81zw",
+    "channelTitle": "The Urban Guide",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UCNlN9xw9vsM4EqXF-iSX5Ug",
+    "channelTitle": "Mallu in malta",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UCqVZSjBINKvrsyO3pIslaWA",
+    "channelTitle": "That Bottle Tho",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UCvmyL6YlHBnpwSXxEmd8fCQ",
+    "channelTitle": "Scoolinary",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UC4F5XIaaKCfnse0zETMKH1g",
+    "channelTitle": "Slightly drunk moment",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UCty-XuUK_-hUJX1LWmh0__g",
+    "channelTitle": "Muna TV",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UC8Qp5hpAehFUhUBoW7EuKDg",
+    "channelTitle": "The Tastin Ladies",
+    "lastSeen": "2026-08-30T13:53:48.968Z"
+  },
+  {
+    "channelId": "UCwcH94eG9YYAn1G2nfw3j-w",
+    "channelTitle": "KADAK",
+    "lastSeen": "2026-08-30T13:53:48.656Z"
+  },
+  {
+    "channelId": "UCXALA75pfKfdeeGQ44hks6Q",
+    "channelTitle": "Rum Verdict",
+    "lastSeen": "2026-08-30T13:53:48.656Z"
+  },
+  {
+    "channelId": "UCTpl26xhfDbDQo5jRPOl4bQ",
+    "channelTitle": "Breaking Good",
+    "lastSeen": "2026-08-30T13:53:48.656Z"
+  },
+  {
+    "channelId": "UCNZiV-ppUWMnK2ABdMEFvtg",
+    "channelTitle": "Pawsitive Impuls",
+    "lastSeen": "2026-08-30T13:53:48.656Z"
+  },
+  {
+    "channelId": "UCXUn89kIPAj3xXyAX-72wNw",
+    "channelTitle": "Omi",
+    "lastSeen": "2026-08-30T13:53:48.656Z"
+  },
+  {
+    "channelId": "UCn5wZwxTJ5wX0Dc3ilUxJ4Q",
+    "channelTitle": "Essenar",
+    "lastSeen": "2026-08-30T13:53:48.655Z"
+  },
+  {
+    "channelId": "UC9v2UcmS013eDTqz5hk6EmA",
+    "channelTitle": "Mounts Bay Distillery",
+    "lastSeen": "2026-08-30T13:53:48.655Z"
+  },
+  {
+    "channelId": "UCEVOWQwC6jxbyQOpTfessJw",
+    "channelTitle": "Playswellwithpaper",
+    "lastSeen": "2026-08-30T13:53:48.655Z"
+  },
+  {
+    "channelId": "UCnXxEyXpQChViOFulsLdCcQ",
+    "channelTitle": "AGD - Amazing Global Destinations",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UC7iybx_ksVgU3yYOTSHPhLg",
+    "channelTitle": "JJbourbq",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UC09XdoztkCCwo0gCo9fJMxA",
+    "channelTitle": "8teen33",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UC2GiLcHIAJNN7JoYXbqA-cQ",
+    "channelTitle": "White Rabbit",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UCYWTm0LbfqtfbEFJwc-Aw2g",
+    "channelTitle": "LIQUOR GURU",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UCkGdeuOWfXQgHtcS4Df51kQ",
+    "channelTitle": "IdleDrifter",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UCUedqlWYZXbmdPLkUlUb0Aw",
+    "channelTitle": "Traveling with a Latina ",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UCMBtfAX6GS8kjdVeop2nP1A",
+    "channelTitle": "The Celtic Cigar Enthusiast",
+    "lastSeen": "2026-08-30T13:53:48.276Z"
+  },
+  {
+    "channelId": "UC3sH4Nqhcw2EjGwUk9OIgUw",
+    "channelTitle": "Hydro's Travels",
+    "lastSeen": "2026-08-30T13:53:47.903Z"
+  },
+  {
+    "channelId": "UCcYvRi60T2fY44DKubsWS7A",
+    "channelTitle": "Whiskey Gambler",
+    "lastSeen": "2026-08-30T13:53:47.903Z"
+  },
+  {
+    "channelId": "UCRI5FblAH66Rtf2rLUz-n8A",
+    "channelTitle": "alittleoldfashion",
+    "lastSeen": "2026-08-30T13:53:47.903Z"
+  },
+  {
+    "channelId": "UCeQikDSclS9LUQT_gzB7f4w",
+    "channelTitle": "Belly Up Bar Cocktails",
+    "lastSeen": "2026-08-30T13:53:47.903Z"
+  },
+  {
+    "channelId": "UCMlnXmzbJ5YRV0mlch1_YTg",
+    "channelTitle": "Sailing Marly",
+    "lastSeen": "2026-08-30T13:53:47.903Z"
+  },
+  {
+    "channelId": "UC-kfBKeFNWG_Ti-xwPYT8xg",
+    "channelTitle": "Oak and Agave",
+    "lastSeen": "2026-08-30T13:53:47.902Z"
+  },
+  {
+    "channelId": "UCjcErUEcJtMCHG-0acZRMoA",
+    "channelTitle": "GenghisMindset",
+    "lastSeen": "2026-08-30T13:53:47.902Z"
+  },
+  {
+    "channelId": "UCFrdNONq2wtSjhtJAviuslw",
+    "channelTitle": "Edu Hub",
+    "lastSeen": "2026-08-30T13:53:47.634Z"
+  },
+  {
+    "channelId": "UC3WqxxNNRi-EJqtpi8QwrLA",
+    "channelTitle": "Chef Andres Gallegos",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UC-RAo0SfWg0MzpxPAlpRAiQ",
+    "channelTitle": "F2_Project ",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UCB8cA6qySC-PyDdbnIwVh9g",
+    "channelTitle": "MuscleMomentsBR",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UCNbk7F0S982cp2CzDftwHyg",
+    "channelTitle": "V R Creations",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UCqSPV2zA5gcpvCcjP7p0erA",
+    "channelTitle": "México Que Nadie TeContó",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UCW2nXHSHM-_edtZk0QKHqmQ",
+    "channelTitle": "Factsboost ",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UC39CNjbA9ERgGkK1LH7xXuw",
+    "channelTitle": "VANDRAMDZ",
+    "lastSeen": "2026-08-30T13:53:47.633Z"
+  },
+  {
+    "channelId": "UCoT5-VON_4TGXi41MUj0ioA",
+    "channelTitle": "Puebleando Con Alberto",
+    "lastSeen": "2026-08-30T13:53:47.326Z"
+  },
+  {
+    "channelId": "UCvEvc4iY-vcWfrVa4RJ3Meg",
+    "channelTitle": "Omar Voces Sin Limite",
+    "lastSeen": "2026-08-30T13:53:47.326Z"
+  },
+  {
+    "channelId": "UClAyteJB9uNBCCZPqU7_YZQ",
+    "channelTitle": "ULE DE CRISTAL ",
+    "lastSeen": "2026-08-30T13:53:47.326Z"
+  },
+  {
+    "channelId": "UCKrDrrqeJ4zYyGiOBKtqp9A",
+    "channelTitle": "theadman2315",
+    "lastSeen": "2026-08-30T13:53:47.326Z"
+  },
+  {
+    "channelId": "UCqmYXxl1pg5NlE8aY8hB-8Q",
+    "channelTitle": "Tecalli: saberes y sabores",
+    "lastSeen": "2026-08-30T13:53:47.326Z"
+  },
+  {
+    "channelId": "UCf2r07k7hxjG51Cxm5brE6Q",
+    "channelTitle": "nmásmedia",
+    "lastSeen": "2026-08-30T13:53:47.032Z"
+  },
+  {
+    "channelId": "UCYNQmglO8bWIK-KLPdgoR3A",
+    "channelTitle": "MAU OKAMI ",
+    "lastSeen": "2026-08-30T13:53:47.031Z"
+  },
+  {
+    "channelId": "UCFM7qQfRCmzm4hbl5giZ7WQ",
+    "channelTitle": "Mu Producciones",
+    "lastSeen": "2026-08-30T13:53:47.031Z"
+  },
+  {
+    "channelId": "UCJMTYSfCbsOSUexeYxE6JxQ",
+    "channelTitle": "XED TECNOLOGIA, NOTICIAS Y EVENTOS",
+    "lastSeen": "2026-08-30T13:53:47.031Z"
+  },
+  {
+    "channelId": "UCKZ3NyBkKh-JaO41tWrmifQ",
+    "channelTitle": "Cocinando con Mariana TM6",
+    "lastSeen": "2026-08-30T13:53:47.031Z"
+  },
+  {
+    "channelId": "UCpkzEg3z8T44fjZ1IZBKsiA",
+    "channelTitle": "Sip, Savor & Celebrate ",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCNPzympRagDemenLkMLtPmw",
+    "channelTitle": "ttbmath",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCRF8t5QNnP1FBdohOVuz3lg",
+    "channelTitle": "Long Island Lou Tequila",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCnKPfiT_eL7Ex-X0rScaq-w",
+    "channelTitle": "PKGD Group",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCu3qjuBLbYqkx1EqOHduHNw",
+    "channelTitle": "Finca 18",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCAESKTBO8vjkcwh3MnKLeZQ",
+    "channelTitle": "Tequila Cop",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCS9OWpj7ANeh9RMx1-F9BeQ",
+    "channelTitle": "Jalisco Trip Tours",
+    "lastSeen": "2026-08-30T13:53:46.686Z"
+  },
+  {
+    "channelId": "UCTOjst-gaqxdKly9a1i4mRQ",
+    "channelTitle": "La Reina Raicilla",
+    "lastSeen": "2026-08-30T13:53:46.412Z"
+  },
+  {
+    "channelId": "UCoSe0zuto119vwOSMtFUSVQ",
+    "channelTitle": "Alize",
+    "lastSeen": "2026-08-30T13:53:46.412Z"
+  },
+  {
+    "channelId": "UCuhRWXeWchOuAB6-guA5WjQ",
+    "channelTitle": "Lucas De Assis",
+    "lastSeen": "2026-08-30T13:53:46.412Z"
+  },
+  {
+    "channelId": "UCvSRi-HGjZezeG45f5J_K8Q",
+    "channelTitle": "JetSetters Vacation",
+    "lastSeen": "2026-08-30T13:53:46.084Z"
+  },
+  {
+    "channelId": "UCmUN12W-O0OQeJUG9DHfiIQ",
+    "channelTitle": "Hroff Simeonov",
+    "lastSeen": "2026-08-30T13:53:46.084Z"
+  },
+  {
+    "channelId": "UCijDvo0eZB8Jb4XSnLnQ8vw",
+    "channelTitle": "Tasted",
+    "lastSeen": "2026-08-30T13:53:45.775Z"
+  },
+  {
+    "channelId": "UCw65ZM0fyY5KEoBToA7aBNQ",
+    "channelTitle": "México entre Botellas ",
+    "lastSeen": "2026-08-30T13:53:45.775Z"
+  },
+  {
+    "channelId": "UC3SWBIQZapAR1QlesaAej0g",
+    "channelTitle": "The Epicurean Gentleman",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCkXpHPMT8NY-lz5tiwdgGlg",
+    "channelTitle": "Explorando MÉXICO | Donnet García ",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCazbUnXRVpfmjvqiFC_jkYA",
+    "channelTitle": "Maguey Melate",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCB5WuPV6pEkcFdG18RryA6Q",
+    "channelTitle": "The Tequila Pour",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCGoJNx9jca468GD3XwKNpdQ",
+    "channelTitle": "El Mago Humberto Armas Ornelas",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCTAml_JAZWppCNgmxV1T-eA",
+    "channelTitle": "TEDO PHOTOFINISH",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UC3ELG5waJB73ZbhsD5fPiNQ",
+    "channelTitle": "Aplausos!",
+    "lastSeen": "2026-08-30T13:53:45.774Z"
+  },
+  {
+    "channelId": "UCxv49pzKtoWRk2Jdd-wa-qw",
+    "channelTitle": "Sonora Salvaje",
+    "lastSeen": "2026-08-30T13:53:45.472Z"
+  },
+  {
+    "channelId": "UCmJpKokmq-hMVsgi6kDoGXg",
+    "channelTitle": "Mi Gran SONORA",
+    "lastSeen": "2026-08-30T13:53:45.471Z"
+  },
+  {
+    "channelId": "UCFYVQy34IRNXGp1Xj2bmoCw",
+    "channelTitle": "ariel meneses",
+    "lastSeen": "2026-08-30T13:53:45.471Z"
+  },
+  {
+    "channelId": "UCljlp0obdh4pR27CxzeXzzA",
+    "channelTitle": "Soy El Chef Modesto",
+    "lastSeen": "2026-08-30T13:53:45.471Z"
+  },
+  {
+    "channelId": "UC4UOXmME2_Pg0ocuD4YwlGQ",
+    "channelTitle": "DIARIO DEL YAQUI OFICIAL",
+    "lastSeen": "2026-08-30T13:53:45.201Z"
+  },
+  {
+    "channelId": "UCLKoheF3C7VlwmLbnmwMTcw",
+    "channelTitle": "Candra Drinks",
+    "lastSeen": "2026-08-30T13:53:45.201Z"
+  },
+  {
+    "channelId": "UCs3t27vJvLkcuuotpz4sylw",
+    "channelTitle": "Borderland Spirits",
+    "lastSeen": "2026-08-30T13:53:45.201Z"
+  },
+  {
+    "channelId": "UCmKAMXUSHhhqHIOsGOEONfw",
+    "channelTitle": "Delirio bacanora ",
+    "lastSeen": "2026-08-30T13:53:45.201Z"
+  },
+  {
+    "channelId": "UCK2Y3nfOKXs23_HTZThaMig",
+    "channelTitle": "Desde la Calle 🍔🚶",
+    "lastSeen": "2026-08-30T13:53:44.928Z"
+  },
+  {
+    "channelId": "UC_BYwgV4p2dk8_EWL_oozIg",
+    "channelTitle": "Sotol Romo",
+    "lastSeen": "2026-08-30T13:53:44.927Z"
+  },
+  {
+    "channelId": "UCpeN1ol6pn06BQq1o-lIsUw",
+    "channelTitle": "Kampana Del paso",
+    "lastSeen": "2026-08-30T13:53:44.927Z"
+  },
+  {
+    "channelId": "UCH4RzpNnzqfjpKHO_CaJMbw",
+    "channelTitle": "MonTI",
+    "lastSeen": "2026-08-30T13:53:44.927Z"
+  },
+  {
+    "channelId": "UCvpAJmzgkXz-J_sjlGCS1Mw",
+    "channelTitle": "Descubriendo con Bely",
+    "lastSeen": "2026-08-30T13:53:44.927Z"
+  },
+  {
+    "channelId": "UCIXC5uf1me44rMOq8jTB2zQ",
+    "channelTitle": "Born 2 Eat",
+    "lastSeen": "2026-08-30T13:53:44.348Z"
+  },
+  {
+    "channelId": "UCJ8ntcODov7L9TZtyklVGXA",
+    "channelTitle": "Charlene Cooper",
+    "lastSeen": "2026-08-30T13:53:44.348Z"
+  },
+  {
+    "channelId": "UC8QAV0c1aCGlTngpJz2Q-TA",
+    "channelTitle": "Sangrita La Casa Diez",
+    "lastSeen": "2026-08-30T13:53:44.348Z"
+  },
+  {
+    "channelId": "UC2XpTliFT6KGzbvX9oH94OA",
+    "channelTitle": "Pours Outdoors",
+    "lastSeen": "2026-08-30T13:53:44.073Z"
+  },
+  {
+    "channelId": "UCfpMOoGX-c_OXM9GIpec4VQ",
+    "channelTitle": "Charm City Bourbon Crew",
+    "lastSeen": "2026-08-30T13:53:44.073Z"
+  },
+  {
+    "channelId": "UCwtdzM_G2EPcBFZ_0MhKgrw",
+    "channelTitle": "Gulf Coast Sippers",
+    "lastSeen": "2026-08-30T13:53:44.073Z"
+  },
+  {
+    "channelId": "UCQmsI0AAbXvTevWkqMIBU-Q",
+    "channelTitle": "BigCas910 TV",
+    "lastSeen": "2026-08-30T13:53:44.073Z"
+  },
+  {
+    "channelId": "UCt710uxmP2wO5zyUYhvTl8A",
+    "channelTitle": "Downtown Sacramento Partnership",
+    "lastSeen": "2026-08-30T13:53:44.073Z"
+  },
+  {
+    "channelId": "UCXe2fS4xIutUiteJWbVeKLw",
+    "channelTitle": "Paul's Day Off",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UCZZBo4OqQklNDiEppinehXg",
+    "channelTitle": "Be Social Scene",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UCkdsJOXFXrEh5vz-yGqWChA",
+    "channelTitle": "TheLoveofMezcal",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UCIKfoK-WOxoq2tfddk4M0Hg",
+    "channelTitle": "Planet Mezcal",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UCP2MlG4CpK6g3BH1e1MCoNA",
+    "channelTitle": "StogieHolic",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UCZKWpojWy15UACeOKfv80Eg",
+    "channelTitle": "Drinks + Thinks",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UC4fgta7FMlvfVl-eCbAjRQg",
+    "channelTitle": "Scent, Style & Sip",
+    "lastSeen": "2026-08-30T13:53:43.700Z"
+  },
+  {
+    "channelId": "UC3UAGOFuWzNVaFtG03ynbDw",
+    "channelTitle": "Character Proof",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UCxNa1P9-vMj635ZUEotbyRw",
+    "channelTitle": "Bar Guthrie Tasting Fine Spirits with Good Friends",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UC_TUrIE2oJqluyl432cCUCg",
+    "channelTitle": "Anthony Saldana",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UCeVnbwT-zUfDWM68uR24eaA",
+    "channelTitle": "Evan Senger",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UCTTA9yDvB7Qs_You824AsKw",
+    "channelTitle": "demo and retta",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UCXuT6hWRvAUZnbdncw_WpgQ",
+    "channelTitle": "Eat Drink Travel While Black  ",
+    "lastSeen": "2026-08-30T13:53:43.397Z"
+  },
+  {
+    "channelId": "UCRW99C7f5yr1AkxliKKggvQ",
+    "channelTitle": "Whiskey Weather",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UCE8y9wcK0hXdEq06DSPCVfg",
+    "channelTitle": "Bourbon Theory",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UC6hluLI5LWHt0glT4uidcAg",
+    "channelTitle": "mike",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UCPSpQ6wbnBNuUJdGwtGfYig",
+    "channelTitle": "Two Pours Neat",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UCYLQcFrwGGzdi3C8ypGXdfQ",
+    "channelTitle": "The Mash Up Bourbon Podcast",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UCp-sJMCIteTyDLbXPZaoTDQ",
+    "channelTitle": "Sticks-n-Stonez",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UC-Hv9xldbAOjIZKAdjNAJBg",
+    "channelTitle": "Brewtally Honest Bourbon",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
+  },
+  {
+    "channelId": "UC-x_TAP5x68Qp97_I0u4htg",
+    "channelTitle": "The Garage Mind",
+    "lastSeen": "2026-08-30T13:53:43.056Z"
   },
   {
     "channelId": "UCIRLGqJKpwWcWsIzu77F16Q",
     "channelTitle": "Great American Whiskey Cookers",
+    "lastSeen": "2026-08-30T13:53:43.055Z"
+  },
+  {
+    "channelId": "UCfxdCoCSbMaOYPnqMt2Ex5A",
+    "channelTitle": "Mahadi Pritom",
+    "lastSeen": "2026-08-30T13:53:43.055Z"
+  },
+  {
+    "channelId": "UCo_SMbxnQgHd5M6z5ivG8-Q",
+    "channelTitle": "MOVIE NEWS",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCNSBd0RwG4HjHDNUtzyzFSg",
+    "channelTitle": "DEEPAKRAJPUTGOA",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCuKyjSH847YU7252cbAzq7w",
+    "channelTitle": "Green Tea Bar",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCViykl3ktIbRI2fD4TkqnAg",
+    "channelTitle": "Pahadi Life Journey",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCIpTxtNuxnanyYJuzZxPCdg",
+    "channelTitle": "Non solo whisky",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UC56xIvP6bOCVK_YSLFooS8g",
+    "channelTitle": "Kerala Toddy Club",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCbqaLYQij21kIpmU5k80ISQ",
+    "channelTitle": "Whisky Shorts8",
+    "lastSeen": "2026-08-30T13:53:42.748Z"
+  },
+  {
+    "channelId": "UCza8HhQfteifT4vBvv1SZUw",
+    "channelTitle": "The Tasters Club",
+    "lastSeen": "2026-08-30T13:53:42.447Z"
+  },
+  {
+    "channelId": "UCY97gAk_G2TyDegRsf4PbEQ",
+    "channelTitle": "Bourbon Captain",
+    "lastSeen": "2026-08-30T13:53:42.447Z"
+  },
+  {
+    "channelId": "UCAyhrg4pMILL3oaGB4oLQLw",
+    "channelTitle": "All About Thing",
+    "lastSeen": "2026-08-30T13:53:42.446Z"
+  },
+  {
+    "channelId": "UCBjveMPeM9cHdLUAtrdzCQg",
+    "channelTitle": "Friendly Mr. Z Whisky & Tastings",
+    "lastSeen": "2026-08-30T13:53:42.134Z"
+  },
+  {
+    "channelId": "UCFYE-0rB_rU4qotqEV2Ueow",
+    "channelTitle": "THE MICHIGAN POUR",
+    "lastSeen": "2026-08-30T13:53:42.134Z"
+  },
+  {
+    "channelId": "UCYtcdrBbtjKHpryklKtQJ7w",
+    "channelTitle": "Arzenik",
+    "lastSeen": "2026-08-30T13:53:42.133Z"
+  },
+  {
+    "channelId": "UCwPYivB7nxM8EItbYK0HKig",
+    "channelTitle": "Faye Smith Beauty",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UC-UE7MntTByPle-ASDvo2Lw",
+    "channelTitle": "Chappellet Winery",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UCarWORwZWrEiVUjLbYbXuZQ",
+    "channelTitle": "Stone Hill Winery",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UCNStqFc_HwFsJMpHsypy2ZA",
+    "channelTitle": "Country Collection",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UCzsBjN3zzD8oI837KxfsN9w",
+    "channelTitle": "North Prime Real Estate brokered by eXp Realty",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UC3dkZWIJ5tu2EdZgkhJAaoA",
+    "channelTitle": "Island House Gourmet",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UC1_Ce0ZmBdBGB4v4mq8s6gg",
+    "channelTitle": "Oak Media ",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UCvvPSIgEWvvmrZ_NIvjAXMA",
+    "channelTitle": "Aerolume Creations ",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UC6Q5B3DOJoUpVAXrvT04-eQ",
+    "channelTitle": "In Good Company —Chef Danielle",
+    "lastSeen": "2026-08-30T13:53:41.858Z"
+  },
+  {
+    "channelId": "UCHeLJGR5N1gs4D-f9lvzpoQ",
+    "channelTitle": "Well Travelled Life",
+    "lastSeen": "2026-08-30T13:53:41.857Z"
+  },
+  {
+    "channelId": "UCvSlxfIIKzXSwaSUP5VBapg",
+    "channelTitle": "Good Day Sacramento",
+    "lastSeen": "2026-08-30T13:53:41.543Z"
+  },
+  {
+    "channelId": "UCgLDURm_J3E2WXZvI8o1Zzw",
+    "channelTitle": "KOLKATA",
+    "lastSeen": "2026-08-30T13:53:41.543Z"
+  },
+  {
+    "channelId": "UCvS9Bzpq5gII2BkXwsUnWsg",
+    "channelTitle": "전상욱 소믈리에",
+    "lastSeen": "2026-08-30T13:53:41.543Z"
+  },
+  {
+    "channelId": "UCt5qjuisHOwstuSVMTizQLQ",
+    "channelTitle": "Wines of British Columbia",
+    "lastSeen": "2026-08-30T13:53:41.543Z"
+  },
+  {
+    "channelId": "UC-kE1AqwDJzLs7VXW8JwRjQ",
+    "channelTitle": "Adam Montiel",
+    "lastSeen": "2026-08-30T13:53:41.542Z"
+  },
+  {
+    "channelId": "UCjBtStsDlo80rg5SBmfpSsA",
+    "channelTitle": "Natalie MacLean",
+    "lastSeen": "2026-08-30T13:53:41.542Z"
+  },
+  {
+    "channelId": "UCV0s7r0Sn81Hx-JoxHZb3jw",
+    "channelTitle": "QA Racing",
+    "lastSeen": "2026-08-30T13:53:41.542Z"
+  },
+  {
+    "channelId": "UCy2ryqPVishSzejX8ERh_jA",
+    "channelTitle": "Winetipss",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UC8ryzqsAa3H0mpd8etdjoow",
+    "channelTitle": "Vinstinct | Your Palate is a Playground",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UCnZquMF_rm4zCa7mL0QmN9A",
+    "channelTitle": "India Flop Youtuber",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UCA0eplMabU-4_Dftky6E5QA",
+    "channelTitle": "Stash - Free Documentaries",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UCL33-n72vNDo_G-BuNNRyPw",
+    "channelTitle": "Winnica Zagardle",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UC8-cN7zwOtMJPmGIn-ag6Kw",
+    "channelTitle": "Kahana Designs",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UCQI8Mdw4yESNI1xSuL1Q07g",
+    "channelTitle": "Mark Zaido | The Pinoy Explorer",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UCIibkhXbf9T7c7O78AMDvTg",
+    "channelTitle": "Cuộc Sống Mỹ Family Vlog",
+    "lastSeen": "2026-08-30T13:53:41.149Z"
+  },
+  {
+    "channelId": "UC-SrM0717O9nGbvBRpyeCKA",
+    "channelTitle": "The Fabulous Ladies' Wine Society",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCpCvhm58eXUDjPNc7DjcPPA",
+    "channelTitle": "ADAM JORDAN",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCmQ7AZ1n2Solh00ztHSSxCQ",
+    "channelTitle": "Take That and Solo",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UC3HHLghSCKX6pY3YE5PsyyQ",
+    "channelTitle": "Living in DIZ",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCumMkbelPQuRf-RHAmg0ovw",
+    "channelTitle": "Attractions Plus",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCWnef8dFrdmkMV85w19xkpQ",
+    "channelTitle": "GeoViagem",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCMr17Q65nICNsDWfZiuqh-Q",
+    "channelTitle": "Prachee verma",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCtkG_xVbI0jA3UkO50HPFtg",
+    "channelTitle": "Towns of Italy | Tour Operator",
+    "lastSeen": "2026-08-30T13:53:40.775Z"
+  },
+  {
+    "channelId": "UCqWHpBj1WvepfytUrE8AoNA",
+    "channelTitle": "Toverna",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCoc9JZJVTD_5LbF1hvceSBg",
+    "channelTitle": "Go Sail Adventures",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UC-nBpxf2_1wNCqq8I-os1rw",
+    "channelTitle": "Affordable Eastern European Wines",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCsWxushz1aid_qz71ZBt0pQ",
+    "channelTitle": "SDVMusic",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCweBO4bfRZgu33OMPYlehlg",
+    "channelTitle": "Hrvatska radiotelevizija",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UC7G5ewaUVpKbwUY-gGrFRsg",
+    "channelTitle": "Ride x Roam. Together.",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCgTwBX8GTc0LzUEjl4VEqxw",
+    "channelTitle": "Seeking Luxury Destinations ",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCpFLh4sSJSWon1goa3f9Eog",
+    "channelTitle": "Raw Explained",
+    "lastSeen": "2026-08-30T13:53:40.423Z"
+  },
+  {
+    "channelId": "UCx7HW8Uvvw07LnBZXYge5Jw",
+    "channelTitle": "FinnVoyager",
+    "lastSeen": "2026-08-30T13:53:40.422Z"
+  },
+  {
+    "channelId": "UCF25oxiigcO4hxOw1JbCceg",
+    "channelTitle": "Destino China",
+    "lastSeen": "2026-08-30T13:53:39.966Z"
+  },
+  {
+    "channelId": "UCwYwsr0KlhxZyVIC1d8NWRw",
+    "channelTitle": "Authentic shaozing ",
+    "lastSeen": "2026-08-30T13:53:39.966Z"
+  },
+  {
+    "channelId": "UCkOVvhKWJEwHr0ek4ByeWXg",
+    "channelTitle": "高乐",
+    "lastSeen": "2026-08-30T13:53:39.966Z"
+  },
+  {
+    "channelId": "UCSjF2drTmcGgXEsJYoxhDDA",
+    "channelTitle": "All in Coffee",
+    "lastSeen": "2026-08-30T13:53:39.966Z"
+  },
+  {
+    "channelId": "UCD-6FB2PfBsmm7wyEkpKg9A",
+    "channelTitle": "DreamVerse AI",
+    "lastSeen": "2026-08-30T13:53:39.966Z"
+  },
+  {
+    "channelId": "UC6rw-7zZ7q1sLTjp2CHktFw",
+    "channelTitle": "Village Cooking Recipe",
+    "lastSeen": "2026-08-30T13:53:39.965Z"
+  },
+  {
+    "channelId": "UCuhp36_v4YpqB1eVweyxncg",
+    "channelTitle": "The SAHM Life With Brittany",
+    "lastSeen": "2026-08-30T13:53:39.965Z"
+  },
+  {
+    "channelId": "UCnp-XDQW7J5IU77TZCMqKhA",
+    "channelTitle": "The English Wine Cellar",
+    "lastSeen": "2026-08-30T13:53:39.633Z"
+  },
+  {
+    "channelId": "UCtVvNwgsO4_rKdsX197HzDw",
+    "channelTitle": "Skurnik Wines & Spirits",
+    "lastSeen": "2026-08-30T13:53:39.633Z"
+  },
+  {
+    "channelId": "UCtLKoTpgKp58p0al565GCDw",
+    "channelTitle": "English Sparkling with Tweedy",
+    "lastSeen": "2026-08-30T13:53:39.633Z"
+  },
+  {
+    "channelId": "UCzkbBk_ZYLKwq2wioFE4e-A",
+    "channelTitle": "Godstone Vineyards",
+    "lastSeen": "2026-08-30T13:53:39.633Z"
+  },
+  {
+    "channelId": "UCqTjEUV-5e6mSkvqZ_qxnFQ",
+    "channelTitle": "Tweedy Outdoors",
+    "lastSeen": "2026-08-30T13:53:39.633Z"
+  },
+  {
+    "channelId": "UCrhupoqlWydg2iID8PwXP_g",
+    "channelTitle": "Georgian_Wine_Family_Club",
+    "lastSeen": "2026-08-30T13:53:39.158Z"
+  },
+  {
+    "channelId": "UCwRVxGHNVj4OUWgfFFNCuJQ",
+    "channelTitle": "Edible History",
+    "lastSeen": "2026-08-30T13:53:39.158Z"
+  },
+  {
+    "channelId": "UCQmISjJHQ-__vXw18I65Pjg",
+    "channelTitle": "Konstantin Baum - Master of Wine",
+    "lastSeen": "2026-08-30T13:53:39.157Z"
+  },
+  {
+    "channelId": "UC53t0iN7MtG4Of0ZPN0x7PQ",
+    "channelTitle": "Private Dream Tours Georgia",
+    "lastSeen": "2026-08-30T13:53:39.157Z"
+  },
+  {
+    "channelId": "UCVfrD6ntzIIgzF2-lO9lIhA",
+    "channelTitle": "KARTVELIA MUSIC",
+    "lastSeen": "2026-08-30T13:53:39.157Z"
+  },
+  {
+    "channelId": "UCWh35HkJevbuv_tCTjjwBMw",
+    "channelTitle": "გია ბაღაშვილი • Gia Bagashvili",
+    "lastSeen": "2026-08-30T13:53:39.157Z"
+  },
+  {
+    "channelId": "UC4K_yMXkAQ_Au61wLHnPrEg",
+    "channelTitle": "Overland Monika und Jürgen",
+    "lastSeen": "2026-08-30T13:53:39.157Z"
+  },
+  {
+    "channelId": "UCo3_QfIy6MjxEOj_3Bzi1GQ",
+    "channelTitle": "Vinarosa Resort & Spa",
+    "lastSeen": "2026-08-30T13:53:38.789Z"
+  },
+  {
+    "channelId": "UCCUxVAmDlyRiNhQ9bN8DgSg",
+    "channelTitle": "California Sustainable Winegrowing Alliance",
+    "lastSeen": "2026-08-30T13:53:38.789Z"
+  },
+  {
+    "channelId": "UCOTuge3p-hDI5QKC_o_996w",
+    "channelTitle": "Capital Call Vintners",
+    "lastSeen": "2026-08-30T13:53:38.789Z"
+  },
+  {
+    "channelId": "UCx3lBWYw7NibUqdfPFt6s_g",
+    "channelTitle": "Good News Good Planet",
+    "lastSeen": "2026-08-30T13:53:38.789Z"
+  },
+  {
+    "channelId": "UCyWH-k1ue_5lwXXuTusWEdQ",
+    "channelTitle": "Novobac bio-products solution",
+    "lastSeen": "2026-08-30T13:53:38.788Z"
+  },
+  {
+    "channelId": "UCE82DI1iTwqrw68zX-rc0cQ",
+    "channelTitle": "Jan Matthias Klein",
+    "lastSeen": "2026-08-30T13:53:38.788Z"
+  },
+  {
+    "channelId": "UCzJeYTdIADrHaCNAOa9NaMw",
+    "channelTitle": "The Cellar Door Australia",
+    "lastSeen": "2026-08-30T13:53:38.788Z"
+  },
+  {
+    "channelId": "UCEWSPbebTrjS_hFPQ0RYeSg",
+    "channelTitle": "INSIDE FACTORY PROCESS",
+    "lastSeen": "2026-08-30T13:53:38.788Z"
+  },
+  {
+    "channelId": "UCAYqab_-AGQQkmaqnCs6E0Q",
+    "channelTitle": "The Building Texas Show",
+    "lastSeen": "2026-08-30T13:53:38.788Z"
+  },
+  {
+    "channelId": "UCIe5rOLf18ZllnhaZWWQt9A",
+    "channelTitle": "Cork and Journey",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+    "channelTitle": "GBNews",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UC_lrbtsKnOF-5gaG9rJ5DAg",
+    "channelTitle": "VinoVault",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UC9rHVSPYQEss4iyo0r9JUkw",
+    "channelTitle": "Kay wallace",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
+    "channelTitle": "CNBC Television",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UCBPGZZw2h7ZlOOgisetv1vA",
+    "channelTitle": "SpeakingPoliticsUK ",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UCR0g3ZFAQm3Qs5ulo52h9Fw",
+    "channelTitle": "SouthAfrica Wine",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UCGfADfLRmog8_lkE_LKGnjg",
+    "channelTitle": "TerraClim South Africa",
+    "lastSeen": "2026-08-30T13:53:38.487Z"
+  },
+  {
+    "channelId": "UCa0rxmHxVWiqwdtM51hOPXA",
+    "channelTitle": "Wine Unlocked",
+    "lastSeen": "2026-08-30T13:53:38.216Z"
+  },
+  {
+    "channelId": "UCXkfbm24QV087wlt6_V9t3g",
+    "channelTitle": "liana rose wine",
+    "lastSeen": "2026-08-30T13:53:38.216Z"
+  },
+  {
+    "channelId": "UCifrlJ9DNyVUV6rDrzlqMiw",
+    "channelTitle": "The Basket Brewing Show ",
+    "lastSeen": "2026-08-30T13:53:38.216Z"
+  },
+  {
+    "channelId": "UCPfgCTgKSNoVRES2ApF2uNA",
+    "channelTitle": "winetellect_pro",
+    "lastSeen": "2026-08-30T13:53:38.215Z"
+  },
+  {
+    "channelId": "UCZon8YSJwFtTFVSX6aiXAmw",
+    "channelTitle": "Xplor Wine of Demarest",
+    "lastSeen": "2026-08-30T13:53:38.215Z"
+  },
+  {
+    "channelId": "UC2qGLBnISMxZ7g0Xr4_I2rg",
+    "channelTitle": "BurgundyNick",
+    "lastSeen": "2026-08-30T13:53:38.215Z"
+  },
+  {
+    "channelId": "UCAdyNOE80FsFPYlFliyXfwQ",
+    "channelTitle": "France tv nature",
+    "lastSeen": "2026-08-30T13:53:38.215Z"
+  },
+  {
+    "channelId": "UCRzLyv3BvnQSrz8gbGhjGuQ",
+    "channelTitle": "Biodynamic Gardening",
+    "lastSeen": "2026-08-30T13:53:38.215Z"
+  },
+  {
+    "channelId": "UCakdwbZKfNYP7OQunl7joWg",
+    "channelTitle": "Obi Faith Store",
+    "lastSeen": "2026-08-30T13:53:37.885Z"
+  },
+  {
+    "channelId": "UCkksxdoQr6ACpyudw3-QGaw",
+    "channelTitle": "Healthy Hampers Australia",
+    "lastSeen": "2026-08-30T13:53:37.885Z"
+  },
+  {
+    "channelId": "UCFkCxbhj7fxdbv9Tnp3xvLw",
+    "channelTitle": "Bernardo Musumeci",
+    "lastSeen": "2026-08-30T13:53:37.884Z"
+  },
+  {
+    "channelId": "UCVR_TulhsrfsGSqiokzFIyQ",
+    "channelTitle": "Timberustic",
+    "lastSeen": "2026-08-30T13:53:37.884Z"
+  },
+  {
+    "channelId": "UCpfcnWb79Ekb1T6KnHHUKug",
+    "channelTitle": "Sips Suds and Smokes",
+    "lastSeen": "2026-08-30T13:53:37.884Z"
+  },
+  {
+    "channelId": "UC9WGwF_yYlqsyTn_aAT1I_g",
+    "channelTitle": "MANONGGITY BOYS",
+    "lastSeen": "2026-08-30T13:53:37.884Z"
+  },
+  {
+    "channelId": "UCGWaa0hR-5hxH_4HwVJ9Wvg",
+    "channelTitle": "Vino Terrior: Learning Wine Through Video",
+    "lastSeen": "2026-08-30T13:53:37.884Z"
+  },
+  {
+    "channelId": "UCSJcl_zs7DuYgJG1T5btFXw",
+    "channelTitle": "Italian Wine Travel with Stevie Kim",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UC3fMJN48uMdCGKv-VY85eRQ",
+    "channelTitle": "Virco 9000",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UC-3rl9aAuGBYk12Im4UOdOA",
+    "channelTitle": "Your Host \"Middle Name Frank  Efi 12th FL Ent. !",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UCXUvuJ3DjAalg51iYNvdcdg",
+    "channelTitle": "St. Pete Vibes",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UCuoykII9z6PZspN8bdq_lJw",
+    "channelTitle": "Jermaine Bollinger /// SUMMER of '86",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UCS8XHLOWkHeJ_F7FwpkXPOg",
+    "channelTitle": "FIU Hospitality",
+    "lastSeen": "2026-08-30T13:53:37.538Z"
+  },
+  {
+    "channelId": "UCy7JrEvg0QFGD7LyGTTvA5Q",
+    "channelTitle": "WSET 2 QUIZ Prepration",
+    "lastSeen": "2026-08-30T13:53:37.239Z"
+  },
+  {
+    "channelId": "UCDyRtTRV1NmI9piza541JQA",
+    "channelTitle": "Ashley Broshious",
+    "lastSeen": "2026-08-30T13:53:37.239Z"
+  },
+  {
+    "channelId": "UCRW9mO8aDFzIYcUvRIExZRQ",
+    "channelTitle": "Institute of Culinary Education",
+    "lastSeen": "2026-08-30T13:53:37.239Z"
+  },
+  {
+    "channelId": "UC9G8VTG-SAn4Ezg6KxTystA",
+    "channelTitle": "ITCertArena Certification Learning  Zone ",
+    "lastSeen": "2026-08-30T13:53:37.238Z"
+  },
+  {
+    "channelId": "UCaKgDk2ceBEgkFRmpIaAwkA",
+    "channelTitle": "One Sip",
+    "lastSeen": "2026-08-30T13:53:37.238Z"
+  },
+  {
+    "channelId": "UCzefinH4UZN1p4Onl-MCkHw",
+    "channelTitle": "Megliodibere ",
+    "lastSeen": "2026-08-30T13:53:37.238Z"
+  },
+  {
+    "channelId": "UCMwAgZOKuHyD6w4YCtrh-ag",
+    "channelTitle": "PoV Real Experiences",
+    "lastSeen": "2026-08-30T13:53:37.238Z"
+  },
+  {
+    "channelId": "UCI19rhM9cW3JLdnEQKIHqHA",
+    "channelTitle": "Real Estate Defined",
+    "lastSeen": "2026-08-30T13:53:36.947Z"
+  },
+  {
+    "channelId": "UCGq1w9gEyWi-yy9Nmro149Q",
+    "channelTitle": "Sussex College of Business",
+    "lastSeen": "2026-08-30T13:53:36.947Z"
+  },
+  {
+    "channelId": "UC9fKf4jTOhFC796h0Yug-ag",
+    "channelTitle": "Gentleman Farmer Wines",
+    "lastSeen": "2026-08-30T13:53:36.947Z"
+  },
+  {
+    "channelId": "UC4O2vUOB5FCBA3NOi5Cqt1w",
+    "channelTitle": "Tamburlaine Organic Wines",
+    "lastSeen": "2026-08-30T13:53:36.946Z"
+  },
+  {
+    "channelId": "UCwpv9kEteJ__2zi8wp12_NA",
+    "channelTitle": "Wine Country Cowgirl",
+    "lastSeen": "2026-08-30T13:53:36.946Z"
+  },
+  {
+    "channelId": "UC3l9nZOvetQuwj2R-_qwJHQ",
+    "channelTitle": "Nilantha Hettiarachchi ",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UCbFVExNmwp3mpLrD8Uiwa8g",
+    "channelTitle": "Fab Expat",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UChEjl5a3HIroP2OMHeMn-6g",
+    "channelTitle": "Napa Valley Wine Academy",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UC0Nm22kXvF6KBxiYQPJ1-Hw",
+    "channelTitle": "Bryan Medhaug",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UCCXFk5MDotsLTK1vJ5ewF6g",
+    "channelTitle": "The Wonderful World of Wine (WWW)_Franklin Liquors",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UCpcI-YWS2clSw90D5zjXQlQ",
+    "channelTitle": "Wine Wanderings on Substack",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UCmfGfBijqx24U9Jx9kpR7fA",
+    "channelTitle": "El Huele Corchos",
+    "lastSeen": "2026-08-30T13:53:36.625Z"
+  },
+  {
+    "channelId": "UCNXqfVm5q5f9uKd83kMMEjg",
+    "channelTitle": "Jackie Learns Languages",
+    "lastSeen": "2026-08-30T13:53:36.290Z"
+  },
+  {
+    "channelId": "UCk8V-QHKO4pmEjKBMkjy62w",
+    "channelTitle": "LifeInTheMagic Channel",
+    "lastSeen": "2026-08-30T13:53:36.290Z"
+  },
+  {
+    "channelId": "UCXy8R9JMHZv-ryfkCqvhGjA",
+    "channelTitle": "vrinda kumar",
+    "lastSeen": "2026-08-30T13:53:36.290Z"
+  },
+  {
+    "channelId": "UCWTLvb-RWg9ZMPjgHFicUpg",
+    "channelTitle": "craftygirlsss",
+    "lastSeen": "2026-08-30T13:53:36.290Z"
+  },
+  {
+    "channelId": "UCBF37J09A20Rv2DjfidD6mQ",
+    "channelTitle": "jctotboi Studios (OFFICIAL)",
+    "lastSeen": "2026-08-30T13:53:36.289Z"
+  },
+  {
+    "channelId": "UCuH2E9CqPtvR_a03coBGs2A",
+    "channelTitle": "osama play",
+    "lastSeen": "2026-08-30T13:53:36.289Z"
+  },
+  {
+    "channelId": "UCazJn3D78FpHQX6-q8UUN3A",
+    "channelTitle": "RedYellowEdits // HD6_Red_Yellow",
+    "lastSeen": "2026-08-30T13:53:36.289Z"
+  },
+  {
+    "channelId": "UCWFk48IgsXAShwYl1KVAAUA",
+    "channelTitle": "Gummy Bear Maker+",
+    "lastSeen": "2026-08-30T13:53:36.289Z"
+  },
+  {
+    "channelId": "UCOBS7QZMV0f3DnUvfl_vvNg",
+    "channelTitle": "Bfdiblocky87 FX",
+    "lastSeen": "2026-08-30T13:53:36.289Z"
+  },
+  {
+    "channelId": "UCByGc7P_siORkC1pum8T3_Q",
+    "channelTitle": "WFSB 3",
+    "lastSeen": "2026-08-30T13:53:35.929Z"
+  },
+  {
+    "channelId": "UCTGSyWxwhPMJ4K7xYQXgGlQ",
+    "channelTitle": "Sneakanomics",
+    "lastSeen": "2026-08-30T13:53:35.929Z"
+  },
+  {
+    "channelId": "UCNxWg1X8WQz1d5pFMKRzcjQ",
+    "channelTitle": "Alex’s Foodie Adventures",
+    "lastSeen": "2026-08-30T13:53:35.929Z"
+  },
+  {
+    "channelId": "UC8tHjU57JSWI5iyfANlKECg",
+    "channelTitle": "eMenu International | iPads Menus",
+    "lastSeen": "2026-08-30T13:53:35.929Z"
+  },
+  {
+    "channelId": "UCvUKFCu5AX5D7ZQjqEvxk-A",
+    "channelTitle": "TKRG",
+    "lastSeen": "2026-08-30T13:53:35.928Z"
+  },
+  {
+    "channelId": "UCSYzt2XxLttMJcQ9kaBhofQ",
+    "channelTitle": "The Realty Lab - Real Estate Team",
+    "lastSeen": "2026-08-30T13:53:35.928Z"
+  },
+  {
+    "channelId": "UCKwZ6etj4nl9O8FTFlbcYEQ",
+    "channelTitle": "Argent",
+    "lastSeen": "2026-08-30T13:53:35.928Z"
+  },
+  {
+    "channelId": "UCwGSMKp8tPPPw3-fI9DVvsQ",
+    "channelTitle": "Damn! Karen",
+    "lastSeen": "2026-08-30T13:53:35.928Z"
+  },
+  {
+    "channelId": "UCRtwYMRueIBifqq38ytQo_g",
+    "channelTitle": "Chef Sanju Pahadi",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCP63upVtXP_H_dJSdGZ427A",
+    "channelTitle": "Vero",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCZ2BfwWZbD_wMC90AEPAXmg",
+    "channelTitle": "Veraison X",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCv38CJVPiQIYl2PSyJhhndw",
+    "channelTitle": "Williams Woak ",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCqE9I2CdJwuTJjEeggKC1Cw",
+    "channelTitle": "The VUE Wadsworth",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCAN-SFEMX18UZ2pJ58nk2Fw",
+    "channelTitle": "JustFineWine1",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UC9ba68lLRojdiCWaI4xmtmA",
+    "channelTitle": "Leslie Dabney, The Vineyard Mom",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCR0Si-Fm9XmbnhR3XSQpJhQ",
+    "channelTitle": "In & Om Suid-Afrika",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCqDsOEMBTH8Ypk84vaKsKrA",
+    "channelTitle": "Valley News Live",
+    "lastSeen": "2026-08-30T13:53:35.575Z"
+  },
+  {
+    "channelId": "UCcOgTtFPLIK6Ni2FPzXLsHQ",
+    "channelTitle": "cook with binit",
+    "lastSeen": "2026-08-30T13:53:35.207Z"
+  },
+  {
+    "channelId": "UC-M1lNWsEFPvxqy3PKuaSeQ",
+    "channelTitle": "Daily drinking challenge",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UCfjFBwlzo0DYJewpyjvJDbg",
+    "channelTitle": "Tasty Home Recipes",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UC5RX_hrMwpYq-GkcqLsET0Q",
+    "channelTitle": "法月ロイのASMR料理",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UCdfVkIoV0NoXq6P2JcB4eww",
+    "channelTitle": "Grill Ideen",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UCINgI3tNnMml_H6KUFB2_Pw",
+    "channelTitle": "Lyndsay Diane ",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UChCNhXHM0-dCCNzmDDG04TQ",
+    "channelTitle": "Swift Spoon",
+    "lastSeen": "2026-08-30T13:53:35.206Z"
+  },
+  {
+    "channelId": "UC4D-6yVzUS9A9exTuVUdR2Q",
+    "channelTitle": "Adv. Karan Bhanushali",
+    "lastSeen": "2026-08-30T13:53:34.893Z"
+  },
+  {
+    "channelId": "UCiry1gxC0r0d6N9MDGqFzew",
+    "channelTitle": "Youming Zhao",
+    "lastSeen": "2026-08-30T13:53:34.893Z"
+  },
+  {
+    "channelId": "UCZp3jgx0chLgB2UtKhA7WFg",
+    "channelTitle": "FindingOut",
+    "lastSeen": "2026-08-30T13:53:34.893Z"
+  },
+  {
+    "channelId": "UC7GIjnBLBvdvkn3e2rNbL9g",
+    "channelTitle": "Hocantalk.english",
+    "lastSeen": "2026-08-30T13:53:34.892Z"
+  },
+  {
+    "channelId": "UCu4c3swxKrqLTGHqRpc-gNw",
+    "channelTitle": "Vivienne Morgan",
+    "lastSeen": "2026-08-30T13:53:34.892Z"
+  },
+  {
+    "channelId": "UCjN9ATPqXinl4rn6zdJoMBw",
+    "channelTitle": "Kinza",
+    "lastSeen": "2026-08-30T13:53:34.892Z"
+  },
+  {
+    "channelId": "UCh5B_N7OuohA22c8o890Ygg",
+    "channelTitle": "Tangible Wealth",
+    "lastSeen": "2026-08-30T13:53:34.892Z"
+  },
+  {
+    "channelId": "UCUZElx1jrFJ-DSb_DSqqrLg",
+    "channelTitle": "squishy clipz",
+    "lastSeen": "2026-08-30T13:53:34.517Z"
+  },
+  {
+    "channelId": "UCoWUt80u6hjmO_n_KPLHvmw",
+    "channelTitle": "OMO TV",
+    "lastSeen": "2026-08-30T13:53:34.517Z"
+  },
+  {
+    "channelId": "UC1ubrHUhDAD2IXO1Jr9Qygg",
+    "channelTitle": "曜痕 Crymaire🐺",
+    "lastSeen": "2026-08-30T13:53:34.517Z"
+  },
+  {
+    "channelId": "UCPXNMhYZmhchWbTz4_XD36A",
+    "channelTitle": "Interior Tech ",
+    "lastSeen": "2026-08-30T13:53:34.517Z"
+  },
+  {
+    "channelId": "UCTp139QlhQo8ES0f6NORD9g",
+    "channelTitle": "TheColoringHour",
+    "lastSeen": "2026-08-30T13:53:34.517Z"
+  },
+  {
+    "channelId": "UCEjQZHrwqXmsjkOLGTGgaxA",
+    "channelTitle": "Attorney Somm",
+    "lastSeen": "2026-08-30T13:53:34.516Z"
+  },
+  {
+    "channelId": "UClhrincdyBnN96eSsFtbIAw",
+    "channelTitle": "調べながらやるストラテジー&RPG",
+    "lastSeen": "2026-08-30T13:53:34.516Z"
+  },
+  {
+    "channelId": "UCdS9xg89nzh4z1_4e-7jL0A",
+    "channelTitle": "2minbuilds",
+    "lastSeen": "2026-08-30T13:53:34.516Z"
+  },
+  {
+    "channelId": "UCIdRaB56no4yR3cSbPVDu6w",
+    "channelTitle": "Grapes & Glasses",
+    "lastSeen": "2026-08-30T13:53:34.187Z"
+  },
+  {
+    "channelId": "UCATbmyMPJRSh7E8-9WlvgNA",
+    "channelTitle": "Fever Dream Clips",
+    "lastSeen": "2026-08-30T13:53:34.187Z"
+  },
+  {
+    "channelId": "UCLZbPw0BwTOqe9Wbv9M6XOQ",
+    "channelTitle": "The Curiosity Hub",
+    "lastSeen": "2026-08-30T13:53:34.187Z"
+  },
+  {
+    "channelId": "UCxjW4b4YY2z37_QUczWbOtA",
+    "channelTitle": "Shizukuwine",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UCSb0sGnUKA9BMiMEVkBF4pA",
+    "channelTitle": "monybseattle",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UCzFQvA2y7Q5wHBGrkpQGaTw",
+    "channelTitle": "Black Daily",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UC4GgfFYllA9Qj7_tDoWGbjQ",
+    "channelTitle": "wine.co.za",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UCAoscZZgok_VmHkhLfa8-dQ",
+    "channelTitle": "Moe Webb",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UC6dYLEZ0KqJTECqWg3iv4vQ",
+    "channelTitle": "You Should Know Clips",
+    "lastSeen": "2026-08-30T13:53:34.186Z"
+  },
+  {
+    "channelId": "UCaf0NSmUWMHVQQd090tt3NA",
+    "channelTitle": "Investec",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UCCiCDj334u8skRAC_X_sm5A",
+    "channelTitle": "Dinner Time Stories Southern Africa",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UCTFm2zVjvY0PHvFdEUDaA1A",
+    "channelTitle": "DUSTtoDREAM",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UCMv70mVKqBW2_yeNMR3abtA",
+    "channelTitle": "Tint Shop NC",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UCKS7_7a2wWMIreo-03FnCPA",
+    "channelTitle": "Dasumia Reads",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UCN7Zk26Dx-_FO8DEBZpOizA",
+    "channelTitle": "Downtown liquor beer",
+    "lastSeen": "2026-08-30T13:53:33.837Z"
+  },
+  {
+    "channelId": "UC8C_dwsFnoByQqYMmk3SJxw",
+    "channelTitle": "Sport Arena",
+    "lastSeen": "2026-08-30T13:53:33.836Z"
+  },
+  {
+    "channelId": "UCfwxa2xWVtCNzlSA1rmFFuw",
+    "channelTitle": "Great Brix Brewing",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UCuGI0RN7H9KQAeMCqOH5yxQ",
+    "channelTitle": "Storie di Vino e Viticoltori",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UCKR_cTcucFW9lSB0mjPS--A",
+    "channelTitle": "Corsini Lumapas",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UCfa0l4vedZ0_vqATaG2Yfrg",
+    "channelTitle": "Élise hair ",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UCRjvZREvHy61j7chIw6lbXQ",
+    "channelTitle": "Poppin' Bottles with Brandon & Barry",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UC39Txc9cgkVhw9aZ4HLDbmQ",
+    "channelTitle": "Starlit Pearls",
+    "lastSeen": "2026-08-30T13:53:33.481Z"
+  },
+  {
+    "channelId": "UCdIod5_ALOivmr3_DOeev2w",
+    "channelTitle": "AICreativeVerse",
+    "lastSeen": "2026-08-30T13:53:33.163Z"
+  },
+  {
+    "channelId": "UCquNOMoN-1XdelqCBqiEBbg",
+    "channelTitle": "Sharrott Winery",
+    "lastSeen": "2026-08-30T13:53:33.162Z"
+  },
+  {
+    "channelId": "UC8uQOvPTgfdDmOiyZd61xJA",
+    "channelTitle": "Sommelier",
+    "lastSeen": "2026-08-30T13:53:33.162Z"
+  },
+  {
+    "channelId": "UC8ScG579DpEyHowh4kd5vKw",
+    "channelTitle": "Quick info telugu",
+    "lastSeen": "2026-08-30T13:53:33.162Z"
+  },
+  {
+    "channelId": "UCCP9gap6XqQELAMyJWvSwCQ",
+    "channelTitle": "FactGoblin",
+    "lastSeen": "2026-08-30T13:53:33.162Z"
+  },
+  {
+    "channelId": "UC4arKMc0igBuZsB88h1ZM_A",
+    "channelTitle": "Lý Tử Tiên Hoa",
+    "lastSeen": "2026-08-30T13:53:32.721Z"
+  },
+  {
+    "channelId": "UCuH6yGMbYVDOqwFKznwwTvg",
+    "channelTitle": "Le Média Vin",
+    "lastSeen": "2026-08-30T13:53:32.721Z"
+  },
+  {
+    "channelId": "UCUpUIkURoJ4jzMUDfq1EgJw",
+    "channelTitle": "We are the Overcomers",
+    "lastSeen": "2026-08-30T13:53:32.721Z"
+  },
+  {
+    "channelId": "UCpBA7vgEUqkC8qlHUXBos2g",
+    "channelTitle": "green farming ",
+    "lastSeen": "2026-08-30T13:53:32.721Z"
+  },
+  {
+    "channelId": "UCTwbx5moOIy7HRG6LDGqZrg",
+    "channelTitle": "VeggieSnap",
+    "lastSeen": "2026-08-30T13:53:32.721Z"
+  },
+  {
+    "channelId": "UCEks-DVck_Jzb6uKo6w5uZg",
+    "channelTitle": "USA People Connect",
+    "lastSeen": "2026-08-30T13:53:32.720Z"
+  },
+  {
+    "channelId": "UCtirW56aGRRVCegZ93_VyEQ",
+    "channelTitle": "Pluckiva",
+    "lastSeen": "2026-08-30T13:53:32.720Z"
+  },
+  {
+    "channelId": "UC1nu0Xl3X_rf1gqbMOHmFfw",
+    "channelTitle": "Modern Farming",
+    "lastSeen": "2026-08-30T13:53:32.720Z"
+  },
+  {
+    "channelId": "UCct_sT9Ysr1UKJSVJpAZL-w",
+    "channelTitle": "Pharma Frontier Shorts ",
+    "lastSeen": "2026-08-30T13:53:32.720Z"
+  },
+  {
+    "channelId": "UCDluDxsYEiV7EGFHsx0he-g",
+    "channelTitle": "EnoVi channel",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UCuA6hpz346pMB1weeuaAu0Q",
+    "channelTitle": "Jamie Goode",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UCmRMMEciZnog_vkwIrxve8Q",
+    "channelTitle": "Plantar em Casa",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UC1LwXP-BNd3HTNye3BumH6w",
+    "channelTitle": "Kiến Thức 60s",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UCl9Hm5zQWIKt10DfoyLQhlA",
+    "channelTitle": "Herd, Herz & Familie - Podcast",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UCjAhbZDClNfn0enLUknqu6w",
+    "channelTitle": "Andrei Banica",
+    "lastSeen": "2026-08-30T13:53:32.342Z"
+  },
+  {
+    "channelId": "UCS52o3eYB6lY6sE1ylEkI0w",
+    "channelTitle": "Tales of the Wine World",
+    "lastSeen": "2026-08-30T13:53:32.341Z"
+  },
+  {
+    "channelId": "UCqJHHDFwoesB6KKrnmWn7bQ",
+    "channelTitle": "PlumpJack Collection of Wineries",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCRNNQjrT5yi6ahMvZlUnS0Q",
+    "channelTitle": "Raw Flow",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCuzlMCRFvjLFe0ww5u6c2AA",
+    "channelTitle": "The Production Floor",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCfRCsnOJ1TJpLjTryTjt5fA",
+    "channelTitle": "GENEBRE S.A.",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCC1c9GQZciZKu7bWi5xFAqA",
+    "channelTitle": "Mas Nanang - Home Brewer",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCsOTQaIS5B-otFcgdrmYhLA",
+    "channelTitle": "Dee's Growing world",
+    "lastSeen": "2026-08-30T13:53:32.004Z"
+  },
+  {
+    "channelId": "UCK9pqgsnKj4RJNjoLwKSbXw",
+    "channelTitle": "Merchant of Wine",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCNydaGYonjOrT8HcpX7KFmw",
+    "channelTitle": "Alterno Wines Mexico",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCt6VbGwTTeiMv1Py0CBX5_w",
+    "channelTitle": "Missick Cellars - Texas Hill Country",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCY_ZM4ggX7dtj1OXbOHjX-A",
+    "channelTitle": "Expats Traveling Group",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCUplDvA1BR9qRXUsOlI4QEw",
+    "channelTitle": "Abendblatt-TV",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCqQ4sWVPFbFg7AhfuKOlPvg",
+    "channelTitle": "KandicTV",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCqpQgT9z4rUI3Yx2X6pWY2Q",
+    "channelTitle": "Buongiorno ",
+    "lastSeen": "2026-08-30T13:53:31.654Z"
+  },
+  {
+    "channelId": "UCIzo8t69n8fgvVmifN_hwuA",
+    "channelTitle": "Buy Wine PL",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCWzgCA7IiT60FAMqxqUUdjw",
+    "channelTitle": "Classic Wine Tours",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCnk5eEgHtJ7FrnbLHAx_mVQ",
+    "channelTitle": "Zabbar de Sefarad Wine",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCw0wa18eaNJjtAD3xCs5HXw",
+    "channelTitle": "George Lima",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCy2RsjiuwPL7Z6yqIJWMlXA",
+    "channelTitle": "Bee'Lazin Hot Pepper Company ",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCQoUbfNlc9BuT6crL8lIQ2Q",
+    "channelTitle": "すずのゆるりchannel",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCuqoKsJeKiSLhUPAYAtgmew",
+    "channelTitle": "VIFER INC.",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UC8KkBQqx6m20VdgiV_c_FiA",
+    "channelTitle": "The Factory Explorer ",
+    "lastSeen": "2026-08-30T13:53:31.323Z"
+  },
+  {
+    "channelId": "UCLPy2MvSwAqiNAw6ofGY93w",
+    "channelTitle": "TheProfessorOfHair",
+    "lastSeen": "2026-08-30T13:53:31.322Z"
+  },
+  {
+    "channelId": "UCJa4zjpZwbTLu47m-P2ttAA",
+    "channelTitle": "Vinarija Janković",
+    "lastSeen": "2026-08-30T13:53:30.991Z"
+  },
+  {
+    "channelId": "UC_sJCOxySL65T6sIVeUcN0g",
+    "channelTitle": "Grapes The Wine Company",
+    "lastSeen": "2026-08-30T13:53:30.990Z"
+  },
+  {
+    "channelId": "UCrMeK9IUcuOvht1mot7sIsQ",
+    "channelTitle": "I Sapori DiVini",
+    "lastSeen": "2026-08-30T13:53:30.990Z"
+  },
+  {
+    "channelId": "UCSN0AIrQCW6u7R8ejfI5fNg",
+    "channelTitle": "wineofthemoment",
+    "lastSeen": "2026-08-30T13:53:30.990Z"
+  },
+  {
+    "channelId": "UC1tvT23GPJE-bZcXoKO92iQ",
+    "channelTitle": "wine_speaks",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UCXJr8_bVOfYFKsveh74VNlQ",
+    "channelTitle": "Bebendo Vinho 🍷 Todos os Dias ",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UC-T6QIYxsP0Z8Aa8_Svcq0A",
+    "channelTitle": "Wine Sinner",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UCLHV64JXsIYkw-xzKLsLJAg",
+    "channelTitle": "Dr. Matthew Horkey",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UCiVdzKPB40vn4FJBAshiAig",
+    "channelTitle": "Fnb service academy",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UCTRrtpRh7hN8k1iN3Vr9phw",
+    "channelTitle": "Gift Hampers Melbourne",
+    "lastSeen": "2026-08-30T13:53:30.677Z"
+  },
+  {
+    "channelId": "UCryE8gNpiAfOoz8nEV4GMAQ",
+    "channelTitle": "Stu Does Reviews",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UChm7pShV2rUAOCd5NcJcrSQ",
+    "channelTitle": "Clementi Feinkost",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UC8f9o3i67VAtABAwHUTQJFw",
+    "channelTitle": "Kathyann Myers",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UCrU127g4-mY22pCcB96WOnQ",
+    "channelTitle": "Paige Kornblue Media",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UCnr8cSxnBpkRNVtM-zx56IA",
+    "channelTitle": "Joeys Bottle Lamps",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UCm-ZIm6eD86iOJLyzfa-Adw",
+    "channelTitle": "Caitá Supermercados",
+    "lastSeen": "2026-08-30T13:53:30.334Z"
+  },
+  {
+    "channelId": "UC-QABo7v4avMylPWfRh6ieA",
+    "channelTitle": "Wineglitz India - The Wine Club 🍷",
+    "lastSeen": "2026-08-30T13:53:29.950Z"
+  },
+  {
+    "channelId": "UC10ZCuUXa4uBxExwhoFpESA",
+    "channelTitle": " Trophy Wine Hunter",
+    "lastSeen": "2026-08-30T13:53:29.950Z"
+  },
+  {
+    "channelId": "UCwwojSFkFYIAaYan-gcEp4g",
+    "channelTitle": "Pink Lemonade",
+    "lastSeen": "2026-08-30T13:53:29.950Z"
+  },
+  {
+    "channelId": "UC4SIyYRz4vfK7ZqJlm_yAaw",
+    "channelTitle": "Anu intresting facts",
+    "lastSeen": "2026-08-30T13:53:29.950Z"
+  },
+  {
+    "channelId": "UCJ1hbTuZddRoQihAlALwE2w",
+    "channelTitle": "Compplex Arquitetura",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UC_Tdt21pxto1F3Ct-4Wmb9g",
+    "channelTitle": "Wine_With_Wendy 温蒂品酒 ",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCATD5K1YHZKZ68qarPQxX9g",
+    "channelTitle": "BACO Enoteca | Vinos & Experiencias",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCB6B1G3z1x-tgap9ROFyZBQ",
+    "channelTitle": "myBar by David Gran",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCwgvZ61oBcDWvyh7kuhEVpA",
+    "channelTitle": "小資蝦喝葡萄酒🍷",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCKF66L4VKbXSNwkWlLeU-hA",
+    "channelTitle": "Sōta Slice",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCMscWako8oDvpdF4pppku-g",
+    "channelTitle": "CBS 8 San Diego",
+    "lastSeen": "2026-08-30T13:53:29.611Z"
+  },
+  {
+    "channelId": "UCtzbov6ZlP3baTnRBX8q6VA",
+    "channelTitle": "ARMANDO ARAIZA “REARMANDO”",
+    "lastSeen": "2026-08-30T13:53:29.610Z"
+  },
+  {
+    "channelId": "UC8hO5lr1ZifT0CdNkJCt0wQ",
+    "channelTitle": "trendingwwwandw",
+    "lastSeen": "2026-08-30T13:53:29.287Z"
+  },
+  {
+    "channelId": "UCEmSC5FmYql5pnWW9035i_Q",
+    "channelTitle": "JamesTheWineGuy",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UC9_xn992SMkoIOSMGjE9lwA",
+    "channelTitle": "Napa Valley Wine Train",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UCAeWdyKJXGWmVAXFpgLNNTg",
+    "channelTitle": "CBS Evening News",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UC-vaSC5tEKHm7BONNI9cVaw",
+    "channelTitle": "Halo Cafe Comfort ",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UCpOHrujEwGDDnGJoFTC2Qgg",
+    "channelTitle": "Drama-ing",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UCOeDmS4l2qNzQBhxEuc_1BA",
+    "channelTitle": "Tim Cruz",
+    "lastSeen": "2026-08-30T13:53:29.286Z"
+  },
+  {
+    "channelId": "UCIV-a_Zpp9OAJP58Q2_Oehw",
+    "channelTitle": "Relax, It's Just Wine",
+    "lastSeen": "2026-08-30T13:53:28.964Z"
+  },
+  {
+    "channelId": "UCzJIwR9xBYLYwFuWbGOmGBQ",
+    "channelTitle": "Grand Cru Affair with Anya Gariboldi",
+    "lastSeen": "2026-08-30T13:53:28.964Z"
+  },
+  {
+    "channelId": "UC9_NZP4jxjY2G_EKdPC5fKA",
+    "channelTitle": "Theme Park Comedians",
+    "lastSeen": "2026-08-30T13:53:28.964Z"
+  },
+  {
+    "channelId": "UCA9p60GhdmRhinPk2dIrRqQ",
+    "channelTitle": "Yeti is Chinese",
+    "lastSeen": "2026-08-30T13:53:28.964Z"
+  },
+  {
+    "channelId": "UCtFKXhPm4_h9u9fHsLUX-3w",
+    "channelTitle": "Best Hotels Italy",
+    "lastSeen": "2026-08-30T13:53:28.964Z"
+  },
+  {
+    "channelId": "UCCA8wJirZ7yJgZD5DofF0Vw",
+    "channelTitle": "CHEF JEREMY FR",
+    "lastSeen": "2026-08-30T13:53:28.667Z"
+  },
+  {
+    "channelId": "UCQ9z5Rm3a-4UysNCFx0TKug",
+    "channelTitle": "talkwithnik",
+    "lastSeen": "2026-08-30T13:53:28.667Z"
+  },
+  {
+    "channelId": "UCBRBZ4b-5ET5lvUYHlUJgYg",
+    "channelTitle": "Lovely Heart Studio",
+    "lastSeen": "2026-08-30T13:53:28.667Z"
+  },
+  {
+    "channelId": "UC8Xfb8tkYDKFYzTcHsyLjVw",
+    "channelTitle": "owenomoore",
+    "lastSeen": "2026-08-30T13:53:28.667Z"
+  },
+  {
+    "channelId": "UCZBraxY06GxWaiZ0XcnLiEQ",
+    "channelTitle": "Elan Luxury ASMR Food Plating",
+    "lastSeen": "2026-08-30T13:53:28.667Z"
+  },
+  {
+    "channelId": "UCljAGuzPljAMShh_M6J38zA",
+    "channelTitle": "Finding Festivals with Haylie",
+    "lastSeen": "2026-08-30T13:53:28.304Z"
+  },
+  {
+    "channelId": "UCEOLP3jhwF_T-TV6DHamXow",
+    "channelTitle": "Caribbean Caterers",
+    "lastSeen": "2026-08-30T13:53:28.304Z"
+  },
+  {
+    "channelId": "UC4xqOXN_629QuFlMygLtb4Q",
+    "channelTitle": "Wine Mastery",
+    "lastSeen": "2026-08-30T13:53:27.968Z"
+  },
+  {
+    "channelId": "UCa9nbtKmFEdm8j6aLoBabcw",
+    "channelTitle": "GaryVee Sold Wine",
+    "lastSeen": "2026-08-30T13:53:27.968Z"
+  },
+  {
+    "channelId": "UCpTMIx8BD1pbPEs-jD-sk9g",
+    "channelTitle": "A Sony Day",
+    "lastSeen": "2026-08-30T13:53:27.968Z"
+  },
+  {
+    "channelId": "UCdWygX6YMvFSue2SUSXtxxA",
+    "channelTitle": "Winekerz",
+    "lastSeen": "2026-08-30T13:53:27.968Z"
+  },
+  {
+    "channelId": "UCuLCX5rnGWPTt-DNMRrBQXw",
+    "channelTitle": "Got Somme - Master Sommelier's Wine Podcast",
+    "lastSeen": "2026-08-30T13:53:27.967Z"
+  },
+  {
+    "channelId": "UCq8x_Wv3E7PS6ytnQoH1fGA",
+    "channelTitle": "Mario Bustamante ",
+    "lastSeen": "2026-08-30T13:53:27.651Z"
+  },
+  {
+    "channelId": "UCr3pDwlVK6JAw2eBLhmcebA",
+    "channelTitle": "Freddie Brown",
+    "lastSeen": "2026-08-30T13:53:27.651Z"
+  },
+  {
+    "channelId": "UCZ12QdhL602ExbIpK2aMCPQ",
+    "channelTitle": "Wine With Paige",
+    "lastSeen": "2026-08-30T13:53:27.285Z"
+  },
+  {
+    "channelId": "UCQt0eIVhtkigCKkDnYOyt_g",
+    "channelTitle": "#winewithryan & Musclecarfan1",
+    "lastSeen": "2026-08-30T13:53:27.285Z"
+  },
+  {
+    "channelId": "UC--rFgBXIhHBznZ5poxN-nw",
+    "channelTitle": "LJK Wine ",
+    "lastSeen": "2026-08-30T13:53:27.285Z"
+  },
+  {
+    "channelId": "UCUkIeXQAPxNImYbkO_kgflw",
+    "channelTitle": "The HM Craft",
+    "lastSeen": "2026-08-30T13:53:27.285Z"
+  },
+  {
+    "channelId": "UCXh1d2RDzTWn2dYh22E_mXw",
+    "channelTitle": "Sip happens!",
+    "lastSeen": "2026-08-30T13:53:27.285Z"
+  },
+  {
+    "channelId": "UCIISenZUUvW5Svk3xT30vHA",
+    "channelTitle": "Willie's Wine Lessons",
+    "lastSeen": "2026-08-30T13:53:27.284Z"
+  },
+  {
+    "channelId": "UC_v7vAXg8iVEvYGa_HwCJRg",
+    "channelTitle": "WINESU",
+    "lastSeen": "2026-08-30T13:53:26.922Z"
+  },
+  {
+    "channelId": "UC69WPDpmaQKNQ7JJyuH4wjg",
+    "channelTitle": "Paris2Tokyo",
+    "lastSeen": "2026-08-30T13:53:26.921Z"
+  },
+  {
+    "channelId": "UCUn_6j1fSKmznuftWrxGvdw",
+    "channelTitle": "Mansi Jotaniya GeoEconomia",
+    "lastSeen": "2026-08-30T13:53:26.921Z"
+  },
+  {
+    "channelId": "UCwQ9JwC495q8MdqwhN2p16w",
+    "channelTitle": "MXD stock market ",
+    "lastSeen": "2026-08-30T13:53:26.921Z"
+  },
+  {
+    "channelId": "UCs6rnkVj5Hx3CrojW36FdxQ",
+    "channelTitle": "Decoding It",
+    "lastSeen": "2026-08-30T13:53:26.921Z"
+  },
+  {
+    "channelId": "UCfFIeKSk0uMWbn-feN3EK6A",
+    "channelTitle": "ECOMM STRATEGY",
+    "lastSeen": "2026-08-30T13:53:26.921Z"
+  },
+  {
+    "channelId": "UC9_oVCmStynO4T8rlcp6ffQ",
+    "channelTitle": "Lost Trade Routes",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UCUmUKShYMuQgHdh2WCXkrog",
+    "channelTitle": "History at Bedtime",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UCQN-rEUnDDpM32_unC3OrPw",
+    "channelTitle": "The Story Behind",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UCSWoppsVL0TLxFQ2qP_DLqQ",
+    "channelTitle": "NBCLA",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UC7VOu0PU8ExwwukrYCfkJfA",
+    "channelTitle": "JMReports",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UC_2FZKdHl990OLbPnFmSnLw",
+    "channelTitle": "The Real Price of Food",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UCErdr8ctUZV3vX1p8zJ6kFg",
+    "channelTitle": "WorthKnowing",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UCXc2efGznPgNx8Jqo-jq-wQ",
+    "channelTitle": "Kamalprreet Siddhu",
+    "lastSeen": "2026-08-30T13:53:26.561Z"
+  },
+  {
+    "channelId": "UC3NqPC-CRaL8RdrKchmw9lg",
+    "channelTitle": "historystruck",
+    "lastSeen": "2026-08-30T13:53:26.264Z"
+  },
+  {
+    "channelId": "UCf8KvMrkDs6gl6TbdPi9yVA",
+    "channelTitle": "Wuhan Leadjet",
+    "lastSeen": "2026-08-30T13:53:26.264Z"
+  },
+  {
+    "channelId": "UCkBGYYehnnkI3YDKkjc2fvw",
+    "channelTitle": "Sensium",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UChvsgOfT8A66XccpWay2rvw",
+    "channelTitle": "Azat TV",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UCA2VCwhchysnFpmVs96Kk6w",
+    "channelTitle": "Behavioral Leo",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UCxfLcU74BV3-AFVHYIPXiLg",
+    "channelTitle": "The Seasoned Farmer",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UCxL7vU_Wpm3d3kabObucROw",
+    "channelTitle": "CLEO TV",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UCdCCOEPOJpzLMu_pT0--r5w",
+    "channelTitle": "Corporate Decoder",
+    "lastSeen": "2026-08-30T13:53:25.918Z"
+  },
+  {
+    "channelId": "UCPjxI9VUeODPA6q0KJUJpww",
+    "channelTitle": "The Business of Creativity ",
+    "lastSeen": "2026-08-30T13:53:25.917Z"
+  },
+  {
+    "channelId": "UCKjwNd3U9DQW0CHTLG9sw-Q",
+    "channelTitle": "MoJo Whiskey Bar",
     "lastSeen": "2026-08-26T09:09:28.475Z"
   },
   {
@@ -42,11 +2952,6 @@
   {
     "channelId": "UCCNCLpWCOLtX1juwgfX6b2Q",
     "channelTitle": "Aju and Chiya | Couples diary",
-    "lastSeen": "2026-08-26T09:09:28.188Z"
-  },
-  {
-    "channelId": "UCXe2fS4xIutUiteJWbVeKLw",
-    "channelTitle": "Paul's Day Off",
     "lastSeen": "2026-08-26T09:09:28.188Z"
   },
   {
@@ -125,11 +3030,6 @@
     "lastSeen": "2026-08-26T09:09:27.618Z"
   },
   {
-    "channelId": "UC7-bWYtnROnwiL9wW5GJlWg",
-    "channelTitle": "ChrisTender",
-    "lastSeen": "2026-08-26T09:09:27.618Z"
-  },
-  {
     "channelId": "UCSg6dCG_c5RujU8lOberDFw",
     "channelTitle": "marco grancitelli",
     "lastSeen": "2026-08-26T09:09:27.618Z"
@@ -145,28 +3045,13 @@
     "lastSeen": "2026-08-26T09:09:27.618Z"
   },
   {
-    "channelId": "UCdqBRoWph4-ygGTfkaSpBHw",
-    "channelTitle": "COCKTAIL CHANNEL | Coquetelaria, Whisky e Receitas",
-    "lastSeen": "2026-08-26T09:09:27.617Z"
-  },
-  {
     "channelId": "UCV2mz4x31redKGpOjaDvSFw",
     "channelTitle": "Manual do Churrasqueiro",
     "lastSeen": "2026-08-26T09:09:27.617Z"
   },
   {
-    "channelId": "UChMxIjugFXlc2AMYeLGi0Tw",
-    "channelTitle": "Into the Barchive",
-    "lastSeen": "2026-08-26T09:09:27.305Z"
-  },
-  {
     "channelId": "UCA_K1EfKkz9BBotRDYaPaQg",
     "channelTitle": "Paris Explor Adore ",
-    "lastSeen": "2026-08-26T09:09:27.305Z"
-  },
-  {
-    "channelId": "UCbWf2whYTFWswWzCcbKGEqQ",
-    "channelTitle": "Gringo Jacinho",
     "lastSeen": "2026-08-26T09:09:27.305Z"
   },
   {
@@ -200,48 +3085,8 @@
     "lastSeen": "2026-08-26T09:09:27.304Z"
   },
   {
-    "channelId": "UCeVhmon7Q5bUYL5aDCLSSKg",
-    "channelTitle": "Marcel | Só Cachaças",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCh7FlyQYt--5fx_0ydcqfGQ",
-    "channelTitle": "jacobjonesMONEY",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCMnPSlKNd_2ajq1JHCRmIhQ",
-    "channelTitle": "Tasting Tequila with Brad",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
     "channelId": "UCO3bSTxoMzibkUraXvJQxqw",
     "channelTitle": "BeverlyThrillsLiquorCocktails 🇺🇸",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UC0qnNQle0uEXco1az_9HWHg",
-    "channelTitle": "Bunnie's Kitchen",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCrWh2KtU-i_pnFjwYPcxGMw",
-    "channelTitle": "The Barbershop Duet",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCWPjAyQo-0LuEOe14h9HFEA",
-    "channelTitle": "Destilados Brasil",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCB2BATQ2gyk_SHuRhg0OcfA",
-    "channelTitle": "meiaum2",
-    "lastSeen": "2026-08-26T09:09:27.021Z"
-  },
-  {
-    "channelId": "UCCnWainoXfXVpFq59j5aFPw",
-    "channelTitle": "Marcia Michelle UGC CREATOR ",
     "lastSeen": "2026-08-26T09:09:27.021Z"
   },
   {
@@ -250,33 +3095,8 @@
     "lastSeen": "2026-08-26T09:09:26.715Z"
   },
   {
-    "channelId": "UCs6RimUTMXTmE5kMkf45mlA",
-    "channelTitle": "Ninnja Cortes",
-    "lastSeen": "2026-08-26T09:09:26.715Z"
-  },
-  {
-    "channelId": "UCelzy3CqVXPFZbPmoDDCTfA",
-    "channelTitle": "Zavu",
-    "lastSeen": "2026-08-26T09:09:26.714Z"
-  },
-  {
-    "channelId": "UCVkOMWa7R9rjGh_pAeOMagw",
-    "channelTitle": "Cachaçaria SP",
-    "lastSeen": "2026-08-26T09:09:26.714Z"
-  },
-  {
-    "channelId": "UCiOGh0zPBbQbNluUNFatzOQ",
-    "channelTitle": "Gustavo Beer",
-    "lastSeen": "2026-08-26T09:09:26.714Z"
-  },
-  {
     "channelId": "UCzPAgPz4LSp47fe7fC9X_Zg",
     "channelTitle": "Measured and Poured",
-    "lastSeen": "2026-08-26T09:09:26.381Z"
-  },
-  {
-    "channelId": "UC9ln-iq2TxVl3M8fiux3d_A",
-    "channelTitle": "Flair Behind The Bar",
     "lastSeen": "2026-08-26T09:09:26.381Z"
   },
   {
@@ -308,51 +3128,6 @@
     "channelId": "UCP7VKryOLq7hgsh1xqqgWjQ",
     "channelTitle": "FreYish",
     "lastSeen": "2026-08-26T09:09:26.065Z"
-  },
-  {
-    "channelId": "UC_hRQLgQRttAds1PxAFVEZg",
-    "channelTitle": "Shaikh Yasmeen",
-    "lastSeen": "2026-08-26T09:09:26.065Z"
-  },
-  {
-    "channelId": "UCEthKXa2cgZboN5EJRpz8eQ",
-    "channelTitle": "aiknowledgehub",
-    "lastSeen": "2026-08-26T09:09:26.065Z"
-  },
-  {
-    "channelId": "UCA5IK1nOjKL7sxjw667NPBg",
-    "channelTitle": "Debasis Patra ",
-    "lastSeen": "2026-08-26T09:09:26.065Z"
-  },
-  {
-    "channelId": "UCQj5ZLbASNO1elPruripPCA",
-    "channelTitle": "Sujit Pandit ",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
-  },
-  {
-    "channelId": "UCeyCeMEomuFoL7Zzz6KFJ2A",
-    "channelTitle": "ThatGuyDylan",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
-  },
-  {
-    "channelId": "UCtQ5dBRlivDBBFQlvg7mN1A",
-    "channelTitle": "Zelda Vtube",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
-  },
-  {
-    "channelId": "UCUXKg84aq3m2DxSe1k8Ff2g",
-    "channelTitle": "Mój Bar",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
-  },
-  {
-    "channelId": "UCylKsPy1DWfnpci1r66fpJw",
-    "channelTitle": "Beyond The Plate with Carol",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
-  },
-  {
-    "channelId": "UCTxxNW--NgwqpvyOKjucH_g",
-    "channelTitle": "CINEMILLS TV",
-    "lastSeen": "2026-08-26T09:09:26.064Z"
   },
   {
     "channelId": "UCymFBpdPTmSyH13rdzBtu5w",
@@ -398,11 +3173,6 @@
     "channelId": "UCsq4iss1A4MpTYclXI7z_SA",
     "channelTitle": "🎀 Nicole | Dirty Drink Club",
     "lastSeen": "2026-08-26T09:09:25.755Z"
-  },
-  {
-    "channelId": "UCwvwXTgJ5-T10QcFDqYM8FQ",
-    "channelTitle": "Park Street University",
-    "lastSeen": "2026-08-26T09:09:25.468Z"
   },
   {
     "channelId": "UCq3mi4TecKImjmFarPFb5ig",
@@ -470,11 +3240,6 @@
     "lastSeen": "2026-08-26T09:09:24.917Z"
   },
   {
-    "channelId": "UClnwfcpVufJ0luYzyOs6rUQ",
-    "channelTitle": "Mr.Randy's Wine & Spirits",
-    "lastSeen": "2026-08-26T09:09:24.605Z"
-  },
-  {
     "channelId": "UCTGaHwwG6YYG8yo7sklHLXg",
     "channelTitle": "QualiteLandes",
     "lastSeen": "2026-08-26T09:09:24.605Z"
@@ -500,11 +3265,6 @@
     "lastSeen": "2026-08-26T09:09:24.604Z"
   },
   {
-    "channelId": "UCas3AKiE8aEv8CAdcFaXFpQ",
-    "channelTitle": "Office de tourisme Armagnac & D'Artagnan (OT Armagnac & D'Artagnan)",
-    "lastSeen": "2026-08-26T09:09:24.604Z"
-  },
-  {
     "channelId": "UCmxZw7N4Jyljr1RbSs4Ymaw",
     "channelTitle": "FightHype",
     "lastSeen": "2026-08-26T09:09:24.325Z"
@@ -515,28 +3275,8 @@
     "lastSeen": "2026-08-26T09:09:24.324Z"
   },
   {
-    "channelId": "UCjgAKt55N2SH00JfZ_2x7Rw",
-    "channelTitle": "Sean S",
-    "lastSeen": "2026-08-26T09:09:24.324Z"
-  },
-  {
     "channelId": "UCXXq3MmNAQ4CRbu41kXXjWA",
     "channelTitle": "Sonic Asmr",
-    "lastSeen": "2026-08-26T09:09:24.324Z"
-  },
-  {
-    "channelId": "UCb4ySZUaNhbWhL_8_D-cM-A",
-    "channelTitle": "Profesor Macabro",
-    "lastSeen": "2026-08-26T09:09:24.324Z"
-  },
-  {
-    "channelId": "UCvnpQ8ncwF1LFBX8_d1Xb5g",
-    "channelTitle": "Brandy & Tito's Everyday Finds",
-    "lastSeen": "2026-08-26T09:09:24.324Z"
-  },
-  {
-    "channelId": "UC1L0oAzUmt_vJMv8GgHcjVg",
-    "channelTitle": "kingdom of unpacking",
     "lastSeen": "2026-08-26T09:09:24.324Z"
   },
   {
@@ -553,21 +3293,6 @@
     "channelId": "UC4qxcJS65ywcKJfYEEJT0Vg",
     "channelTitle": "2 Bougie Brothers: ODB & K.I.R.K. the Cognac Nerds",
     "lastSeen": "2026-08-26T09:09:24.029Z"
-  },
-  {
-    "channelId": "UC4hR3GMcqKSmQFBqAk1Mu2Q",
-    "channelTitle": "Reilley's Tasting Room",
-    "lastSeen": "2026-08-26T09:09:24.029Z"
-  },
-  {
-    "channelId": "UC2zkKeZhrN94j8ttFNZCKfQ",
-    "channelTitle": "Jo Wine & Spirits ",
-    "lastSeen": "2026-08-26T09:09:24.029Z"
-  },
-  {
-    "channelId": "UCCnj6JN3CzGwhOaIfHvgxxg",
-    "channelTitle": "Laced Fresh",
-    "lastSeen": "2026-08-26T09:09:24.028Z"
   },
   {
     "channelId": "UCbdY8Krhvh4hwXL255cJJIw",
@@ -615,21 +3340,6 @@
     "lastSeen": "2026-08-26T09:09:23.753Z"
   },
   {
-    "channelId": "UCvTwlJlid0gOR6qg3uRf-2A",
-    "channelTitle": "Bistro Ginkgo | The Longevity Cuisine",
-    "lastSeen": "2026-08-26T09:09:23.753Z"
-  },
-  {
-    "channelId": "UCBX7h-eX_R8wtECORkZwY_A",
-    "channelTitle": "Mr Wuu",
-    "lastSeen": "2026-08-26T09:09:23.454Z"
-  },
-  {
-    "channelId": "UCJ3ZVBSaVwPraiwt0FAQm6w",
-    "channelTitle": "Different Spirits",
-    "lastSeen": "2026-08-26T09:09:23.454Z"
-  },
-  {
     "channelId": "UCB86v9pN2zSKDZQG9cKpjFw",
     "channelTitle": "Honest Sips",
     "lastSeen": "2026-08-26T09:09:23.454Z"
@@ -638,16 +3348,6 @@
     "channelId": "UCCJFWxm9fUtB4hPzNvmfcMA",
     "channelTitle": "James May’s Planet Gin",
     "lastSeen": "2026-08-26T09:09:23.454Z"
-  },
-  {
-    "channelId": "UCAjb-PiitDCE-YCmJh3CfEA",
-    "channelTitle": "Mystery of Drinks",
-    "lastSeen": "2026-08-26T09:09:23.453Z"
-  },
-  {
-    "channelId": "UCtG1c-v2McHp3A-kpV0MQyA",
-    "channelTitle": "allons.y",
-    "lastSeen": "2026-08-26T09:09:23.453Z"
   },
   {
     "channelId": "UChP4kgrdLjj0Ewv6S3pk1iw",
@@ -690,18 +3390,8 @@
     "lastSeen": "2026-08-26T09:09:23.006Z"
   },
   {
-    "channelId": "UCPLV29Ja0yBo3iIYQMP8dpw",
-    "channelTitle": "Tincture House",
-    "lastSeen": "2026-08-26T09:09:23.006Z"
-  },
-  {
     "channelId": "UC1-aom-NcTzB-3fFejXuhZA",
     "channelTitle": "Justin Purvis",
-    "lastSeen": "2026-08-26T09:09:23.006Z"
-  },
-  {
-    "channelId": "UCx0QydjPjCESw-PUYF6_a1g",
-    "channelTitle": "Nonhlanhla Moloi",
     "lastSeen": "2026-08-26T09:09:23.006Z"
   },
   {
@@ -725,16 +3415,6 @@
     "lastSeen": "2026-08-26T09:09:22.694Z"
   },
   {
-    "channelId": "UC3UAGOFuWzNVaFtG03ynbDw",
-    "channelTitle": "Character Proof",
-    "lastSeen": "2026-08-26T09:09:22.694Z"
-  },
-  {
-    "channelId": "UCycORvCTjr7zn-fxttE81zw",
-    "channelTitle": "The Urban Guide",
-    "lastSeen": "2026-08-26T09:09:22.694Z"
-  },
-  {
     "channelId": "UCkuHWiY6_tXaITUvqhiZlCA",
     "channelTitle": "Futuros Vejetes",
     "lastSeen": "2026-08-26T09:09:22.694Z"
@@ -742,16 +3422,6 @@
   {
     "channelId": "UCNCC_mULY8rsDow8oPbEdEA",
     "channelTitle": "PantryVerse",
-    "lastSeen": "2026-08-26T09:09:22.424Z"
-  },
-  {
-    "channelId": "UCxCNgtgTquLc9_Z4gnaxjmQ",
-    "channelTitle": "Global Capital Network",
-    "lastSeen": "2026-08-26T09:09:22.424Z"
-  },
-  {
-    "channelId": "UCn5wZwxTJ5wX0Dc3ilUxJ4Q",
-    "channelTitle": "Essenar",
     "lastSeen": "2026-08-26T09:09:22.424Z"
   },
   {
@@ -780,79 +3450,14 @@
     "lastSeen": "2026-08-26T09:09:22.424Z"
   },
   {
-    "channelId": "UCMZiPqhTAaw17YPwJ9bh36A",
-    "channelTitle": "Im_off_stage",
-    "lastSeen": "2026-08-26T09:09:22.424Z"
-  },
-  {
     "channelId": "UCN-KYGY0JG9rV_53q5L-n1w",
     "channelTitle": "twiceayear",
     "lastSeen": "2026-08-26T09:09:22.143Z"
   },
   {
-    "channelId": "UCNlN9xw9vsM4EqXF-iSX5Ug",
-    "channelTitle": "Mallu in malta",
-    "lastSeen": "2026-08-26T09:09:22.143Z"
-  },
-  {
-    "channelId": "UCqVZSjBINKvrsyO3pIslaWA",
-    "channelTitle": "That Bottle Tho",
-    "lastSeen": "2026-08-26T09:09:22.143Z"
-  },
-  {
-    "channelId": "UCvmyL6YlHBnpwSXxEmd8fCQ",
-    "channelTitle": "Scoolinary",
-    "lastSeen": "2026-08-26T09:09:22.143Z"
-  },
-  {
-    "channelId": "UC4F5XIaaKCfnse0zETMKH1g",
-    "channelTitle": "Slightly drunk moment",
-    "lastSeen": "2026-08-26T09:09:22.143Z"
-  },
-  {
-    "channelId": "UCwcH94eG9YYAn1G2nfw3j-w",
-    "channelTitle": "KADAK",
-    "lastSeen": "2026-08-26T09:09:21.840Z"
-  },
-  {
-    "channelId": "UCXALA75pfKfdeeGQ44hks6Q",
-    "channelTitle": "Rum Verdict",
-    "lastSeen": "2026-08-26T09:09:21.840Z"
-  },
-  {
-    "channelId": "UCTpl26xhfDbDQo5jRPOl4bQ",
-    "channelTitle": "Breaking Good",
-    "lastSeen": "2026-08-26T09:09:21.840Z"
-  },
-  {
     "channelId": "UCeVeKuFhf8z1tEbUdy456XQ",
     "channelTitle": "Treguddick Distillery",
     "lastSeen": "2026-08-26T09:09:21.840Z"
-  },
-  {
-    "channelId": "UCNZiV-ppUWMnK2ABdMEFvtg",
-    "channelTitle": "Pawsitive Impuls",
-    "lastSeen": "2026-08-26T09:09:21.839Z"
-  },
-  {
-    "channelId": "UC9v2UcmS013eDTqz5hk6EmA",
-    "channelTitle": "Mounts Bay Distillery",
-    "lastSeen": "2026-08-26T09:09:21.839Z"
-  },
-  {
-    "channelId": "UCXUn89kIPAj3xXyAX-72wNw",
-    "channelTitle": "Omi",
-    "lastSeen": "2026-08-26T09:09:21.839Z"
-  },
-  {
-    "channelId": "UCFT4vUJ_Uo40rrIK9AxVK9w",
-    "channelTitle": "Taste of Gin",
-    "lastSeen": "2026-08-26T09:09:21.511Z"
-  },
-  {
-    "channelId": "UC-kfBKeFNWG_Ti-xwPYT8xg",
-    "channelTitle": "Oak and Agave",
-    "lastSeen": "2026-08-26T09:09:21.511Z"
   },
   {
     "channelId": "UCDjSamrcjRPwLvHnGdSLx8w",
@@ -910,36 +3515,6 @@
     "lastSeen": "2026-08-26T09:09:20.711Z"
   },
   {
-    "channelId": "UCf2r07k7hxjG51Cxm5brE6Q",
-    "channelTitle": "nmásmedia",
-    "lastSeen": "2026-08-26T09:09:20.711Z"
-  },
-  {
-    "channelId": "UCFrdNONq2wtSjhtJAviuslw",
-    "channelTitle": "Edu Hub",
-    "lastSeen": "2026-08-26T09:09:20.710Z"
-  },
-  {
-    "channelId": "UC3WqxxNNRi-EJqtpi8QwrLA",
-    "channelTitle": "Chef Andres Gallegos",
-    "lastSeen": "2026-08-26T09:09:20.710Z"
-  },
-  {
-    "channelId": "UC-RAo0SfWg0MzpxPAlpRAiQ",
-    "channelTitle": "F2_Project ",
-    "lastSeen": "2026-08-26T09:09:20.710Z"
-  },
-  {
-    "channelId": "UCB8cA6qySC-PyDdbnIwVh9g",
-    "channelTitle": "MuscleMomentsBR",
-    "lastSeen": "2026-08-26T09:09:20.710Z"
-  },
-  {
-    "channelId": "UCoT5-VON_4TGXi41MUj0ioA",
-    "channelTitle": "Puebleando Con Alberto",
-    "lastSeen": "2026-08-26T09:09:20.329Z"
-  },
-  {
     "channelId": "UC8znVDbYfmpmXhl-dQxyxcQ",
     "channelTitle": "Barrio stuff",
     "lastSeen": "2026-08-26T09:09:20.329Z"
@@ -975,154 +3550,9 @@
     "lastSeen": "2026-08-26T09:09:19.973Z"
   },
   {
-    "channelId": "UCYNQmglO8bWIK-KLPdgoR3A",
-    "channelTitle": "MAU OKAMI ",
-    "lastSeen": "2026-08-26T09:09:19.973Z"
-  },
-  {
-    "channelId": "UCpkzEg3z8T44fjZ1IZBKsiA",
-    "channelTitle": "Sip, Savor & Celebrate ",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCNPzympRagDemenLkMLtPmw",
-    "channelTitle": "ttbmath",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCRF8t5QNnP1FBdohOVuz3lg",
-    "channelTitle": "Long Island Lou Tequila",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCnKPfiT_eL7Ex-X0rScaq-w",
-    "channelTitle": "PKGD Group",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCu3qjuBLbYqkx1EqOHduHNw",
-    "channelTitle": "Finca 18",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCAESKTBO8vjkcwh3MnKLeZQ",
-    "channelTitle": "Tequila Cop",
-    "lastSeen": "2026-08-26T09:09:19.627Z"
-  },
-  {
-    "channelId": "UCS9OWpj7ANeh9RMx1-F9BeQ",
-    "channelTitle": "Jalisco Trip Tours",
-    "lastSeen": "2026-08-26T09:09:19.626Z"
-  },
-  {
-    "channelId": "UCTOjst-gaqxdKly9a1i4mRQ",
-    "channelTitle": "La Reina Raicilla",
-    "lastSeen": "2026-08-26T09:09:19.296Z"
-  },
-  {
-    "channelId": "UCoSe0zuto119vwOSMtFUSVQ",
-    "channelTitle": "Alize",
-    "lastSeen": "2026-08-26T09:09:19.296Z"
-  },
-  {
-    "channelId": "UCuhRWXeWchOuAB6-guA5WjQ",
-    "channelTitle": "Lucas De Assis",
-    "lastSeen": "2026-08-26T09:09:19.296Z"
-  },
-  {
-    "channelId": "UCvSRi-HGjZezeG45f5J_K8Q",
-    "channelTitle": "JetSetters Vacation",
-    "lastSeen": "2026-08-26T09:09:18.897Z"
-  },
-  {
-    "channelId": "UCmUN12W-O0OQeJUG9DHfiIQ",
-    "channelTitle": "Hroff Simeonov",
-    "lastSeen": "2026-08-26T09:09:18.897Z"
-  },
-  {
-    "channelId": "UCijDvo0eZB8Jb4XSnLnQ8vw",
-    "channelTitle": "Tasted",
-    "lastSeen": "2026-08-26T09:09:18.617Z"
-  },
-  {
-    "channelId": "UCw65ZM0fyY5KEoBToA7aBNQ",
-    "channelTitle": "México entre Botellas ",
-    "lastSeen": "2026-08-26T09:09:18.617Z"
-  },
-  {
-    "channelId": "UC3SWBIQZapAR1QlesaAej0g",
-    "channelTitle": "The Epicurean Gentleman",
-    "lastSeen": "2026-08-26T09:09:18.617Z"
-  },
-  {
-    "channelId": "UCkXpHPMT8NY-lz5tiwdgGlg",
-    "channelTitle": "Explorando MÉXICO | Donnet García ",
-    "lastSeen": "2026-08-26T09:09:18.616Z"
-  },
-  {
-    "channelId": "UCazbUnXRVpfmjvqiFC_jkYA",
-    "channelTitle": "Maguey Melate",
-    "lastSeen": "2026-08-26T09:09:18.616Z"
-  },
-  {
-    "channelId": "UCB5WuPV6pEkcFdG18RryA6Q",
-    "channelTitle": "The Tequila Pour",
-    "lastSeen": "2026-08-26T09:09:18.616Z"
-  },
-  {
-    "channelId": "UCGoJNx9jca468GD3XwKNpdQ",
-    "channelTitle": "El Mago Humberto Armas Ornelas",
-    "lastSeen": "2026-08-26T09:09:18.616Z"
-  },
-  {
-    "channelId": "UCTAml_JAZWppCNgmxV1T-eA",
-    "channelTitle": "TEDO PHOTOFINISH",
-    "lastSeen": "2026-08-26T09:09:18.616Z"
-  },
-  {
-    "channelId": "UC3ELG5waJB73ZbhsD5fPiNQ",
-    "channelTitle": "Aplausos!",
-    "lastSeen": "2026-08-26T09:09:18.615Z"
-  },
-  {
-    "channelId": "UCxv49pzKtoWRk2Jdd-wa-qw",
-    "channelTitle": "Sonora Salvaje",
-    "lastSeen": "2026-08-26T09:09:18.373Z"
-  },
-  {
-    "channelId": "UCmJpKokmq-hMVsgi6kDoGXg",
-    "channelTitle": "Mi Gran SONORA",
-    "lastSeen": "2026-08-26T09:09:18.373Z"
-  },
-  {
     "channelId": "UCk3Q4OBBiePohX1j_QrgGPg",
     "channelTitle": "Saric637",
     "lastSeen": "2026-08-26T09:09:18.373Z"
-  },
-  {
-    "channelId": "UCFYVQy34IRNXGp1Xj2bmoCw",
-    "channelTitle": "ariel meneses",
-    "lastSeen": "2026-08-26T09:09:18.373Z"
-  },
-  {
-    "channelId": "UCljlp0obdh4pR27CxzeXzzA",
-    "channelTitle": "Soy El Chef Modesto",
-    "lastSeen": "2026-08-26T09:09:18.373Z"
-  },
-  {
-    "channelId": "UC4UOXmME2_Pg0ocuD4YwlGQ",
-    "channelTitle": "DIARIO DEL YAQUI OFICIAL",
-    "lastSeen": "2026-08-26T09:09:18.085Z"
-  },
-  {
-    "channelId": "UCLKoheF3C7VlwmLbnmwMTcw",
-    "channelTitle": "Candra Drinks",
-    "lastSeen": "2026-08-26T09:09:18.085Z"
-  },
-  {
-    "channelId": "UCs3t27vJvLkcuuotpz4sylw",
-    "channelTitle": "Borderland Spirits",
-    "lastSeen": "2026-08-26T09:09:18.084Z"
   },
   {
     "channelId": "UCdU75jkji3b--WQ2svwqS7A",
@@ -1130,39 +3560,9 @@
     "lastSeen": "2026-08-26T09:09:18.084Z"
   },
   {
-    "channelId": "UC_BYwgV4p2dk8_EWL_oozIg",
-    "channelTitle": "Sotol Romo",
-    "lastSeen": "2026-08-26T09:09:17.721Z"
-  },
-  {
     "channelId": "UCX6qDVwV3R6plu8Kne4z60Q",
     "channelTitle": "RichTakes",
     "lastSeen": "2026-08-26T09:09:17.721Z"
-  },
-  {
-    "channelId": "UCK2Y3nfOKXs23_HTZThaMig",
-    "channelTitle": "Desde la Calle 🍔🚶",
-    "lastSeen": "2026-08-26T09:09:17.721Z"
-  },
-  {
-    "channelId": "UCpeN1ol6pn06BQq1o-lIsUw",
-    "channelTitle": "Kampana Del paso",
-    "lastSeen": "2026-08-26T09:09:17.721Z"
-  },
-  {
-    "channelId": "UCH4RzpNnzqfjpKHO_CaJMbw",
-    "channelTitle": "MonTI",
-    "lastSeen": "2026-08-26T09:09:17.720Z"
-  },
-  {
-    "channelId": "UCIXC5uf1me44rMOq8jTB2zQ",
-    "channelTitle": "Born 2 Eat",
-    "lastSeen": "2026-08-26T09:09:17.182Z"
-  },
-  {
-    "channelId": "UCJ8ntcODov7L9TZtyklVGXA",
-    "channelTitle": "Charlene Cooper",
-    "lastSeen": "2026-08-26T09:09:17.182Z"
   },
   {
     "channelId": "UCgnlBVKdATme0zQEcfHlhZg",
@@ -1193,36 +3593,6 @@
     "channelId": "UC6bNShpTjPBVb6tT-C9HhTg",
     "channelTitle": "Anveshana Facts",
     "lastSeen": "2026-08-26T09:09:16.917Z"
-  },
-  {
-    "channelId": "UCZZBo4OqQklNDiEppinehXg",
-    "channelTitle": "Be Social Scene",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
-  },
-  {
-    "channelId": "UCkdsJOXFXrEh5vz-yGqWChA",
-    "channelTitle": "TheLoveofMezcal",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
-  },
-  {
-    "channelId": "UCIKfoK-WOxoq2tfddk4M0Hg",
-    "channelTitle": "Planet Mezcal",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
-  },
-  {
-    "channelId": "UCP2MlG4CpK6g3BH1e1MCoNA",
-    "channelTitle": "StogieHolic",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
-  },
-  {
-    "channelId": "UCZKWpojWy15UACeOKfv80Eg",
-    "channelTitle": "Drinks + Thinks",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
-  },
-  {
-    "channelId": "UC4fgta7FMlvfVl-eCbAjRQg",
-    "channelTitle": "Scent, Style & Sip",
-    "lastSeen": "2026-08-26T09:09:16.627Z"
   },
   {
     "channelId": "UCqU-f1rE_x1INQNdwcY_99g",
@@ -1270,11 +3640,6 @@
     "lastSeen": "2026-08-26T09:09:15.998Z"
   },
   {
-    "channelId": "UCRW99C7f5yr1AkxliKKggvQ",
-    "channelTitle": "Whiskey Weather",
-    "lastSeen": "2026-08-26T09:09:15.998Z"
-  },
-  {
     "channelId": "UCej6nuhr81PLyNion3xEatw",
     "channelTitle": "Whiskey Knows",
     "lastSeen": "2026-08-26T09:09:15.998Z"
@@ -1293,11 +3658,6 @@
     "channelId": "UCQq1KSJOwnAyA261kduKFRQ",
     "channelTitle": "Kessler Watson",
     "lastSeen": "2026-08-26T09:09:15.998Z"
-  },
-  {
-    "channelId": "UCE8y9wcK0hXdEq06DSPCVfg",
-    "channelTitle": "Bourbon Theory",
-    "lastSeen": "2026-08-26T09:09:15.997Z"
   },
   {
     "channelId": "UCfwyk1gOMxIgTC7nWy5j3fQ",
@@ -1325,18 +3685,8 @@
     "lastSeen": "2026-08-26T09:09:15.693Z"
   },
   {
-    "channelId": "UCo_SMbxnQgHd5M6z5ivG8-Q",
-    "channelTitle": "MOVIE NEWS",
-    "lastSeen": "2026-08-26T09:09:15.693Z"
-  },
-  {
     "channelId": "UCxp1YRyotheBlUf9JwuzowA",
     "channelTitle": "Whisky Ingo",
-    "lastSeen": "2026-08-26T09:09:15.692Z"
-  },
-  {
-    "channelId": "UCNSBd0RwG4HjHDNUtzyzFSg",
-    "channelTitle": "DEEPAKRAJPUTGOA",
     "lastSeen": "2026-08-26T09:09:15.692Z"
   },
   {
@@ -1415,38 +3765,13 @@
     "lastSeen": "2026-08-26T09:09:14.659Z"
   },
   {
-    "channelId": "UCwPYivB7nxM8EItbYK0HKig",
-    "channelTitle": "Faye Smith Beauty",
-    "lastSeen": "2026-08-26T09:09:14.659Z"
-  },
-  {
     "channelId": "UCgVOa6ymi8qN33VQrdxSjKg",
     "channelTitle": "Nycci Nellis",
     "lastSeen": "2026-08-26T09:09:14.659Z"
   },
   {
-    "channelId": "UC-UE7MntTByPle-ASDvo2Lw",
-    "channelTitle": "Chappellet Winery",
-    "lastSeen": "2026-08-26T09:09:14.659Z"
-  },
-  {
-    "channelId": "UCarWORwZWrEiVUjLbYbXuZQ",
-    "channelTitle": "Stone Hill Winery",
-    "lastSeen": "2026-08-26T09:09:14.659Z"
-  },
-  {
-    "channelId": "UCZ12QdhL602ExbIpK2aMCPQ",
-    "channelTitle": "Wine With Paige",
-    "lastSeen": "2026-08-26T09:09:14.659Z"
-  },
-  {
     "channelId": "UCSkJ9u0i3XtaKjM_Oy_NaQg",
     "channelTitle": "Meshkovi Winery",
-    "lastSeen": "2026-08-26T09:09:14.659Z"
-  },
-  {
-    "channelId": "UCNStqFc_HwFsJMpHsypy2ZA",
-    "channelTitle": "Country Collection",
     "lastSeen": "2026-08-26T09:09:14.659Z"
   },
   {
@@ -1457,16 +3782,6 @@
   {
     "channelId": "UCKxDCCos0uk2qAh92yKS-dA",
     "channelTitle": "Vivid Tours",
-    "lastSeen": "2026-08-26T09:09:14.353Z"
-  },
-  {
-    "channelId": "UCvSlxfIIKzXSwaSUP5VBapg",
-    "channelTitle": "Good Day Sacramento",
-    "lastSeen": "2026-08-26T09:09:14.353Z"
-  },
-  {
-    "channelId": "UCgLDURm_J3E2WXZvI8o1Zzw",
-    "channelTitle": "KOLKATA",
     "lastSeen": "2026-08-26T09:09:14.353Z"
   },
   {
@@ -1512,11 +3827,6 @@
   {
     "channelId": "UCqTY3eD3j7Ku14jjF1FC0Ug",
     "channelTitle": "Mom’s Travel Squad",
-    "lastSeen": "2026-08-26T09:09:14.001Z"
-  },
-  {
-    "channelId": "UC-QABo7v4avMylPWfRh6ieA",
-    "channelTitle": "Wineglitz India - The Wine Club 🍷",
     "lastSeen": "2026-08-26T09:09:14.001Z"
   },
   {
@@ -1580,18 +3890,8 @@
     "lastSeen": "2026-08-26T09:09:13.222Z"
   },
   {
-    "channelId": "UCQt0eIVhtkigCKkDnYOyt_g",
-    "channelTitle": "#winewithryan & Musclecarfan1",
-    "lastSeen": "2026-08-26T09:09:13.222Z"
-  },
-  {
     "channelId": "UC5WRWe8x6MSDbvykVX1np3Q",
     "channelTitle": "Food and Wine, All Mine",
-    "lastSeen": "2026-08-26T09:09:13.222Z"
-  },
-  {
-    "channelId": "UCqWHpBj1WvepfytUrE8AoNA",
-    "channelTitle": "Toverna",
     "lastSeen": "2026-08-26T09:09:13.222Z"
   },
   {
@@ -1603,21 +3903,6 @@
     "channelId": "UC70SlUtjvpr8Idze853sImA",
     "channelTitle": "Travel Doc Hub123",
     "lastSeen": "2026-08-26T09:09:13.221Z"
-  },
-  {
-    "channelId": "UCoc9JZJVTD_5LbF1hvceSBg",
-    "channelTitle": "Go Sail Adventures",
-    "lastSeen": "2026-08-26T09:09:13.221Z"
-  },
-  {
-    "channelId": "UCF25oxiigcO4hxOw1JbCceg",
-    "channelTitle": "Destino China",
-    "lastSeen": "2026-08-26T09:09:12.776Z"
-  },
-  {
-    "channelId": "UC_sJCOxySL65T6sIVeUcN0g",
-    "channelTitle": "Grapes The Wine Company",
-    "lastSeen": "2026-08-26T09:09:12.776Z"
   },
   {
     "channelId": "UCVNAy6XbuBcY9RwCa8Pid1Q",
@@ -1653,16 +3938,6 @@
     "channelId": "UCayIT5GKHNdwIguISzFH6aQ",
     "channelTitle": "Subi Curious",
     "lastSeen": "2026-08-26T09:09:12.776Z"
-  },
-  {
-    "channelId": "UCnp-XDQW7J5IU77TZCMqKhA",
-    "channelTitle": "The English Wine Cellar",
-    "lastSeen": "2026-08-26T09:09:12.438Z"
-  },
-  {
-    "channelId": "UCtVvNwgsO4_rKdsX197HzDw",
-    "channelTitle": "Skurnik Wines & Spirits",
-    "lastSeen": "2026-08-26T09:09:12.437Z"
   },
   {
     "channelId": "UCIZx9KODLlS_Vm8mUedI6sw",
@@ -1725,11 +4000,6 @@
     "lastSeen": "2026-08-26T09:09:11.773Z"
   },
   {
-    "channelId": "UCa0rxmHxVWiqwdtM51hOPXA",
-    "channelTitle": "Wine Unlocked",
-    "lastSeen": "2026-08-26T09:09:11.773Z"
-  },
-  {
     "channelId": "UCT0YXm6qpliCmr0XczB8j-g",
     "channelTitle": "LucidWild Estate",
     "lastSeen": "2026-08-26T09:09:11.773Z"
@@ -1745,69 +4015,14 @@
     "lastSeen": "2026-08-26T09:09:11.773Z"
   },
   {
-    "channelId": "UCyWH-k1ue_5lwXXuTusWEdQ",
-    "channelTitle": "Novobac bio-products solution",
-    "lastSeen": "2026-08-26T09:09:11.772Z"
-  },
-  {
     "channelId": "UCFZ7SSuNDB9TppirTT-deEg",
     "channelTitle": "Cherubino Wines",
     "lastSeen": "2026-08-26T09:09:11.772Z"
   },
   {
-    "channelId": "UCIe5rOLf18ZllnhaZWWQt9A",
-    "channelTitle": "Cork and Journey",
-    "lastSeen": "2026-08-26T09:09:11.451Z"
-  },
-  {
-    "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-    "channelTitle": "GBNews",
-    "lastSeen": "2026-08-26T09:09:11.451Z"
-  },
-  {
-    "channelId": "UC_lrbtsKnOF-5gaG9rJ5DAg",
-    "channelTitle": "VinoVault",
-    "lastSeen": "2026-08-26T09:09:11.451Z"
-  },
-  {
-    "channelId": "UC9rHVSPYQEss4iyo0r9JUkw",
-    "channelTitle": "Kay wallace",
-    "lastSeen": "2026-08-26T09:09:11.451Z"
-  },
-  {
     "channelId": "UCpCHVga8Z9CQdEo6-9alnDw",
     "channelTitle": "Emotions in Wine",
     "lastSeen": "2026-08-26T09:09:11.451Z"
-  },
-  {
-    "channelId": "UCrp_UI8XtuYfpiqluWLD7Lw",
-    "channelTitle": "CNBC Television",
-    "lastSeen": "2026-08-26T09:09:11.450Z"
-  },
-  {
-    "channelId": "UCBPGZZw2h7ZlOOgisetv1vA",
-    "channelTitle": "SpeakingPoliticsUK ",
-    "lastSeen": "2026-08-26T09:09:11.450Z"
-  },
-  {
-    "channelId": "UCR0g3ZFAQm3Qs5ulo52h9Fw",
-    "channelTitle": "SouthAfrica Wine",
-    "lastSeen": "2026-08-26T09:09:11.450Z"
-  },
-  {
-    "channelId": "UCPfgCTgKSNoVRES2ApF2uNA",
-    "channelTitle": "winetellect_pro",
-    "lastSeen": "2026-08-26T09:09:11.146Z"
-  },
-  {
-    "channelId": "UCXkfbm24QV087wlt6_V9t3g",
-    "channelTitle": "liana rose wine",
-    "lastSeen": "2026-08-26T09:09:11.146Z"
-  },
-  {
-    "channelId": "UCZon8YSJwFtTFVSX6aiXAmw",
-    "channelTitle": "Xplor Wine of Demarest",
-    "lastSeen": "2026-08-26T09:09:11.146Z"
   },
   {
     "channelId": "UCub4ShxfktYphJangmHn69A",
@@ -1817,11 +4032,6 @@
   {
     "channelId": "UCiByUrzw5QiIYqwAvQwIaHQ",
     "channelTitle": "Cork & Fizz Wine Education",
-    "lastSeen": "2026-08-26T09:09:11.145Z"
-  },
-  {
-    "channelId": "UC4O2vUOB5FCBA3NOi5Cqt1w",
-    "channelTitle": "Tamburlaine Organic Wines",
     "lastSeen": "2026-08-26T09:09:11.145Z"
   },
   {
@@ -1852,11 +4062,6 @@
   {
     "channelId": "UCXfmidPj2ihWV4zxiEJzw5Q",
     "channelTitle": "Monika Regina",
-    "lastSeen": "2026-08-26T09:09:10.855Z"
-  },
-  {
-    "channelId": "UCE82DI1iTwqrw68zX-rc0cQ",
-    "channelTitle": "Jan Matthias Klein",
     "lastSeen": "2026-08-26T09:09:10.855Z"
   },
   {
@@ -1900,41 +4105,6 @@
     "lastSeen": "2026-08-26T09:09:10.576Z"
   },
   {
-    "channelId": "UCy7JrEvg0QFGD7LyGTTvA5Q",
-    "channelTitle": "WSET 2 QUIZ Prepration",
-    "lastSeen": "2026-08-26T09:09:10.265Z"
-  },
-  {
-    "channelId": "UC9G8VTG-SAn4Ezg6KxTystA",
-    "channelTitle": "ITCertArena Certification Learning  Zone ",
-    "lastSeen": "2026-08-26T09:09:10.265Z"
-  },
-  {
-    "channelId": "UCaKgDk2ceBEgkFRmpIaAwkA",
-    "channelTitle": "UnitedSide 90",
-    "lastSeen": "2026-08-26T09:09:10.264Z"
-  },
-  {
-    "channelId": "UCI19rhM9cW3JLdnEQKIHqHA",
-    "channelTitle": "Real Estate Defined",
-    "lastSeen": "2026-08-26T09:09:09.950Z"
-  },
-  {
-    "channelId": "UCwpv9kEteJ__2zi8wp12_NA",
-    "channelTitle": "Wine Country Cowgirl",
-    "lastSeen": "2026-08-26T09:09:09.950Z"
-  },
-  {
-    "channelId": "UCGq1w9gEyWi-yy9Nmro149Q",
-    "channelTitle": "Sussex College of Business",
-    "lastSeen": "2026-08-26T09:09:09.950Z"
-  },
-  {
-    "channelId": "UC3l9nZOvetQuwj2R-_qwJHQ",
-    "channelTitle": "Nilantha Hettiarachchi ",
-    "lastSeen": "2026-08-26T09:09:09.674Z"
-  },
-  {
     "channelId": "UClgxPpX4hgLnblJBm9Xts3Q",
     "channelTitle": "Wine With Jimmy",
     "lastSeen": "2026-08-26T09:09:09.674Z"
@@ -1967,11 +4137,6 @@
   {
     "channelId": "UCoN3HYupF4mQGwUW64hZLQw",
     "channelTitle": "SHAGAN💅",
-    "lastSeen": "2026-08-26T09:09:09.334Z"
-  },
-  {
-    "channelId": "UCRtwYMRueIBifqq38ytQo_g",
-    "channelTitle": "Chef Sanju Pahadi",
     "lastSeen": "2026-08-26T09:09:09.334Z"
   },
   {
@@ -2060,11 +4225,6 @@
     "lastSeen": "2026-08-26T09:09:08.606Z"
   },
   {
-    "channelId": "UCcwCQ3gA9Rwnnzm9UVPfNlg",
-    "channelTitle": "Drink Master",
-    "lastSeen": "2026-08-26T09:09:08.606Z"
-  },
-  {
     "channelId": "UC5BXUEs70dRN1pY7hjmZsjg",
     "channelTitle": "unsobered",
     "lastSeen": "2026-08-26T09:09:08.606Z"
@@ -2103,11 +4263,6 @@
     "channelId": "UCvLAA8wgVKqfkAIf-eAcA9g",
     "channelTitle": "Lilly Song",
     "lastSeen": "2026-08-26T09:09:08.282Z"
-  },
-  {
-    "channelId": "UCfwxa2xWVtCNzlSA1rmFFuw",
-    "channelTitle": "Great Brix Brewing",
-    "lastSeen": "2026-08-26T09:09:08.281Z"
   },
   {
     "channelId": "UC9AnfUCCjbiQQncUOBkiong",
@@ -2155,11 +4310,6 @@
     "lastSeen": "2026-08-26T09:09:07.847Z"
   },
   {
-    "channelId": "UC7GIjnBLBvdvkn3e2rNbL9g",
-    "channelTitle": "Hocantalk.english",
-    "lastSeen": "2026-08-26T09:09:07.847Z"
-  },
-  {
     "channelId": "UC7L_5727s3naPN8ooBz_ypQ",
     "channelTitle": "Vanessa Ho",
     "lastSeen": "2026-08-26T09:09:07.847Z"
@@ -2167,11 +4317,6 @@
   {
     "channelId": "UC_UhYaKCOUxyKhusAJUGMag",
     "channelTitle": "solerasommelier",
-    "lastSeen": "2026-08-26T09:09:07.846Z"
-  },
-  {
-    "channelId": "UCu4c3swxKrqLTGHqRpc-gNw",
-    "channelTitle": "Vivienne Morgan",
     "lastSeen": "2026-08-26T09:09:07.846Z"
   },
   {
@@ -2230,18 +4375,8 @@
     "lastSeen": "2026-08-26T09:09:07.103Z"
   },
   {
-    "channelId": "UC10ZCuUXa4uBxExwhoFpESA",
-    "channelTitle": " Trophy Wine Hunter",
-    "lastSeen": "2026-08-26T09:09:07.103Z"
-  },
-  {
     "channelId": "UCact1zvzsn7AuP4jKVNjOcw",
     "channelTitle": "Richspire",
-    "lastSeen": "2026-08-26T09:09:07.103Z"
-  },
-  {
-    "channelId": "UC0wItOfNwOLdvl1-9ukBrFA",
-    "channelTitle": "Eric Prato",
     "lastSeen": "2026-08-26T09:09:07.103Z"
   },
   {
@@ -2380,11 +4515,6 @@
     "lastSeen": "2026-08-26T09:09:05.832Z"
   },
   {
-    "channelId": "UC69WPDpmaQKNQ7JJyuH4wjg",
-    "channelTitle": "Paris2Tokyo",
-    "lastSeen": "2026-08-26T09:09:05.831Z"
-  },
-  {
     "channelId": "UCMLN3gR2-S4Dt3f-7JkN7Aw",
     "channelTitle": "alex agri bourgogne",
     "lastSeen": "2026-08-26T09:09:05.831Z"
@@ -2403,16 +4533,6 @@
     "channelId": "UCHEuIe1gCaXUQ8EFM33GyYQ",
     "channelTitle": "Classical Lounge",
     "lastSeen": "2026-08-26T09:09:05.831Z"
-  },
-  {
-    "channelId": "UCDluDxsYEiV7EGFHsx0he-g",
-    "channelTitle": "EnoVi channel",
-    "lastSeen": "2026-08-26T09:09:05.489Z"
-  },
-  {
-    "channelId": "UCuA6hpz346pMB1weeuaAu0Q",
-    "channelTitle": "Jamie Goode",
-    "lastSeen": "2026-08-26T09:09:05.489Z"
   },
   {
     "channelId": "UCbkaqlSjOfNWqdjRQzBzIDA",
@@ -2495,11 +4615,6 @@
     "lastSeen": "2026-08-26T09:09:04.592Z"
   },
   {
-    "channelId": "UCIzo8t69n8fgvVmifN_hwuA",
-    "channelTitle": "Buy Wine PL",
-    "lastSeen": "2026-08-26T09:09:04.592Z"
-  },
-  {
     "channelId": "UCThayFJmEtI0bB4d_NF1v-w",
     "channelTitle": "Përgatitje",
     "lastSeen": "2026-08-26T09:09:04.592Z"
@@ -2540,18 +4655,8 @@
     "lastSeen": "2026-08-26T09:09:04.317Z"
   },
   {
-    "channelId": "UCzJeYTdIADrHaCNAOa9NaMw",
-    "channelTitle": "The Cellar Door Australia",
-    "lastSeen": "2026-08-26T09:09:04.317Z"
-  },
-  {
     "channelId": "UCH6cq9QnFwYZLqxL8DzWCFg",
     "channelTitle": "A Taste of Sculpterra",
-    "lastSeen": "2026-08-26T09:09:04.012Z"
-  },
-  {
-    "channelId": "UCryE8gNpiAfOoz8nEV4GMAQ",
-    "channelTitle": "Stu Does Reviews",
     "lastSeen": "2026-08-26T09:09:04.012Z"
   },
   {
@@ -2563,11 +4668,6 @@
     "channelId": "UCMyv8yHpaI6_KGHvq0TttOw",
     "channelTitle": "An Ink Guy",
     "lastSeen": "2026-08-26T09:09:04.012Z"
-  },
-  {
-    "channelId": "UC1tvT23GPJE-bZcXoKO92iQ",
-    "channelTitle": "wine_speaks",
-    "lastSeen": "2026-08-26T09:09:03.609Z"
   },
   {
     "channelId": "UCSHHB3SBhaygeRxzTBV5kMA",
@@ -2640,11 +4740,6 @@
     "lastSeen": "2026-08-26T09:09:02.953Z"
   },
   {
-    "channelId": "UCJ1hbTuZddRoQihAlALwE2w",
-    "channelTitle": "Compplex Arquitetura",
-    "lastSeen": "2026-08-26T09:09:02.953Z"
-  },
-  {
     "channelId": "UC3pvftFD0M6QUol7SRCjs5g",
     "channelTitle": "Mikel Wines",
     "lastSeen": "2026-08-26T09:09:02.611Z"
@@ -2680,11 +4775,6 @@
     "lastSeen": "2026-08-26T09:09:02.610Z"
   },
   {
-    "channelId": "UCSJcl_zs7DuYgJG1T5btFXw",
-    "channelTitle": "Italian Wine Travel with Stevie Kim",
-    "lastSeen": "2026-08-26T09:09:02.315Z"
-  },
-  {
     "channelId": "UCXFEIYM1uIKNSxZ2LHehz2Q",
     "channelTitle": "KHO RƯỢU",
     "lastSeen": "2026-08-26T09:09:02.315Z"
@@ -2712,11 +4802,6 @@
   {
     "channelId": "UCOipwV0iF5d68qYJH01npog",
     "channelTitle": "Big Hammer Wines",
-    "lastSeen": "2026-08-26T09:09:02.018Z"
-  },
-  {
-    "channelId": "UCEmSC5FmYql5pnWW9035i_Q",
-    "channelTitle": "JamesTheWineGuy",
     "lastSeen": "2026-08-26T09:09:02.018Z"
   },
   {
@@ -2775,11 +4860,6 @@
     "lastSeen": "2026-08-26T09:09:01.431Z"
   },
   {
-    "channelId": "UCq8x_Wv3E7PS6ytnQoH1fGA",
-    "channelTitle": "Mario Bustamante ",
-    "lastSeen": "2026-08-26T09:09:01.115Z"
-  },
-  {
     "channelId": "UCZUOADh9LFb6_vL5kD0OfjQ",
     "channelTitle": "Miami University Alumni Association",
     "lastSeen": "2026-08-26T09:09:00.788Z"
@@ -2808,11 +4888,6 @@
     "channelId": "UCMWCC-pCPiHYxbwErogGK5g",
     "channelTitle": "Bite of New England",
     "lastSeen": "2026-08-26T09:09:00.787Z"
-  },
-  {
-    "channelId": "UCbFVExNmwp3mpLrD8Uiwa8g",
-    "channelTitle": "Fab Expat",
-    "lastSeen": "2026-08-26T09:09:00.457Z"
   },
   {
     "channelId": "UCFQfQ_lUsgthPUheeEVn1lw",
@@ -2867,11 +4942,6 @@
   {
     "channelId": "UCgfFyIOBcXjfyhPL8ax8hKA",
     "channelTitle": "Finally Fabulous",
-    "lastSeen": "2026-08-26T09:09:00.112Z"
-  },
-  {
-    "channelId": "UC9_oVCmStynO4T8rlcp6ffQ",
-    "channelTitle": "Lost Trade Routes",
     "lastSeen": "2026-08-26T09:09:00.112Z"
   },
   {
@@ -2930,16 +5000,6 @@
     "lastSeen": "2026-08-23T08:56:07.416Z"
   },
   {
-    "channelId": "UCJsKfKMPTYMty09PnLDThTQ",
-    "channelTitle": "David",
-    "lastSeen": "2026-08-23T08:56:07.141Z"
-  },
-  {
-    "channelId": "UC8RaWIRPOo0CjWo-q9z_Kcg",
-    "channelTitle": "Whisky Wealth Warrior",
-    "lastSeen": "2026-08-23T08:56:07.141Z"
-  },
-  {
     "channelId": "UCAOecgy8XeGPkuVnu58jjTg",
     "channelTitle": "Whiskey Library",
     "lastSeen": "2026-08-23T08:56:07.141Z"
@@ -2965,11 +5025,6 @@
     "lastSeen": "2026-08-23T08:56:07.141Z"
   },
   {
-    "channelId": "UCP3XNGe4Nlwh9WrVJaZkb4g",
-    "channelTitle": "Torsten Horn",
-    "lastSeen": "2026-08-23T08:56:06.861Z"
-  },
-  {
     "channelId": "UC6-djcPlvdq8JXEdVQBRWMw",
     "channelTitle": "My Drone Tours",
     "lastSeen": "2026-08-23T08:56:06.861Z"
@@ -2988,11 +5043,6 @@
     "channelId": "UC9DZymKShnhFDbdDtyWimbg",
     "channelTitle": "The Intelligence Line",
     "lastSeen": "2026-08-23T08:56:06.860Z"
-  },
-  {
-    "channelId": "UCzo6AD0twIi-M0mHhiP4MSw",
-    "channelTitle": "BraziTaste",
-    "lastSeen": "2026-08-23T08:56:06.506Z"
   },
   {
     "channelId": "UCNjs9BYUFocA18EwgPG5IGA",
@@ -3023,11 +5073,6 @@
     "channelId": "UC3H5cD_BR7TjXLWTPp1b4uw",
     "channelTitle": "Maks On The Menu",
     "lastSeen": "2026-08-23T08:56:06.157Z"
-  },
-  {
-    "channelId": "UCPV_jSGguHTweAenSa3NSYQ",
-    "channelTitle": "Nic Hamilton",
-    "lastSeen": "2026-08-23T08:56:05.355Z"
   },
   {
     "channelId": "UCd5bV5NWftU0FAN6W0F34xA",
@@ -3082,11 +5127,6 @@
   {
     "channelId": "UCDW0bPNd6fcl1ywUXR-KfkA",
     "channelTitle": "BarKeeper",
-    "lastSeen": "2026-08-23T08:56:04.802Z"
-  },
-  {
-    "channelId": "UCdHpxflP95JN-4SPBtgleUQ",
-    "channelTitle": "Anup's Uncorked",
     "lastSeen": "2026-08-23T08:56:04.802Z"
   },
   {
@@ -3220,11 +5260,6 @@
     "lastSeen": "2026-08-23T08:56:03.720Z"
   },
   {
-    "channelId": "UCOm-IGBIBb2IB9kK953lwOQ",
-    "channelTitle": "The Feline Archivist",
-    "lastSeen": "2026-08-23T08:56:03.720Z"
-  },
-  {
     "channelId": "UCdSSoektSgfrAzawZSZEzkA",
     "channelTitle": "Tatina",
     "lastSeen": "2026-08-23T08:56:03.720Z"
@@ -3255,11 +5290,6 @@
     "lastSeen": "2026-08-23T08:56:03.467Z"
   },
   {
-    "channelId": "UC6hluLI5LWHt0glT4uidcAg",
-    "channelTitle": "mike",
-    "lastSeen": "2026-08-23T08:56:03.467Z"
-  },
-  {
     "channelId": "UCzGHdZL9yuuS1sHE65RuURw",
     "channelTitle": "NCTitle2 PD Archives",
     "lastSeen": "2026-08-23T08:56:03.467Z"
@@ -3280,11 +5310,6 @@
     "lastSeen": "2026-08-23T08:56:03.213Z"
   },
   {
-    "channelId": "UCGK1_m-Zul_5Fe6QZac62ug",
-    "channelTitle": "Cognac&Rum / Коньяк и Ром",
-    "lastSeen": "2026-08-23T08:56:03.212Z"
-  },
-  {
     "channelId": "UCFc1pD3cabYYsOCIQl-BuBw",
     "channelTitle": "The Shaikhdown",
     "lastSeen": "2026-08-23T08:56:02.911Z"
@@ -3293,16 +5318,6 @@
     "channelId": "UC8IfmDbUUNBJfU6C8rC8YDQ",
     "channelTitle": "sip with shaggy",
     "lastSeen": "2026-08-23T08:56:02.910Z"
-  },
-  {
-    "channelId": "UC5KQuly53UyarqzAtGbbubA",
-    "channelTitle": "Code Felici",
-    "lastSeen": "2026-08-23T08:56:02.636Z"
-  },
-  {
-    "channelId": "UCgTn3BK4GEf0QqrnJ6tKvAw",
-    "channelTitle": "Malkat Gin",
-    "lastSeen": "2026-08-23T08:56:02.635Z"
   },
   {
     "channelId": "UCyyUFZtspz8p9LJEPEwj7aQ",
@@ -3333,11 +5348,6 @@
     "channelId": "UCsaGKqPZnGp_7N80hcHySGQ",
     "channelTitle": "Tasting History with Max Miller",
     "lastSeen": "2026-08-23T08:56:02.269Z"
-  },
-  {
-    "channelId": "UCLaxi2QeK5dUFrnv3FbmoLw",
-    "channelTitle": "Liana Lately",
-    "lastSeen": "2026-08-23T08:56:02.027Z"
   },
   {
     "channelId": "UCCXKljbhMr4IWQwvLG8wEqg",
@@ -3400,11 +5410,6 @@
     "lastSeen": "2026-08-23T08:56:01.354Z"
   },
   {
-    "channelId": "UCty-XuUK_-hUJX1LWmh0__g",
-    "channelTitle": "Muna TV",
-    "lastSeen": "2026-08-23T08:56:01.354Z"
-  },
-  {
     "channelId": "UC5zvsWAZSUmWqjamZvohBgg",
     "channelTitle": "The Tipsy Timeline",
     "lastSeen": "2026-08-23T08:56:00.970Z"
@@ -3423,16 +5428,6 @@
     "channelId": "UCmtTTJ3KaiaH4AZViuraqsg",
     "channelTitle": "The Last Call",
     "lastSeen": "2026-08-23T08:56:00.970Z"
-  },
-  {
-    "channelId": "UClF1LXjUdkLbxd1U855FbHQ",
-    "channelTitle": "David Hunter",
-    "lastSeen": "2026-08-23T08:56:00.970Z"
-  },
-  {
-    "channelId": "UCnXxEyXpQChViOFulsLdCcQ",
-    "channelTitle": "AGD - Amazing Global Destinations",
-    "lastSeen": "2026-08-23T08:56:00.700Z"
   },
   {
     "channelId": "UCKtwWbqMtdAWvy2vyIgVsjg",
@@ -3493,11 +5488,6 @@
     "channelId": "UC6tdeKqecZtd8dGZyYrBbJw",
     "channelTitle": "Tourific",
     "lastSeen": "2026-08-23T08:56:00.143Z"
-  },
-  {
-    "channelId": "UC8QAV0c1aCGlTngpJz2Q-TA",
-    "channelTitle": "Sangrita La Casa Diez",
-    "lastSeen": "2026-08-23T08:55:59.874Z"
   },
   {
     "channelId": "UCsCXJb6bwiZ-_fZ-4wfYvOQ",
@@ -3610,11 +5600,6 @@
     "lastSeen": "2026-08-23T08:55:55.850Z"
   },
   {
-    "channelId": "UCBjveMPeM9cHdLUAtrdzCQg",
-    "channelTitle": "Friendly Mr. Z Whisky & Tastings",
-    "lastSeen": "2026-08-23T08:55:55.578Z"
-  },
-  {
     "channelId": "UCMiXB9yLJYNgSjk1qlUIQbA",
     "channelTitle": "Road Mosti",
     "lastSeen": "2026-08-23T08:55:55.578Z"
@@ -3675,11 +5660,6 @@
     "lastSeen": "2026-08-23T08:55:55.317Z"
   },
   {
-    "channelId": "UCPSpQ6wbnBNuUJdGwtGfYig",
-    "channelTitle": "Two Pours Neat",
-    "lastSeen": "2026-08-23T08:55:55.316Z"
-  },
-  {
     "channelId": "UCr_19JgzHfMFGsTUUFPvvIw",
     "channelTitle": "J Freezy Reviews (J Freezy Reviews)",
     "lastSeen": "2026-08-23T08:55:55.316Z"
@@ -3723,11 +5703,6 @@
     "channelId": "UCaMiSXRqAM07GPXcGNr548A",
     "channelTitle": "MilesAroundTheWorld",
     "lastSeen": "2026-08-23T08:55:54.934Z"
-  },
-  {
-    "channelId": "UC9fKf4jTOhFC796h0Yug-ag",
-    "channelTitle": "Gentleman Farmer Wines",
-    "lastSeen": "2026-08-23T08:55:54.623Z"
   },
   {
     "channelId": "UCkR-GIE_DHn56LQrOGP6-OQ",
@@ -3825,11 +5800,6 @@
     "lastSeen": "2026-08-23T08:55:53.220Z"
   },
   {
-    "channelId": "UC-M1lNWsEFPvxqy3PKuaSeQ",
-    "channelTitle": "Daily drinking challenge",
-    "lastSeen": "2026-08-23T08:55:53.220Z"
-  },
-  {
     "channelId": "UCpFCMqF3x7vLB4s_EK_T5bA",
     "channelTitle": "Mia From China",
     "lastSeen": "2026-08-23T08:55:53.220Z"
@@ -3880,11 +5850,6 @@
     "lastSeen": "2026-08-23T08:55:52.966Z"
   },
   {
-    "channelId": "UCtLKoTpgKp58p0al565GCDw",
-    "channelTitle": "English Sparkling with Tweedy",
-    "lastSeen": "2026-08-23T08:55:52.966Z"
-  },
-  {
     "channelId": "UC12c9wSxunNZCJwMDLVbucw",
     "channelTitle": "Oz & Tom's Wine Heroes",
     "lastSeen": "2026-08-23T08:55:52.966Z"
@@ -3895,11 +5860,6 @@
     "lastSeen": "2026-08-23T08:55:52.966Z"
   },
   {
-    "channelId": "UC2qGLBnISMxZ7g0Xr4_I2rg",
-    "channelTitle": "BurgundyNick",
-    "lastSeen": "2026-08-23T08:55:52.965Z"
-  },
-  {
     "channelId": "UC__DepoGgFkQHMv5MUAcnkQ",
     "channelTitle": "Dreamy Vineyard",
     "lastSeen": "2026-08-23T08:55:52.704Z"
@@ -3907,11 +5867,6 @@
   {
     "channelId": "UCJsEAWn9fey0WJUWL31aQQw",
     "channelTitle": "Adriel",
-    "lastSeen": "2026-08-23T08:55:52.704Z"
-  },
-  {
-    "channelId": "UCrhupoqlWydg2iID8PwXP_g",
-    "channelTitle": "Georgian_Wine_Family_Club",
     "lastSeen": "2026-08-23T08:55:52.704Z"
   },
   {
@@ -3930,11 +5885,6 @@
     "lastSeen": "2026-08-23T08:55:52.703Z"
   },
   {
-    "channelId": "UCquNOMoN-1XdelqCBqiEBbg",
-    "channelTitle": "Sharrott Winery",
-    "lastSeen": "2026-08-23T08:55:52.344Z"
-  },
-  {
     "channelId": "UCO2iORZhb_lFsb62zxpQmLA",
     "channelTitle": "OneDegreeOrganic",
     "lastSeen": "2026-08-23T08:55:52.344Z"
@@ -3943,11 +5893,6 @@
     "channelId": "UC70AyL7Zz9mMUVGFi3L9GGA",
     "channelTitle": "Emeritus Vineyards",
     "lastSeen": "2026-08-23T08:55:52.344Z"
-  },
-  {
-    "channelId": "UCEWSPbebTrjS_hFPQ0RYeSg",
-    "channelTitle": "INSIDE FACTORY PROCESS",
-    "lastSeen": "2026-08-23T08:55:52.343Z"
   },
   {
     "channelId": "UCQbSEFpYsC3aWoYqFn0ZxGw",
@@ -3982,16 +5927,6 @@
   {
     "channelId": "UCDuCWpqTG1drS_5kT8j8B3A",
     "channelTitle": "unPINNED",
-    "lastSeen": "2026-08-23T08:55:51.779Z"
-  },
-  {
-    "channelId": "UCFkCxbhj7fxdbv9Tnp3xvLw",
-    "channelTitle": "Bernardo Musumeci",
-    "lastSeen": "2026-08-23T08:55:51.779Z"
-  },
-  {
-    "channelId": "UCAdyNOE80FsFPYlFliyXfwQ",
-    "channelTitle": "France tv nature",
     "lastSeen": "2026-08-23T08:55:51.779Z"
   },
   {
@@ -4060,11 +5995,6 @@
     "lastSeen": "2026-08-23T08:55:50.594Z"
   },
   {
-    "channelId": "UCDyRtTRV1NmI9piza541JQA",
-    "channelTitle": "Ashley Broshious",
-    "lastSeen": "2026-08-23T08:55:50.594Z"
-  },
-  {
     "channelId": "UCKyxDru8eCN-n-QeJGrgbjQ",
     "channelTitle": "Commonwealth Wine School",
     "lastSeen": "2026-08-23T08:55:50.355Z"
@@ -4073,11 +6003,6 @@
     "channelId": "UCB3Zh_o23SSsA2gJe1kD6cQ",
     "channelTitle": "Oyarwine",
     "lastSeen": "2026-08-23T08:55:50.355Z"
-  },
-  {
-    "channelId": "UChEjl5a3HIroP2OMHeMn-6g",
-    "channelTitle": "Napa Valley Wine Academy",
-    "lastSeen": "2026-08-23T08:55:50.354Z"
   },
   {
     "channelId": "UCqEY-wrAs5Ns2i3dBqBj4dg",
@@ -4260,21 +6185,6 @@
     "lastSeen": "2026-08-23T08:55:48.929Z"
   },
   {
-    "channelId": "UC4D-6yVzUS9A9exTuVUdR2Q",
-    "channelTitle": "Adv. Karan Bhanushali",
-    "lastSeen": "2026-08-23T08:55:48.929Z"
-  },
-  {
-    "channelId": "UCiry1gxC0r0d6N9MDGqFzew",
-    "channelTitle": "Youming Zhao",
-    "lastSeen": "2026-08-23T08:55:48.929Z"
-  },
-  {
-    "channelId": "UCZp3jgx0chLgB2UtKhA7WFg",
-    "channelTitle": "FindingOut",
-    "lastSeen": "2026-08-23T08:55:48.928Z"
-  },
-  {
     "channelId": "UCjSylce4UBCgabAInUHXN-Q",
     "channelTitle": "B-Inspired Studios ",
     "lastSeen": "2026-08-23T08:55:48.665Z"
@@ -4390,11 +6300,6 @@
     "lastSeen": "2026-08-23T08:55:47.680Z"
   },
   {
-    "channelId": "UCuGI0RN7H9KQAeMCqOH5yxQ",
-    "channelTitle": "Storie di Vino e Viticoltori",
-    "lastSeen": "2026-08-23T08:55:47.680Z"
-  },
-  {
     "channelId": "UCeIt9dU-JP_uNNDF-dlPVJg",
     "channelTitle": "Urban Utensil",
     "lastSeen": "2026-08-23T08:55:47.680Z"
@@ -4505,11 +6410,6 @@
     "lastSeen": "2026-08-23T08:55:46.812Z"
   },
   {
-    "channelId": "UCmRMMEciZnog_vkwIrxve8Q",
-    "channelTitle": "Plantar em Casa",
-    "lastSeen": "2026-08-23T08:55:46.812Z"
-  },
-  {
     "channelId": "UCyY50s8vgeHCbdgX1MudByw",
     "channelTitle": "Lin",
     "lastSeen": "2026-08-23T08:55:46.812Z"
@@ -4610,11 +6510,6 @@
     "lastSeen": "2026-08-23T08:55:45.402Z"
   },
   {
-    "channelId": "UCuKyjSH847YU7252cbAzq7w",
-    "channelTitle": "Green Tea Bar",
-    "lastSeen": "2026-08-23T08:55:45.049Z"
-  },
-  {
     "channelId": "UCqPC-GVhGT33RRynrAHnXew",
     "channelTitle": "Murfreesboro Wine and Spirits",
     "lastSeen": "2026-08-23T08:55:45.049Z"
@@ -4623,11 +6518,6 @@
     "channelId": "UC9XSv1QG_LmnbCZ7JWaRfvw",
     "channelTitle": "Christophe Pans",
     "lastSeen": "2026-08-23T08:55:45.049Z"
-  },
-  {
-    "channelId": "UCXJr8_bVOfYFKsveh74VNlQ",
-    "channelTitle": "Bebendo Vinho 🍷 Todos os Dias ",
-    "lastSeen": "2026-08-23T08:55:45.048Z"
   },
   {
     "channelId": "UCiCsISsFYlGiaGQ354Ue5lQ",
@@ -4653,11 +6543,6 @@
     "channelId": "UCrzAcXhA2lZ_42NNcXwrDgA",
     "channelTitle": "D’Somatouchsignature",
     "lastSeen": "2026-08-23T08:55:44.674Z"
-  },
-  {
-    "channelId": "UC4xqOXN_629QuFlMygLtb4Q",
-    "channelTitle": "Wine Mastery",
-    "lastSeen": "2026-08-23T08:55:44.408Z"
   },
   {
     "channelId": "UCoEi3aS7I4dEdd0t5rCPm0A",
@@ -4795,11 +6680,6 @@
     "lastSeen": "2026-08-23T08:55:43.360Z"
   },
   {
-    "channelId": "UCvUKFCu5AX5D7ZQjqEvxk-A",
-    "channelTitle": "TKRG",
-    "lastSeen": "2026-08-23T08:55:43.360Z"
-  },
-  {
     "channelId": "UCB97ef3COvHkhDh1yLP9YDQ",
     "channelTitle": "Trail Chemistry with B&C🏳️‍🌈 ",
     "lastSeen": "2026-08-23T08:55:43.360Z"
@@ -4848,11 +6728,6 @@
     "channelId": "UCh-Ms_s-6v1wtgYJg6kHa5A",
     "channelTitle": "ADHD Whiskey",
     "lastSeen": "2026-08-23T08:55:42.289Z"
-  },
-  {
-    "channelId": "UCUn_6j1fSKmznuftWrxGvdw",
-    "channelTitle": "Mansi Jotaniya GeoEconomia",
-    "lastSeen": "2026-08-23T08:55:41.983Z"
   },
   {
     "channelId": "UCa_Q4tL_DOO1aNq6CsAikyg",
@@ -4927,11 +6802,6 @@
   {
     "channelId": "UCEgT_dn-LdJCab4PMvNiE4w",
     "channelTitle": "Dramguard",
-    "lastSeen": "2026-08-19T09:03:02.564Z"
-  },
-  {
-    "channelId": "UCwTPzJBQgwXXg6OlWbdgm_w",
-    "channelTitle": "Standard Bank Group",
     "lastSeen": "2026-08-19T09:03:02.564Z"
   },
   {
@@ -5250,11 +7120,6 @@
     "lastSeen": "2026-08-19T09:02:59.025Z"
   },
   {
-    "channelId": "UCi-Q0nJ3ZSWJ5VTLwQBugUA",
-    "channelTitle": "Liquid Legacy",
-    "lastSeen": "2026-08-19T09:02:59.024Z"
-  },
-  {
     "channelId": "UCbncBSR05mgHWUYXCWEAAXQ",
     "channelTitle": "tasting.whisky",
     "lastSeen": "2026-08-19T09:02:59.024Z"
@@ -5310,11 +7175,6 @@
     "lastSeen": "2026-08-19T09:02:58.495Z"
   },
   {
-    "channelId": "UCps7AEOPmTsKKuE_Z0Rq00g",
-    "channelTitle": "BARJOCKEY Bartending Institute & Events",
-    "lastSeen": "2026-08-19T09:02:58.257Z"
-  },
-  {
     "channelId": "UCEw6WNBXxvkICyU6P76H6zw",
     "channelTitle": "GinWhis tasting whisky and gin",
     "lastSeen": "2026-08-19T09:02:58.257Z"
@@ -5322,11 +7182,6 @@
   {
     "channelId": "UCpIF3vjbvqiP__LtIwYKe6w",
     "channelTitle": "Guajana Rum",
-    "lastSeen": "2026-08-19T09:02:58.257Z"
-  },
-  {
-    "channelId": "UC8uSWfFXuVpNR6mP7Kxz4Og",
-    "channelTitle": "Emet Lifestyle",
     "lastSeen": "2026-08-19T09:02:58.257Z"
   },
   {
@@ -5375,11 +7230,6 @@
     "lastSeen": "2026-08-19T09:02:58.040Z"
   },
   {
-    "channelId": "UC19-YKuHN6eis3ca4VsTLmw",
-    "channelTitle": "Tales from the Meadow",
-    "lastSeen": "2026-08-19T09:02:57.811Z"
-  },
-  {
     "channelId": "UCQ7QquLSAFArnQJmh3X5LCQ",
     "channelTitle": "Da Owners Box Live",
     "lastSeen": "2026-08-19T09:02:57.570Z"
@@ -5387,11 +7237,6 @@
   {
     "channelId": "UCylySEHOnwL3DrcmWKZLSug",
     "channelTitle": "Spain Hotels GO",
-    "lastSeen": "2026-08-19T09:02:57.064Z"
-  },
-  {
-    "channelId": "UC3sH4Nqhcw2EjGwUk9OIgUw",
-    "channelTitle": "Hydro's Travels",
     "lastSeen": "2026-08-19T09:02:57.064Z"
   },
   {
@@ -5505,11 +7350,6 @@
     "lastSeen": "2026-08-19T09:02:53.530Z"
   },
   {
-    "channelId": "UC2XpTliFT6KGzbvX9oH94OA",
-    "channelTitle": "Pours Outdoors",
-    "lastSeen": "2026-08-19T09:02:53.530Z"
-  },
-  {
     "channelId": "UCJEkQfl9NA18fIqdnwwU5zw",
     "channelTitle": "Liquor Store 352 ",
     "lastSeen": "2026-08-19T09:02:53.305Z"
@@ -5620,11 +7460,6 @@
     "lastSeen": "2026-08-19T09:02:52.069Z"
   },
   {
-    "channelId": "UCzsBjN3zzD8oI837KxfsN9w",
-    "channelTitle": "North Prime Real Estate brokered by eXp Realty",
-    "lastSeen": "2026-08-19T09:02:52.069Z"
-  },
-  {
     "channelId": "UCWGNcgRbg9ozA4Ve1UMlUOw",
     "channelTitle": "isabella samaha",
     "lastSeen": "2026-08-19T09:02:52.069Z"
@@ -5642,11 +7477,6 @@
   {
     "channelId": "UC-r4nq1UPKg-5VcvORNyTHA",
     "channelTitle": "Salt Shaker Films",
-    "lastSeen": "2026-08-19T09:02:52.069Z"
-  },
-  {
-    "channelId": "UC3dkZWIJ5tu2EdZgkhJAaoA",
-    "channelTitle": "Island House Gourmet",
     "lastSeen": "2026-08-19T09:02:52.069Z"
   },
   {
@@ -5785,11 +7615,6 @@
     "lastSeen": "2026-08-19T09:02:50.668Z"
   },
   {
-    "channelId": "UCwYwsr0KlhxZyVIC1d8NWRw",
-    "channelTitle": "Authentic shaozing ",
-    "lastSeen": "2026-08-19T09:02:50.667Z"
-  },
-  {
     "channelId": "UCX0tbRCErzZZLDaosHAxh5Q",
     "channelTitle": "Sweety Theater",
     "lastSeen": "2026-08-19T09:02:50.667Z"
@@ -5860,11 +7685,6 @@
     "lastSeen": "2026-08-19T09:02:49.793Z"
   },
   {
-    "channelId": "UCo3_QfIy6MjxEOj_3Bzi1GQ",
-    "channelTitle": "Vinarosa Resort & Spa",
-    "lastSeen": "2026-08-19T09:02:49.793Z"
-  },
-  {
     "channelId": "UCG7JI87raV6HrgJheRi0MVg",
     "channelTitle": "The Daily Guardian",
     "lastSeen": "2026-08-19T09:02:49.558Z"
@@ -5885,16 +7705,6 @@
     "lastSeen": "2026-08-19T09:02:49.307Z"
   },
   {
-    "channelId": "UCifrlJ9DNyVUV6rDrzlqMiw",
-    "channelTitle": "The Basket Brewing Show ",
-    "lastSeen": "2026-08-19T09:02:49.307Z"
-  },
-  {
-    "channelId": "UC-T6QIYxsP0Z8Aa8_Svcq0A",
-    "channelTitle": "Wine Sinner",
-    "lastSeen": "2026-08-19T09:02:49.307Z"
-  },
-  {
     "channelId": "UC8_y7FOUW8nlL9SmWAXLPpA",
     "channelTitle": "Mushroom Vault",
     "lastSeen": "2026-08-19T09:02:49.082Z"
@@ -5907,11 +7717,6 @@
   {
     "channelId": "UCzQqNe9JA3ICp2SAKU7L79w",
     "channelTitle": "Wine Exchange",
-    "lastSeen": "2026-08-19T09:02:49.081Z"
-  },
-  {
-    "channelId": "UCVR_TulhsrfsGSqiokzFIyQ",
-    "channelTitle": "Timberustic",
     "lastSeen": "2026-08-19T09:02:49.081Z"
   },
   {
@@ -6110,11 +7915,6 @@
     "lastSeen": "2026-08-19T09:02:47.217Z"
   },
   {
-    "channelId": "UCfjFBwlzo0DYJewpyjvJDbg",
-    "channelTitle": "Tasty Home Recipes",
-    "lastSeen": "2026-08-19T09:02:47.217Z"
-  },
-  {
     "channelId": "UCK3b9AdOz9sfQxCwgQnewlg",
     "channelTitle": "so-unique jamaica ,canadian,american england girl ",
     "lastSeen": "2026-08-19T09:02:47.217Z"
@@ -6138,11 +7938,6 @@
     "channelId": "UC8fip5YEUZtJ1dE18yU14Hw",
     "channelTitle": "VN  official",
     "lastSeen": "2026-08-19T09:02:47.216Z"
-  },
-  {
-    "channelId": "UCy2ryqPVishSzejX8ERh_jA",
-    "channelTitle": "Winetipss",
-    "lastSeen": "2026-08-19T09:02:46.832Z"
   },
   {
     "channelId": "UCIZoKx50CBM8fIf4--9pI0g",
@@ -6390,11 +8185,6 @@
     "lastSeen": "2026-08-19T09:02:44.474Z"
   },
   {
-    "channelId": "UC_Tdt21pxto1F3Ct-4Wmb9g",
-    "channelTitle": "Wine_With_Wendy 温蒂品酒 ",
-    "lastSeen": "2026-08-19T09:02:44.473Z"
-  },
-  {
     "channelId": "UCLfb1b93J_IMXgLFb6Fwywg",
     "channelTitle": "Enoteca Sprezzatura",
     "lastSeen": "2026-08-19T09:02:44.473Z"
@@ -6462,11 +8252,6 @@
   {
     "channelId": "UCFhBLMH0SMn1VrPUG6zQzXA",
     "channelTitle": "Kho Rượu Vang",
-    "lastSeen": "2026-08-19T09:02:43.534Z"
-  },
-  {
-    "channelId": "UCrMeK9IUcuOvht1mot7sIsQ",
-    "channelTitle": "I Sapori DiVini",
     "lastSeen": "2026-08-19T09:02:43.534Z"
   },
   {
@@ -6655,11 +8440,6 @@
     "lastSeen": "2026-08-19T09:02:40.726Z"
   },
   {
-    "channelId": "UCIV-a_Zpp9OAJP58Q2_Oehw",
-    "channelTitle": "Relax, It's Just Wine",
-    "lastSeen": "2026-08-19T09:02:40.519Z"
-  },
-  {
     "channelId": "UCyoC-rxCkRww2QffivR55HA",
     "channelTitle": "ZZH",
     "lastSeen": "2026-08-19T09:02:40.519Z"
@@ -6810,11 +8590,6 @@
     "lastSeen": "2026-08-16T08:54:59.042Z"
   },
   {
-    "channelId": "UCnCE0-pPZuit8aud1l9rhkA",
-    "channelTitle": "Whisky.com",
-    "lastSeen": "2026-08-16T08:54:58.780Z"
-  },
-  {
     "channelId": "UCdrqxph23KmlW1HMB4fMYMg",
     "channelTitle": "wanderlust Ismari",
     "lastSeen": "2026-08-16T08:54:58.780Z"
@@ -6928,11 +8703,6 @@
     "channelId": "UCz8QaiQxApLq8sLNcszYyJw",
     "channelTitle": "Firstpost",
     "lastSeen": "2026-08-16T08:54:56.512Z"
-  },
-  {
-    "channelId": "UCSehnTbxjnZWcLLGG9YdtUg",
-    "channelTitle": "Rohan K Duggal",
-    "lastSeen": "2026-08-16T08:54:56.511Z"
   },
   {
     "channelId": "UCKq1q24xDiW2ceD41XA5gGQ",
@@ -7055,11 +8825,6 @@
     "lastSeen": "2026-08-16T08:54:55.452Z"
   },
   {
-    "channelId": "UCmoRt71PYNtH8xoY1RFIOyA",
-    "channelTitle": "Mallorca Distillery",
-    "lastSeen": "2026-08-16T08:54:55.203Z"
-  },
-  {
     "channelId": "UClroEs0XckkGSpmy2meYiPw",
     "channelTitle": "Kings Liquor Junction",
     "lastSeen": "2026-08-16T08:54:55.203Z"
@@ -7147,11 +8912,6 @@
   {
     "channelId": "UCaH3iPqYfOh9oKkw4btECYQ",
     "channelTitle": "Northwoods Beer Guy",
-    "lastSeen": "2026-08-16T08:54:54.165Z"
-  },
-  {
-    "channelId": "UC8Qp5hpAehFUhUBoW7EuKDg",
-    "channelTitle": "The Tastin Ladies",
     "lastSeen": "2026-08-16T08:54:54.165Z"
   },
   {
@@ -7325,11 +9085,6 @@
     "lastSeen": "2026-08-16T08:54:49.746Z"
   },
   {
-    "channelId": "UC7iybx_ksVgU3yYOTSHPhLg",
-    "channelTitle": "JJbourbq",
-    "lastSeen": "2026-08-16T08:54:49.510Z"
-  },
-  {
     "channelId": "UC2oTkAYWel7HQBTyjPHri0w",
     "channelTitle": "Mr.Bourbon LLC",
     "lastSeen": "2026-08-16T08:54:49.510Z"
@@ -7367,11 +9122,6 @@
   {
     "channelId": "UC4Q80Im551WyP6tflPoN7Qw",
     "channelTitle": "QR & R Whiskey Talk",
-    "lastSeen": "2026-08-16T08:54:49.306Z"
-  },
-  {
-    "channelId": "UCYLQcFrwGGzdi3C8ypGXdfQ",
-    "channelTitle": "The Mash Up Bourbon Podcast",
     "lastSeen": "2026-08-16T08:54:49.306Z"
   },
   {
@@ -7500,11 +9250,6 @@
     "lastSeen": "2026-08-16T08:54:48.284Z"
   },
   {
-    "channelId": "UC-nBpxf2_1wNCqq8I-os1rw",
-    "channelTitle": "Affordable Eastern European Wines",
-    "lastSeen": "2026-08-16T08:54:47.947Z"
-  },
-  {
     "channelId": "UClmrOAjVMxw81hiYaJInGKA",
     "channelTitle": "LAST NOTE JAPAN | Slow & Soulful ",
     "lastSeen": "2026-08-16T08:54:47.947Z"
@@ -7588,11 +9333,6 @@
     "channelId": "UCIVA_WlymGxxVXpIq7HRGhw",
     "channelTitle": "SBH",
     "lastSeen": "2026-08-16T08:54:47.287Z"
-  },
-  {
-    "channelId": "UCCUxVAmDlyRiNhQ9bN8DgSg",
-    "channelTitle": "California Sustainable Winegrowing Alliance",
-    "lastSeen": "2026-08-16T08:54:47.068Z"
   },
   {
     "channelId": "UCAF7ct92f6mphLeVGnkH5BQ",
@@ -8040,16 +9780,6 @@
     "lastSeen": "2026-08-16T08:54:42.545Z"
   },
   {
-    "channelId": "UCkBGYYehnnkI3YDKkjc2fvw",
-    "channelTitle": "Sensium",
-    "lastSeen": "2026-08-16T08:54:42.338Z"
-  },
-  {
-    "channelId": "UCK9pqgsnKj4RJNjoLwKSbXw",
-    "channelTitle": "Merchant of Wine",
-    "lastSeen": "2026-08-16T08:54:42.338Z"
-  },
-  {
     "channelId": "UCVOiugHpXY9s7T_fM8GEJVw",
     "channelTitle": "Copenhagen Wine",
     "lastSeen": "2026-08-16T08:54:42.338Z"
@@ -8118,11 +9848,6 @@
     "channelId": "UCWUNg119_BinXe-RVmNL3Rw",
     "channelTitle": "Stags Leap District Winegrowers",
     "lastSeen": "2026-08-16T08:54:41.473Z"
-  },
-  {
-    "channelId": "UC--rFgBXIhHBznZ5poxN-nw",
-    "channelTitle": "LJK Wine ",
-    "lastSeen": "2026-08-16T08:54:41.158Z"
   },
   {
     "channelId": "UCdH8_JJ5lIpBnCkoi2YVLEw",
@@ -8290,11 +10015,6 @@
     "lastSeen": "2026-08-16T08:54:39.910Z"
   },
   {
-    "channelId": "UCpfcnWb79Ekb1T6KnHHUKug",
-    "channelTitle": "Sips Suds and Smokes",
-    "lastSeen": "2026-08-16T08:54:39.680Z"
-  },
-  {
     "channelId": "UCnDM9MAT8T1P2zdHClW2wEg",
     "channelTitle": "Jon Travels Europe  ",
     "lastSeen": "2026-08-16T08:54:39.330Z"
@@ -8327,11 +10047,6 @@
   {
     "channelId": "UCxJuCUEn0ca64-OHkI9Mqiw",
     "channelTitle": "InnoVinum Academy | Wine Sensory Training",
-    "lastSeen": "2026-08-16T08:54:39.137Z"
-  },
-  {
-    "channelId": "UCp-sJMCIteTyDLbXPZaoTDQ",
-    "channelTitle": "Sticks-n-Stonez",
     "lastSeen": "2026-08-16T08:54:39.137Z"
   },
   {
@@ -8660,11 +10375,6 @@
     "lastSeen": "2026-08-12T09:37:38.710Z"
   },
   {
-    "channelId": "UC3E8ic-2slOww6n6p3n_mwA",
-    "channelTitle": "Genco Edit Barcelona",
-    "lastSeen": "2026-08-12T09:37:38.517Z"
-  },
-  {
     "channelId": "UCTgytEYisN1HOkeG7PzoRUA",
     "channelTitle": "Checko D'Avila",
     "lastSeen": "2026-08-12T09:37:38.516Z"
@@ -8698,11 +10408,6 @@
     "channelId": "UC3jYxESPjrf5ZXjIN79Sdew",
     "channelTitle": "Donte' D'Vone",
     "lastSeen": "2026-08-12T09:37:38.224Z"
-  },
-  {
-    "channelId": "UCZGQOB0VHgcP3poqSzj_X3w",
-    "channelTitle": "Booze On The Rocks",
-    "lastSeen": "2026-08-12T09:37:37.838Z"
   },
   {
     "channelId": "UC4vhsKuXBVE1hF5ovbFrn9g",
@@ -8758,16 +10463,6 @@
     "channelId": "UCn1CpLhFNaYFlP5TwZu3T4g",
     "channelTitle": "Matt1975X",
     "lastSeen": "2026-08-12T09:37:37.163Z"
-  },
-  {
-    "channelId": "UCoXbSxo0rKy-dQDQtSKMT9Q",
-    "channelTitle": "Colours. of. mr",
-    "lastSeen": "2026-08-12T09:37:36.929Z"
-  },
-  {
-    "channelId": "UCN0iI3EbCdcGtWNDl9PRDRg",
-    "channelTitle": "Craft & Feast",
-    "lastSeen": "2026-08-12T09:37:36.929Z"
   },
   {
     "channelId": "UCZJglGSeEZsD7eM3aJYFrGA",
@@ -9070,11 +10765,6 @@
     "lastSeen": "2026-08-12T09:37:31.658Z"
   },
   {
-    "channelId": "UC1_Ce0ZmBdBGB4v4mq8s6gg",
-    "channelTitle": "Oak Media ",
-    "lastSeen": "2026-08-12T09:37:31.658Z"
-  },
-  {
     "channelId": "UCfUwXOc5ds-3kubPY_poSxw",
     "channelTitle": "Hillmount House",
     "lastSeen": "2026-08-12T09:37:31.658Z"
@@ -9240,11 +10930,6 @@
     "lastSeen": "2026-08-12T09:37:30.027Z"
   },
   {
-    "channelId": "UC0Nm22kXvF6KBxiYQPJ1-Hw",
-    "channelTitle": "Bryan Medhaug",
-    "lastSeen": "2026-08-12T09:37:29.828Z"
-  },
-  {
     "channelId": "UCrk2td8H2eSVEUnb0uZCpEQ",
     "channelTitle": "CANGA4",
     "lastSeen": "2026-08-12T09:37:29.828Z"
@@ -9288,11 +10973,6 @@
     "channelId": "UClXdNaMwhZDEYGxRj8cCNwA",
     "channelTitle": "Exploration Within ",
     "lastSeen": "2026-08-12T09:37:29.318Z"
-  },
-  {
-    "channelId": "UCP63upVtXP_H_dJSdGZ427A",
-    "channelTitle": "Vero",
-    "lastSeen": "2026-08-12T09:37:29.317Z"
   },
   {
     "channelId": "UC6Qc4SYS0BaJJXblvMxfBYg",
@@ -9665,11 +11345,6 @@
     "lastSeen": "2026-08-12T09:37:25.712Z"
   },
   {
-    "channelId": "UC3NqPC-CRaL8RdrKchmw9lg",
-    "channelTitle": "historystruck",
-    "lastSeen": "2026-08-12T09:37:25.712Z"
-  },
-  {
     "channelId": "UCCc56a0Gv-x0VJTML8cpnsw",
     "channelTitle": " Rsm Roman Rabby",
     "lastSeen": "2026-08-12T09:37:25.711Z"
@@ -10000,11 +11675,6 @@
     "lastSeen": "2026-08-12T09:37:22.634Z"
   },
   {
-    "channelId": "UCNydaGYonjOrT8HcpX7KFmw",
-    "channelTitle": "Alterno Wines Mexico",
-    "lastSeen": "2026-08-12T09:37:22.418Z"
-  },
-  {
     "channelId": "UC_yFAFOAE6SE-Qu9fzGRCUw",
     "channelTitle": "Food Travels and Wine",
     "lastSeen": "2026-08-12T09:37:22.418Z"
@@ -10075,11 +11745,6 @@
     "lastSeen": "2026-08-12T09:37:21.126Z"
   },
   {
-    "channelId": "UCwRVxGHNVj4OUWgfFFNCuJQ",
-    "channelTitle": "Edible History",
-    "lastSeen": "2026-08-12T09:37:21.126Z"
-  },
-  {
     "channelId": "UC6VmYPWsmZcU8MwyVpzrfYQ",
     "channelTitle": "Hunter Caparelli",
     "lastSeen": "2026-08-12T09:37:20.771Z"
@@ -10140,24 +11805,9 @@
     "lastSeen": "2026-08-09T09:09:48.215Z"
   },
   {
-    "channelId": "UCcYvRi60T2fY44DKubsWS7A",
-    "channelTitle": "Whiskey Gambler",
-    "lastSeen": "2026-08-09T09:09:48.215Z"
-  },
-  {
-    "channelId": "UCza8HhQfteifT4vBvv1SZUw",
-    "channelTitle": "The Tasters Club",
-    "lastSeen": "2026-08-09T09:09:47.794Z"
-  },
-  {
     "channelId": "UCq7fzD8svLsIMtjZKxAs27Q",
     "channelTitle": "Las Vegas Distillery",
     "lastSeen": "2026-08-09T09:09:47.794Z"
-  },
-  {
-    "channelId": "UCRI5FblAH66Rtf2rLUz-n8A",
-    "channelTitle": "alittleoldfashion",
-    "lastSeen": "2026-08-09T09:09:47.793Z"
   },
   {
     "channelId": "UCSMuDhvy-WxlwtA3ZXsNx6w",
@@ -10365,11 +12015,6 @@
     "lastSeen": "2026-08-09T09:09:44.352Z"
   },
   {
-    "channelId": "UCxNa1P9-vMj635ZUEotbyRw",
-    "channelTitle": "Bar Guthrie Tasting Fine Spirits with Good Friends",
-    "lastSeen": "2026-08-09T09:09:44.352Z"
-  },
-  {
     "channelId": "UCsb9yBoKalxZSYSSBnR852A",
     "channelTitle": "FluteVerse MBBS",
     "lastSeen": "2026-08-09T09:09:44.352Z"
@@ -10410,11 +12055,6 @@
     "lastSeen": "2026-08-09T09:09:43.593Z"
   },
   {
-    "channelId": "UC-2-xBryndi5G5jjNMG4Owg",
-    "channelTitle": "Classy Cocktail Reviews",
-    "lastSeen": "2026-08-09T09:09:43.592Z"
-  },
-  {
     "channelId": "UCfftWNrZL-0AgL7Hw6608gQ",
     "channelTitle": "BAR REELS",
     "lastSeen": "2026-08-09T09:09:43.098Z"
@@ -10450,18 +12090,8 @@
     "lastSeen": "2026-08-09T09:09:42.810Z"
   },
   {
-    "channelId": "UCJty66RCKAnqw6KSL7xj_gQ",
-    "channelTitle": "The Columbia Coast",
-    "lastSeen": "2026-08-09T09:09:42.810Z"
-  },
-  {
     "channelId": "UCqJeSuY2edzWzih9UvdSSaQ",
     "channelTitle": "Worldtrendingnews",
-    "lastSeen": "2026-08-09T09:09:42.810Z"
-  },
-  {
-    "channelId": "UCPm-2McOmTlDzuw-u9e-FCw",
-    "channelTitle": "Алкополка",
     "lastSeen": "2026-08-09T09:09:42.810Z"
   },
   {
@@ -10735,11 +12365,6 @@
     "lastSeen": "2026-08-09T09:09:36.116Z"
   },
   {
-    "channelId": "UCsWxushz1aid_qz71ZBt0pQ",
-    "channelTitle": "SDVMusic",
-    "lastSeen": "2026-08-09T09:09:35.873Z"
-  },
-  {
     "channelId": "UCDuntM-8GCeLyXZGXLa7hCw",
     "channelTitle": "mory yi",
     "lastSeen": "2026-08-09T09:09:35.873Z"
@@ -10762,11 +12387,6 @@
   {
     "channelId": "UCPdayl7Vvb03pV71ZjfjETg",
     "channelTitle": "Luxury Vacations UK",
-    "lastSeen": "2026-08-09T09:09:35.377Z"
-  },
-  {
-    "channelId": "UCzkbBk_ZYLKwq2wioFE4e-A",
-    "channelTitle": "Godstone Vineyards",
     "lastSeen": "2026-08-09T09:09:35.377Z"
   },
   {
@@ -10898,11 +12518,6 @@
     "channelId": "UC0SCf_-xsNy_GSYxsguQnbw",
     "channelTitle": "GoTab",
     "lastSeen": "2026-08-09T09:09:33.436Z"
-  },
-  {
-    "channelId": "UCRW9mO8aDFzIYcUvRIExZRQ",
-    "channelTitle": "Institute of Culinary Education",
-    "lastSeen": "2026-08-09T09:09:33.435Z"
   },
   {
     "channelId": "UCZNkDO9bluSs-8RUGF38Bcg",
@@ -11280,11 +12895,6 @@
     "lastSeen": "2026-08-09T09:09:29.209Z"
   },
   {
-    "channelId": "UCSN0AIrQCW6u7R8ejfI5fNg",
-    "channelTitle": "wineofthemoment",
-    "lastSeen": "2026-08-09T09:09:29.209Z"
-  },
-  {
     "channelId": "UCOEvClYLRZcT5bNCCI5eMKg",
     "channelTitle": "CBS Pittsburgh",
     "lastSeen": "2026-08-09T09:09:29.209Z"
@@ -11410,11 +13020,6 @@
     "lastSeen": "2026-08-09T09:09:27.713Z"
   },
   {
-    "channelId": "UCATD5K1YHZKZ68qarPQxX9g",
-    "channelTitle": "BACO Enoteca | Vinos & Experiencias",
-    "lastSeen": "2026-08-09T09:09:27.713Z"
-  },
-  {
     "channelId": "UCpH0IUqH0ca1EC-6DD_gHew",
     "channelTitle": "SY 오지래퍼",
     "lastSeen": "2026-08-09T09:09:27.713Z"
@@ -11428,11 +13033,6 @@
     "channelId": "UC_0JIdcGqfjOD37vrIohgbg",
     "channelTitle": "@ajbimg",
     "lastSeen": "2026-08-09T09:09:27.441Z"
-  },
-  {
-    "channelId": "UC9_xn992SMkoIOSMGjE9lwA",
-    "channelTitle": "Napa Valley Wine Train",
-    "lastSeen": "2026-08-09T09:09:27.440Z"
   },
   {
     "channelId": "UCLB5HYBDGPfHrsX-vGoWRyg",
@@ -11498,11 +13098,6 @@
     "channelId": "UCz7OXwPqmcOsew8zscoa2fw",
     "channelTitle": "Brunette Vignette",
     "lastSeen": "2026-08-09T09:09:26.957Z"
-  },
-  {
-    "channelId": "UC_v7vAXg8iVEvYGa_HwCJRg",
-    "channelTitle": "WINESU",
-    "lastSeen": "2026-08-09T09:09:26.724Z"
   },
   {
     "channelId": "UCf9diR0_GMMmflAbPx_fOsA",
@@ -11575,18 +13170,8 @@
     "lastSeen": "2026-08-09T09:09:25.737Z"
   },
   {
-    "channelId": "UC8uQOvPTgfdDmOiyZd61xJA",
-    "channelTitle": "Sommelier",
-    "lastSeen": "2026-08-09T09:09:25.501Z"
-  },
-  {
     "channelId": "UCh180e4mxJ4axczxEXnUQWw",
     "channelTitle": "The Hospitalitarian Podcast",
-    "lastSeen": "2026-08-09T09:09:25.501Z"
-  },
-  {
-    "channelId": "UCuLCX5rnGWPTt-DNMRrBQXw",
-    "channelTitle": "Got Somme - Master Sommelier's Wine Podcast",
     "lastSeen": "2026-08-09T09:09:25.501Z"
   },
   {
@@ -11733,11 +13318,6 @@
     "channelId": "UCjZezICwqmn_xFo1Uspudgw",
     "channelTitle": "CortesBR",
     "lastSeen": "2026-08-05T10:57:55.107Z"
-  },
-  {
-    "channelId": "UCFTaps0aLSi_zPKTtY33WRg",
-    "channelTitle": "Jornal A Fonte de Jacutinga Oficial ",
-    "lastSeen": "2026-08-05T10:57:55.106Z"
   },
   {
     "channelId": "UCHWp3gZsfMOjEX0uBLS6qnQ",
@@ -11943,11 +13523,6 @@
     "channelId": "UCSiTS5Fg9Cl6T5t_EPDFLFw",
     "channelTitle": "Rated Red",
     "lastSeen": "2026-08-05T10:57:52.256Z"
-  },
-  {
-    "channelId": "UC5L9XnhUyoAlFlDhFV3mgxg",
-    "channelTitle": "cognacexpert",
-    "lastSeen": "2026-08-05T10:57:52.255Z"
   },
   {
     "channelId": "UCRJOzLIHsJJ3YZzqqCQgZ9g",
@@ -12163,11 +13738,6 @@
     "channelId": "UCeTZ1eFi1SMXpFQmGn99EzA",
     "channelTitle": "Piel Indomable",
     "lastSeen": "2026-08-05T10:57:47.940Z"
-  },
-  {
-    "channelId": "UCmKAMXUSHhhqHIOsGOEONfw",
-    "channelTitle": "Delirio bacanora ",
-    "lastSeen": "2026-08-05T10:57:47.680Z"
   },
   {
     "channelId": "UCjySuKNeVwLlLPNrjwiOatQ",
@@ -12397,11 +13967,6 @@
   {
     "channelId": "UC92kb8QisEQCNPDE5T-tOgA",
     "channelTitle": "RoamSweetRoam",
-    "lastSeen": "2026-08-05T10:57:43.895Z"
-  },
-  {
-    "channelId": "UCweBO4bfRZgu33OMPYlehlg",
-    "channelTitle": "Hrvatska radiotelevizija",
     "lastSeen": "2026-08-05T10:57:43.895Z"
   },
   {
@@ -12638,11 +14203,6 @@
     "channelId": "UCPOfG51GcKh6U_bnZn-krvQ",
     "channelTitle": "Comercial de alimentación ",
     "lastSeen": "2026-08-05T10:57:40.807Z"
-  },
-  {
-    "channelId": "UCzJIwR9xBYLYwFuWbGOmGBQ",
-    "channelTitle": "Grand Cru Affair with Anya Gariboldi",
-    "lastSeen": "2026-08-05T10:57:40.509Z"
   },
   {
     "channelId": "UCzHkN16xpeUvXEK9NeRT3fA",
@@ -13225,11 +14785,6 @@
     "lastSeen": "2026-08-02T10:13:21.759Z"
   },
   {
-    "channelId": "UCfpMOoGX-c_OXM9GIpec4VQ",
-    "channelTitle": "Charm City Bourbon Crew",
-    "lastSeen": "2026-08-02T10:13:21.759Z"
-  },
-  {
     "channelId": "UCuLrJOaX30z9Xv5e5GH09GQ",
     "channelTitle": "My Rum Diaries",
     "lastSeen": "2026-08-02T10:13:21.518Z"
@@ -13237,11 +14792,6 @@
   {
     "channelId": "UC7tQxAzdstcn9p1zlxw39nA",
     "channelTitle": "Mix it up with Mendi",
-    "lastSeen": "2026-08-02T10:13:21.518Z"
-  },
-  {
-    "channelId": "UCrRaqu5zvjZQB0HpzJyjoqA",
-    "channelTitle": "Boozy Blondes",
     "lastSeen": "2026-08-02T10:13:21.518Z"
   },
   {
@@ -13265,11 +14815,6 @@
     "lastSeen": "2026-08-02T10:13:21.304Z"
   },
   {
-    "channelId": "UCLCGJuD1aRUma-UOizmKqIQ",
-    "channelTitle": "Cachaça Seleta",
-    "lastSeen": "2026-08-02T10:13:21.046Z"
-  },
-  {
     "channelId": "UCF6Wkk9zA9ZLmlXcrLfzVow",
     "channelTitle": "Guia Machado®",
     "lastSeen": "2026-08-02T10:13:21.046Z"
@@ -13278,16 +14823,6 @@
     "channelId": "UCzSvvCiwoXQGYWzLc-JxnMQ",
     "channelTitle": "Food Fidelity",
     "lastSeen": "2026-08-02T10:13:21.046Z"
-  },
-  {
-    "channelId": "UCZZQbPd3Ng9yZPg6_8hSDXA",
-    "channelTitle": "Gui Rial",
-    "lastSeen": "2026-08-02T10:13:21.046Z"
-  },
-  {
-    "channelId": "UCItJeHdWU8rKAI4xN33KwfA",
-    "channelTitle": "Nárnia Drink's PF",
-    "lastSeen": "2026-08-02T10:13:20.739Z"
   },
   {
     "channelId": "UCqjvgr9lC9Rf1l2ZKC9gZXQ",
@@ -13368,11 +14903,6 @@
     "channelId": "UC2CM_8jSC3wFVVrfx42dhWg",
     "channelTitle": "Rye Central",
     "lastSeen": "2026-08-02T10:13:19.823Z"
-  },
-  {
-    "channelId": "UCOIq_Z2ARLKCE1CylHzgoJg",
-    "channelTitle": "Smokeshow Mixology",
-    "lastSeen": "2026-08-02T10:13:19.581Z"
   },
   {
     "channelId": "UCohoofW2Pu79BUY0Ioy8ROQ",
@@ -13587,11 +15117,6 @@
   {
     "channelId": "UCrW2eoKdOlpFSlKHm98s8UQ",
     "channelTitle": "Ronald \"Jay\" Theriot",
-    "lastSeen": "2026-08-02T10:13:16.942Z"
-  },
-  {
-    "channelId": "UCgTbqNc69VxtcKue9fpS3wA",
-    "channelTitle": "Vodka Quang",
     "lastSeen": "2026-08-02T10:13:16.942Z"
   },
   {
@@ -14037,11 +15562,6 @@
   {
     "channelId": "UC7-cuoqGeSdngtpFgaRd5fQ",
     "channelTitle": "De Mala & Câmera",
-    "lastSeen": "2026-08-02T10:13:09.189Z"
-  },
-  {
-    "channelId": "UCQmISjJHQ-__vXw18I65Pjg",
-    "channelTitle": "Konstantin Baum - Master of Wine",
     "lastSeen": "2026-08-02T10:13:09.189Z"
   },
   {
@@ -14630,11 +16150,6 @@
     "lastSeen": "2026-08-02T10:13:01.941Z"
   },
   {
-    "channelId": "UCLHV64JXsIYkw-xzKLsLJAg",
-    "channelTitle": "Dr. Matthew Horkey",
-    "lastSeen": "2026-08-02T10:13:01.941Z"
-  },
-  {
     "channelId": "UCCwFU_e-3Y5BA41h7JDruDQ",
     "channelTitle": "Vino de la v a la o",
     "lastSeen": "2026-08-02T10:13:01.941Z"
@@ -14718,11 +16233,6 @@
     "channelId": "UCG0qUpxcltVFxKDo4Z8asWg",
     "channelTitle": "Natasha Greene",
     "lastSeen": "2026-08-02T10:13:00.941Z"
-  },
-  {
-    "channelId": "UC8ryzqsAa3H0mpd8etdjoow",
-    "channelTitle": "Vinstinct | Your Palate is a Playground",
-    "lastSeen": "2026-08-02T10:13:00.940Z"
   },
   {
     "channelId": "UCibbVOUYQr08XjRC9GbJ-mw",
@@ -15480,11 +16990,6 @@
     "lastSeen": "2026-07-29T11:00:48.375Z"
   },
   {
-    "channelId": "UCGrC-Ojdn-kHHHTheqmqt2w",
-    "channelTitle": "A&M Roam",
-    "lastSeen": "2026-07-29T11:00:48.375Z"
-  },
-  {
     "channelId": "UCsIKs26UpktYpce3OL2kH1Q",
     "channelTitle": "Moonpie’s channel ",
     "lastSeen": "2026-07-29T11:00:48.375Z"
@@ -15567,11 +17072,6 @@
   {
     "channelId": "UCJtiP3hdJi7YP6x0WYdt3WA",
     "channelTitle": "Story Winery",
-    "lastSeen": "2026-07-29T11:00:47.159Z"
-  },
-  {
-    "channelId": "UC53t0iN7MtG4Of0ZPN0x7PQ",
-    "channelTitle": "Private Dream Tours Georgia",
     "lastSeen": "2026-07-29T11:00:47.159Z"
   },
   {
@@ -16600,11 +18100,6 @@
     "lastSeen": "2026-07-26T10:16:40.429Z"
   },
   {
-    "channelId": "UChFguyQm6_0fX7C-be1wdTQ",
-    "channelTitle": "Perks of Cognac",
-    "lastSeen": "2026-07-26T10:16:40.429Z"
-  },
-  {
     "channelId": "UCsD_F9AMMJRAR0BmUaurtMA",
     "channelTitle": "Premium Amblers Whisky Channel",
     "lastSeen": "2026-07-26T10:16:40.428Z"
@@ -17265,11 +18760,6 @@
     "lastSeen": "2026-07-26T10:16:28.812Z"
   },
   {
-    "channelId": "UCEjQZHrwqXmsjkOLGTGgaxA",
-    "channelTitle": "Attorney Somm",
-    "lastSeen": "2026-07-26T10:16:28.504Z"
-  },
-  {
     "channelId": "UCG-YPfg7CIiWo1h8-QUNrhw",
     "channelTitle": "Los Sueños Resort and Marina",
     "lastSeen": "2026-07-26T10:16:28.504Z"
@@ -17912,11 +19402,6 @@
   {
     "channelId": "UCNSoixHcmpZQUzTra5CgJuQ",
     "channelTitle": "Aged To Perfection: Neat Life",
-    "lastSeen": "2026-07-22T10:37:13.935Z"
-  },
-  {
-    "channelId": "UClZM8wabzf4lwtNIKPIcT9w",
-    "channelTitle": "Malt Mariners - Whisky Roads",
     "lastSeen": "2026-07-22T10:37:13.935Z"
   },
   {
@@ -19255,11 +20740,6 @@
     "lastSeen": "2026-07-22T10:36:53.039Z"
   },
   {
-    "channelId": "UCxjW4b4YY2z37_QUczWbOtA",
-    "channelTitle": "Shizukuwine",
-    "lastSeen": "2026-07-22T10:36:52.749Z"
-  },
-  {
     "channelId": "UCk1ZuOV1IQ78oDJJqUCGeoQ",
     "channelTitle": "DIO ",
     "lastSeen": "2026-07-22T10:36:52.749Z"
@@ -19445,11 +20925,6 @@
     "lastSeen": "2026-07-19T10:05:19.512Z"
   },
   {
-    "channelId": "UCriVmIWu3rtMq4vgtrp1Mog",
-    "channelTitle": "Railz Hospitality",
-    "lastSeen": "2026-07-19T10:05:19.236Z"
-  },
-  {
     "channelId": "UCGSQylDoYpTC1mQgzzWqvBg",
     "channelTitle": "PeopleAsia",
     "lastSeen": "2026-07-19T10:05:19.236Z"
@@ -19547,11 +21022,6 @@
   {
     "channelId": "UCTMp0sW7MMxsWwr7_U4Q4-w",
     "channelTitle": "Iyke Bede | The Explainer Guy ",
-    "lastSeen": "2026-07-19T10:05:18.424Z"
-  },
-  {
-    "channelId": "UCoAY0nCPr35617YQa4B7NJQ",
-    "channelTitle": "SHIV SHAKTI MACHTECH",
     "lastSeen": "2026-07-19T10:05:18.424Z"
   },
   {
@@ -20088,11 +21558,6 @@
     "channelId": "UCVIXvmGgdDO51fJ-I93ipKQ",
     "channelTitle": "Fahad Pro UG",
     "lastSeen": "2026-07-19T10:05:06.992Z"
-  },
-  {
-    "channelId": "UCzefinH4UZN1p4Onl-MCkHw",
-    "channelTitle": "Megliodibere ",
-    "lastSeen": "2026-07-19T10:05:06.668Z"
   },
   {
     "channelId": "UC87ag2_TyGDX7uewgfwKZ0Q",
@@ -20795,11 +22260,6 @@
     "lastSeen": "2026-07-15T10:19:01.047Z"
   },
   {
-    "channelId": "UC-kE1AqwDJzLs7VXW8JwRjQ",
-    "channelTitle": "Adam Montiel",
-    "lastSeen": "2026-07-15T10:19:01.047Z"
-  },
-  {
     "channelId": "UCR_458FhnlLkhh52t-Pg-Tg",
     "channelTitle": "Westernport Whisky",
     "lastSeen": "2026-07-15T10:19:01.047Z"
@@ -21097,11 +22557,6 @@
   {
     "channelId": "UCEuMQ0H-7VYfox21BvmjjsQ",
     "channelTitle": "The Oregonian",
-    "lastSeen": "2026-07-15T10:18:56.460Z"
-  },
-  {
-    "channelId": "UCB2KT2iZX5f3AbuIA4rR23g",
-    "channelTitle": "Alles over gin.",
     "lastSeen": "2026-07-15T10:18:56.460Z"
   },
   {
@@ -21970,11 +23425,6 @@
     "lastSeen": "2026-07-15T10:18:40.619Z"
   },
   {
-    "channelId": "UCIdRaB56no4yR3cSbPVDu6w",
-    "channelTitle": "Grapes & Glasses",
-    "lastSeen": "2026-07-15T10:18:40.346Z"
-  },
-  {
     "channelId": "UC7thAoMV0xAQlF_Et3bS8bw",
     "channelTitle": " HM Shorts’",
     "lastSeen": "2026-07-15T10:18:40.346Z"
@@ -22125,11 +23575,6 @@
     "lastSeen": "2026-07-15T10:18:38.204Z"
   },
   {
-    "channelId": "UCFYE-0rB_rU4qotqEV2Ueow",
-    "channelTitle": "THE MICHIGAN POUR",
-    "lastSeen": "2026-07-15T10:18:37.950Z"
-  },
-  {
     "channelId": "UCvHzMDE-blav2np66Uueopg",
     "channelTitle": "Sip & Summit Adventures with Mike & Nichol",
     "lastSeen": "2026-07-15T10:18:37.950Z"
@@ -22173,11 +23618,6 @@
     "channelId": "UCEelyqiCU7bKksqo-JnjyFg",
     "channelTitle": "Ourglass",
     "lastSeen": "2026-07-15T10:18:37.368Z"
-  },
-  {
-    "channelId": "UCjBtStsDlo80rg5SBmfpSsA",
-    "channelTitle": "Natalie MacLean",
-    "lastSeen": "2026-07-15T10:18:37.367Z"
   },
   {
     "channelId": "UCeHKIAeKGoa3LnfFEOhM80Q",
@@ -23645,11 +25085,6 @@
     "lastSeen": "2026-07-08T10:33:51.174Z"
   },
   {
-    "channelId": "UCeQikDSclS9LUQT_gzB7f4w",
-    "channelTitle": "Belly Up Bar Cocktails",
-    "lastSeen": "2026-07-08T10:33:51.174Z"
-  },
-  {
     "channelId": "UCaXAZD80NYuQxPYJZ4yoYVQ",
     "channelTitle": "FALA MBZ",
     "lastSeen": "2026-07-08T10:33:50.908Z"
@@ -23927,11 +25362,6 @@
   {
     "channelId": "UCThY8lOKKkVDd9HVBT59zCg",
     "channelTitle": "Still It",
-    "lastSeen": "2026-07-08T10:33:45.330Z"
-  },
-  {
-    "channelId": "UCIHoGzlF6IZxhISF34dbmXQ",
-    "channelTitle": "Seven Three Distilling Co.",
     "lastSeen": "2026-07-08T10:33:45.330Z"
   },
   {
@@ -26175,11 +27605,6 @@
     "lastSeen": "2026-07-05T10:35:48.533Z"
   },
   {
-    "channelId": "UChm7pShV2rUAOCd5NcJcrSQ",
-    "channelTitle": "Clementi Feinkost",
-    "lastSeen": "2026-07-05T10:35:48.533Z"
-  },
-  {
     "channelId": "UClaqMj1KaN2eZLyMEmfrlxw",
     "channelTitle": "RON TV",
     "lastSeen": "2026-07-05T10:35:48.533Z"
@@ -27895,11 +29320,6 @@
     "lastSeen": "2026-07-01T11:36:58.344Z"
   },
   {
-    "channelId": "UC4arKMc0igBuZsB88h1ZM_A",
-    "channelTitle": "Lý Tử Tiên Hoa",
-    "lastSeen": "2026-07-01T11:36:57.989Z"
-  },
-  {
     "channelId": "UC64A-bbH15b5kN5A32CErOA",
     "channelTitle": "10 News",
     "lastSeen": "2026-07-01T11:36:57.989Z"
@@ -28225,11 +29645,6 @@
     "lastSeen": "2026-06-28T10:38:42.328Z"
   },
   {
-    "channelId": "UCvPnA-SGNyG1GZiIxRRpkLw",
-    "channelTitle": "Lady Brandy ",
-    "lastSeen": "2026-06-28T10:38:42.070Z"
-  },
-  {
     "channelId": "UCIX29PuVrZSXJuFythvVqSg",
     "channelTitle": "Judge Aaron Verdict",
     "lastSeen": "2026-06-28T10:38:42.070Z"
@@ -28283,11 +29698,6 @@
     "channelId": "UCLO429uISFHR88xfB-HEvUw",
     "channelTitle": "Chippo ",
     "lastSeen": "2026-06-28T10:38:41.061Z"
-  },
-  {
-    "channelId": "UCOV_7GPTARoxvgoZmvrS2Hw",
-    "channelTitle": "TheFilmJunkee",
-    "lastSeen": "2026-06-28T10:38:40.804Z"
   },
   {
     "channelId": "UCFTUPYAwZn6pPdOFBV7Gg2Q",
@@ -28860,11 +30270,6 @@
     "lastSeen": "2026-06-28T10:38:29.361Z"
   },
   {
-    "channelId": "UC8f9o3i67VAtABAwHUTQJFw",
-    "channelTitle": "Kathyann Myers",
-    "lastSeen": "2026-06-28T10:38:29.361Z"
-  },
-  {
     "channelId": "UCgxu5FMC0BOGut84ZdgNtHg",
     "channelTitle": "The Arunachal Guy - TAG",
     "lastSeen": "2026-06-28T10:38:29.360Z"
@@ -29047,11 +30452,6 @@
   {
     "channelId": "UC6BKD7RbbAcbLnj3lZdn5UA",
     "channelTitle": "Sip and Seek",
-    "lastSeen": "2026-06-28T10:38:26.660Z"
-  },
-  {
-    "channelId": "UCljAGuzPljAMShh_M6J38zA",
-    "channelTitle": "Finding Festivals with Haylie",
     "lastSeen": "2026-06-28T10:38:26.660Z"
   },
   {
@@ -30195,11 +31595,6 @@
     "lastSeen": "2026-06-24T11:21:53.308Z"
   },
   {
-    "channelId": "UCaf0NSmUWMHVQQd090tt3NA",
-    "channelTitle": "Investec",
-    "lastSeen": "2026-06-24T11:21:53.307Z"
-  },
-  {
     "channelId": "UCKVYN5WomF6uNG_lZK99iww",
     "channelTitle": "WYES",
     "lastSeen": "2026-06-24T11:21:53.307Z"
@@ -31058,11 +32453,6 @@
     "channelId": "UC8A-3mwqSn80z722IbcN-5w",
     "channelTitle": "Newtown On The Air",
     "lastSeen": "2026-06-21T11:27:51.675Z"
-  },
-  {
-    "channelId": "UC-Hv9xldbAOjIZKAdjNAJBg",
-    "channelTitle": "Brewtally Honest Bourbon",
-    "lastSeen": "2026-06-21T11:27:51.493Z"
   },
   {
     "channelId": "UCyU1JKlXp6yT8pcI6rhS4yg",
@@ -34035,11 +35425,6 @@
     "lastSeen": "2026-06-14T11:12:06.825Z"
   },
   {
-    "channelId": "UCS52o3eYB6lY6sE1ylEkI0w",
-    "channelTitle": "Tales of the Wine World",
-    "lastSeen": "2026-06-14T11:12:06.825Z"
-  },
-  {
     "channelId": "UCQSQWvib1ah6ujcfER8qyrg",
     "channelTitle": "Mega Factory UK",
     "lastSeen": "2026-06-14T11:12:06.825Z"
@@ -34178,11 +35563,6 @@
     "channelId": "UCXCgk6Ue4uYfjpwM2X9eKag",
     "channelTitle": "Chef Glenn B",
     "lastSeen": "2026-06-14T11:12:05.603Z"
-  },
-  {
-    "channelId": "UCa9nbtKmFEdm8j6aLoBabcw",
-    "channelTitle": "GaryVee Sold Wine",
-    "lastSeen": "2026-06-14T11:12:05.602Z"
   },
   {
     "channelId": "UCiz1gVrkG2tb-wt79n-CH8Q",
@@ -34467,11 +35847,6 @@
   {
     "channelId": "UCQxS4-k0FYBn9WA0ykpOjPA",
     "channelTitle": "Startup Reporter EU",
-    "lastSeen": "2026-06-14T11:12:00.470Z"
-  },
-  {
-    "channelId": "UCNJKWm0m4hN3ESct93e_hkQ",
-    "channelTitle": "Pinkesh Srivastava",
     "lastSeen": "2026-06-14T11:12:00.470Z"
   },
   {
@@ -36945,11 +38320,6 @@
     "lastSeen": "2026-06-07T10:39:39.176Z"
   },
   {
-    "channelId": "UCZ2BfwWZbD_wMC90AEPAXmg",
-    "channelTitle": "Veraison X",
-    "lastSeen": "2026-06-07T10:39:39.176Z"
-  },
-  {
     "channelId": "UCPxIio4PTRTJWfvWgx0orQw",
     "channelTitle": "My Italy Hotels",
     "lastSeen": "2026-06-07T10:39:39.176Z"
@@ -37783,11 +39153,6 @@
     "channelId": "UCpsL36LKm_igQEX4qGxunWg",
     "channelTitle": "#PPTTW | PingPongTravelsTheWorld",
     "lastSeen": "2026-06-03T12:53:28.463Z"
-  },
-  {
-    "channelId": "UCvS9Bzpq5gII2BkXwsUnWsg",
-    "channelTitle": "전상욱 소믈리에",
-    "lastSeen": "2026-06-03T12:53:28.235Z"
   },
   {
     "channelId": "UCAMXVf9lT_umY21P5g77OmA",
@@ -38710,11 +40075,6 @@
     "lastSeen": "2026-05-31T10:28:58.943Z"
   },
   {
-    "channelId": "UCwtdzM_G2EPcBFZ_0MhKgrw",
-    "channelTitle": "Gulf Coast Sippers",
-    "lastSeen": "2026-05-31T10:28:58.942Z"
-  },
-  {
     "channelId": "UCc7L2pRq4vaxLfV_-j-OdOQ",
     "channelTitle": "One Star Villain",
     "lastSeen": "2026-05-31T10:28:58.942Z"
@@ -39410,11 +40770,6 @@
     "lastSeen": "2026-05-31T10:28:47.039Z"
   },
   {
-    "channelId": "UCuH6yGMbYVDOqwFKznwwTvg",
-    "channelTitle": "Le Média Vin",
-    "lastSeen": "2026-05-31T10:28:46.793Z"
-  },
-  {
     "channelId": "UC5r3rFnKOpnB41RDo9Q_pgw",
     "channelTitle": "Bonacquisti Wine Company",
     "lastSeen": "2026-05-31T10:28:46.793Z"
@@ -40080,11 +41435,6 @@
     "lastSeen": "2026-05-27T11:52:30.031Z"
   },
   {
-    "channelId": "UCCA8wJirZ7yJgZD5DofF0Vw",
-    "channelTitle": "CHEF JEREMY FR",
-    "lastSeen": "2026-05-27T11:52:30.031Z"
-  },
-  {
     "channelId": "UCkK_nbZZHqJLm1u9oXdBlyw",
     "channelTitle": "Rohit",
     "lastSeen": "2026-05-27T11:52:30.030Z"
@@ -40305,11 +41655,6 @@
     "lastSeen": "2026-05-27T11:52:26.146Z"
   },
   {
-    "channelId": "UCFDWzpDXp9pvfRiZGPUGXXw",
-    "channelTitle": "Seaway Whisky Wire",
-    "lastSeen": "2026-05-24T10:18:48.303Z"
-  },
-  {
     "channelId": "UC5MqZcjhSu_yxNYmEZuQ14w",
     "channelTitle": "The Judge & JD Show",
     "lastSeen": "2026-05-24T10:18:48.303Z"
@@ -40523,11 +41868,6 @@
     "channelId": "UCPDtvBOPxqCIIar1tPHTe8A",
     "channelTitle": "Searching For The Perfect Dram",
     "lastSeen": "2026-05-24T10:17:46.135Z"
-  },
-  {
-    "channelId": "UCB6B1G3z1x-tgap9ROFyZBQ",
-    "channelTitle": "myBar by David Gran",
-    "lastSeen": "2026-05-24T10:17:46.134Z"
   },
   {
     "channelId": "UC4HPqk4qvJjw3YrRjTzUKQw",
@@ -40898,11 +42238,6 @@
     "channelId": "UCS1ADK2A8dMJ3pm13-Y8YbA",
     "channelTitle": "totallynott.weirdo00",
     "lastSeen": "2026-05-24T10:16:45.030Z"
-  },
-  {
-    "channelId": "UCwgvZ61oBcDWvyh7kuhEVpA",
-    "channelTitle": "小資蝦喝葡萄酒🍷",
-    "lastSeen": "2026-05-24T10:16:44.616Z"
   },
   {
     "channelId": "UC-A-NNtfRmq_DB1ZSI3oMAQ",
@@ -42170,11 +43505,6 @@
     "lastSeen": "2026-05-20T11:25:24.023Z"
   },
   {
-    "channelId": "UCqJHHDFwoesB6KKrnmWn7bQ",
-    "channelTitle": "PlumpJack Collection of Wineries",
-    "lastSeen": "2026-05-20T11:25:23.613Z"
-  },
-  {
     "channelId": "UCNLL4jqM2U3pfTSzO6eivsw",
     "channelTitle": "9Weine - Wein kaufen wie ein Kenner",
     "lastSeen": "2026-05-20T11:25:23.613Z"
@@ -42562,11 +43892,6 @@
   {
     "channelId": "UCk7sgcghXNfBMgAYNxBtiFA",
     "channelTitle": "L&D Free Spirits",
-    "lastSeen": "2026-05-17T10:07:06.582Z"
-  },
-  {
-    "channelId": "UCByGc7P_siORkC1pum8T3_Q",
-    "channelTitle": "WFSB 3",
     "lastSeen": "2026-05-17T10:07:06.582Z"
   },
   {
@@ -44330,11 +45655,6 @@
     "lastSeen": "2026-05-13T11:03:42.553Z"
   },
   {
-    "channelId": "UCCXFk5MDotsLTK1vJ5ewF6g",
-    "channelTitle": "The Wonderful World of Wine (WWW)_Franklin Liquors",
-    "lastSeen": "2026-05-13T11:03:42.553Z"
-  },
-  {
     "channelId": "UCMTHtSdot3N3ndoj6Dwynnw",
     "channelTitle": "MotoVino Adventures",
     "lastSeen": "2026-05-13T11:03:42.553Z"
@@ -45458,11 +46778,6 @@
     "channelId": "UCVIjl8qOZCsX4RKFxGd58fA",
     "channelTitle": "Ambassador of Good Cheer",
     "lastSeen": "2026-05-10T09:51:26.413Z"
-  },
-  {
-    "channelId": "UCWzgCA7IiT60FAMqxqUUdjw",
-    "channelTitle": "Classic Wine Tours",
-    "lastSeen": "2026-05-10T09:51:26.412Z"
   },
   {
     "channelId": "UCL5apZXbLxW9me4jbCOT3rQ",
@@ -50800,11 +52115,6 @@
     "lastSeen": "2026-04-26T09:29:11.721Z"
   },
   {
-    "channelId": "UCv38CJVPiQIYl2PSyJhhndw",
-    "channelTitle": "Williams Woak ",
-    "lastSeen": "2026-04-26T09:29:11.481Z"
-  },
-  {
     "channelId": "UCiTIcpUByzdRfgt2ysT6_Kg",
     "channelTitle": "Life with Laura ",
     "lastSeen": "2026-04-26T09:29:11.481Z"
@@ -54965,11 +56275,6 @@
     "lastSeen": "2026-04-12T09:10:20.741Z"
   },
   {
-    "channelId": "UCo78ETubA2dbB0swPKQs4tQ",
-    "channelTitle": "Glacier Distilling Company",
-    "lastSeen": "2026-04-12T09:10:20.417Z"
-  },
-  {
     "channelId": "UCIMoUanlyQCpgjpcKDX8ViQ",
     "channelTitle": "TheSmokeSip",
     "lastSeen": "2026-04-12T09:10:20.417Z"
@@ -56653,11 +57958,6 @@
     "channelId": "UC3oKyEMNsIqPGO1PwNu5Zuw",
     "channelTitle": "Bacchus Bruce",
     "lastSeen": "2026-04-08T09:43:08.022Z"
-  },
-  {
-    "channelId": "UCnk5eEgHtJ7FrnbLHAx_mVQ",
-    "channelTitle": "zabbardesefarad",
-    "lastSeen": "2026-04-08T09:43:07.672Z"
   },
   {
     "channelId": "UCJm0dEqu-qa4cBhA4mHozrw",
@@ -58532,11 +59832,6 @@
   {
     "channelId": "UCUVwZ2NFLIPSQ0BFKiNpMIw",
     "channelTitle": "Two Doomed Men",
-    "lastSeen": "2026-04-01T09:43:20.157Z"
-  },
-  {
-    "channelId": "UC-x_TAP5x68Qp97_I0u4htg",
-    "channelTitle": "The Garage Mind",
     "lastSeen": "2026-04-01T09:43:20.157Z"
   },
   {
@@ -60767,11 +62062,6 @@
   {
     "channelId": "UC4nZLJ-w-CRB-eYFfB7fIiw",
     "channelTitle": "Sandy Daarubaaz",
-    "lastSeen": "2026-03-28T19:52:41.966Z"
-  },
-  {
-    "channelId": "UCl-_aUinNV6XQZeDv6RmLyA",
-    "channelTitle": "iamgt",
     "lastSeen": "2026-03-28T19:52:41.966Z"
   },
   {
