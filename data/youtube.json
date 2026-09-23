@@ -1,507 +1,28 @@
 {
-  "lastUpdated": "2026-09-20T13:08:22.417Z",
+  "lastUpdated": "2026-09-23T13:45:48.593Z",
   "totalVideos": 200,
   "videos": [
     {
-      "videoId": "okMrKGd0eSA",
-      "title": "Wine Harvest 2028: Success or Disaster?",
-      "channel": "BusinessChannelStreamer",
-      "thumbnail": "https://i.ytimg.com/vi/okMrKGd0eSA/mqdefault_live.jpg",
-      "publishedAt": "2026-09-20T13:03:53Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "rQNJAtxJq5U",
-      "title": "David Davis - Locke + Co Aspen Rye Whiskey &amp; Coke Vanilla",
-      "channel": "My 21 Gun Saloon",
-      "thumbnail": "https://i.ytimg.com/vi/rQNJAtxJq5U/mqdefault.jpg",
-      "publishedAt": "2026-09-20T13:03:21Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "M53fnI1IRdE",
-      "title": "Short:  Tension in blended bourbon",
-      "channel": "Bourbon Captain",
-      "thumbnail": "https://i.ytimg.com/vi/M53fnI1IRdE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T13:00:22Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "lZhpVR9M1QE",
-      "title": "Secret Underground Wine Cellar Run by Pure Mechanics 🍷⚙️",
-      "channel": "Techly AI",
-      "thumbnail": "https://i.ytimg.com/vi/lZhpVR9M1QE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T13:00:17Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "E8z_1JrjTWg",
-      "title": "I Made Wine From My Own Grapes… Is It Any Good? 🍷",
-      "channel": "Dave’s Garden & Vine",
-      "thumbnail": "https://i.ytimg.com/vi/E8z_1JrjTWg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T13:00:10Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "1fborbMQfLE",
-      "title": "Black Dog Triple Gold Scotch Whisky VS Ballantines Scotch Whisky | Cocktails | 18+Only ",
-      "channel": "Livelife",
-      "thumbnail": "https://i.ytimg.com/vi/1fborbMQfLE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T13:00:05Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Scotland"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "da_j9ZwLOGA",
-      "title": "Mở Vang Đỏ Barolo, Ăn Bồ Câu Pháp, nhẽ ra phải rất tuyệt nhưng hụt hẫng!",
-      "channel": "Gianni Giang Hoang",
-      "thumbnail": "https://i.ytimg.com/vi/da_j9ZwLOGA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:59:10Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "Italy"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "ZBPsbUHb4w0",
-      "title": "Qingdao wine festival. #travel #china #wine",
-      "channel": "Walk&Tune",
-      "thumbnail": "https://i.ytimg.com/vi/ZBPsbUHb4w0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:58:08Z",
-      "categories": [
-        "Emerging Wine Regions"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "Lo9zKqR690U",
-      "title": "4K The Distillery District 🌆🏙🎉 | Toronto Downtown #canada#explore #walktour #4k #toronto#travel  ",
-      "channel": "Rs Shaikh",
-      "thumbnail": "https://i.ytimg.com/vi/Lo9zKqR690U/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:54:31Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "xitaG1DPNj0",
-      "title": "Il vino che non può essere replicato #vinosardo #slowwine",
-      "channel": "Joaquín Rabuffetti",
-      "thumbnail": "https://i.ytimg.com/vi/xitaG1DPNj0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:53:30Z",
-      "categories": [
-        "Tasting & Sommelier",
-        "Wines by Region",
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "--ewNQJUIIs",
-      "title": "सिर्फ़ ₹4000 Whisky Shoping Offer And Whisky Price In Goa #whisky #goa #shorts #offer",
-      "channel": "Alcohal brand store",
-      "thumbnail": "https://i.ytimg.com/vi/--ewNQJUIIs/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:49:56Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "jq1nZJ0IJaw",
-      "title": "10 of the BEST Wines You Can Buy for $25! (2026)",
-      "channel": "Attorney Somm",
-      "thumbnail": "https://i.ytimg.com/vi/jq1nZJ0IJaw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:45:27Z",
-      "categories": [
-        "Grape Varieties",
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "MwubMLT04ws",
-      "title": "SAMPLE DAY 🥃 EDRADOUR 12 YEARS 1 FILL MARTINIQUE RUM CASK #Edradour #Whisky #Scotch #Shorts #Clips",
-      "channel": "Whisky Ingo",
-      "thumbnail": "https://i.ytimg.com/vi/MwubMLT04ws/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:39:26Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Scotland",
-        "Martinique"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "oDHaXScGfgc",
-      "title": "Director Wang wrestling is smoother @ Jinshiyuan Wine Industry",
-      "channel": "Kaelorus Ravenshaven",
-      "thumbnail": "https://i.ytimg.com/vi/oDHaXScGfgc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:38:13Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "tMam0WMRds8",
-      "title": "Millions of Tons of Grape Waste Go Here 🍇 Watch What It Becomes|#FactoryProcess",
-      "channel": "NextLevelManufacturing.h",
-      "thumbnail": "https://i.ytimg.com/vi/tMam0WMRds8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:32:17Z",
-      "categories": [
-        "Sustainability & Climate"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "bCBgV6VDVEI",
-      "title": "TRYING GREEN APPLE VODKA WITH LIME JUICE CORDIAL AND MADRAS MIXURE @AfewsipsCheers ",
-      "channel": "A few sips ! cheers ",
-      "thumbnail": "https://i.ytimg.com/vi/bCBgV6VDVEI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:30:30Z",
-      "categories": [
-        "Vodka"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "MfBa5tV3lkw",
-      "title": "🍇 Grape Seeds to GIANT Grape Vine! 😱 | Amazing Growth Timelapse #shorts",
-      "channel": "Seeds Grow ",
-      "thumbnail": "https://i.ytimg.com/vi/MfBa5tV3lkw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:30:25Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "iIVNw-wedZM",
-      "title": "Rural Life ASMR: Harvesting Grapes &amp; Cooking Ash! 🍇🥣#SlowLiving #ASMR #FarmToTable#PeacefulVibes",
-      "channel": " With Shiyan",
-      "thumbnail": "https://i.ytimg.com/vi/iIVNw-wedZM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:30:09Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "zqp3D2xCVOs",
-      "title": "Wine Aged Under the Adriatic Sea 🍷🌊 | Dubrovnik Private Experience",
-      "channel": "Dubrovnik Holiday Travel Agency",
-      "thumbnail": "https://i.ytimg.com/vi/zqp3D2xCVOs/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:27:50Z",
-      "categories": [
-        "Emerging Wine Regions",
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "XOICidq8dLU",
-      "title": "SINGAL.MALT.WHisky#whisky #malta #scotch #colares # #cocktail #rum#hotel",
-      "channel": "@MrJatabh95",
-      "thumbnail": "https://i.ytimg.com/vi/XOICidq8dLU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:27:33Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Scotland"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "HIfd8SVLtrY",
-      "title": "Thứ tạo nên hương vị đặc trưng của rượu vang",
-      "channel": "Tri Vị Ký",
-      "thumbnail": "https://i.ytimg.com/vi/HIfd8SVLtrY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:21:59Z",
-      "categories": [
-        "Business & Trade",
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "yEjlzeKK8eA",
-      "title": "This $3 Wine Fooled an Entire Industry",
-      "channel": "DailyTeddy",
-      "thumbnail": "https://i.ytimg.com/vi/yEjlzeKK8eA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:08:22Z",
-      "categories": [
-        "Business & Trade",
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "5WCUESefruU",
-      "title": "Rocco&#39;s Old School Italian &amp; Wine Bar Review 🍝 | Towson, MD",
-      "channel": "Travel with Trey",
-      "thumbnail": "https://i.ytimg.com/vi/5WCUESefruU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:07:37Z",
+      "videoId": "MrG5Ehp3ePU",
+      "title": "Chardonnay - A Village in Southern Burgundy",
+      "channel": "Jay",
+      "thumbnail": "https://i.ytimg.com/vi/MrG5Ehp3ePU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:44:13Z",
       "categories": [
         "Wines by Region",
-        "Wine Education"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "TIuCxDSDJR0",
-      "title": "A Romantic Weekend at Château Élan | Celebrating Him ",
-      "channel": "Her Soft Life With Yim",
-      "thumbnail": "https://i.ytimg.com/vi/TIuCxDSDJR0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:06:44Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "5LXQyKlyLec",
-      "title": "Comment Theka For More shorts #funny #education #business #wine #wine #winefight",
-      "channel": "Reaction King",
-      "thumbnail": "https://i.ytimg.com/vi/5LXQyKlyLec/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:02:45Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "xWT89PEpAXU",
-      "title": "Best Drinks Tourists Should Try in France",
-      "channel": "Wolters World Eats",
-      "thumbnail": "https://i.ytimg.com/vi/xWT89PEpAXU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T12:00:26Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "2I6kgNU8KxY",
-      "title": "Noodles and Red wine ! #gumiramyunchallenge #food #bonnecuisine #cooking",
-      "channel": "CHEF JM",
-      "thumbnail": "https://i.ytimg.com/vi/2I6kgNU8KxY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:55:02Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "WbKjhGtgwvA",
-      "title": "Kentucky Boy Bourbon Review and Our @kybourbonfest  Bottle Haul",
-      "channel": "SoIn2Bourbon",
-      "thumbnail": "https://i.ytimg.com/vi/WbKjhGtgwvA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:50:14Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "-wJoOdkzsUk",
-      "title": "Sazerac 🥃 | Classic New Orleans Whiskey Cocktail Recipe #Shorts #thebarjournal#cocktail#drink#recipe",
-      "channel": "The Bar Journal",
-      "thumbnail": "https://i.ytimg.com/vi/-wJoOdkzsUk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:30:31Z",
-      "categories": [
-        "Whiskey",
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "o3FexI_fvx0",
-      "title": "You MUST BUY These Two California Wines",
-      "channel": "DrinkinItIn",
-      "thumbnail": "https://i.ytimg.com/vi/o3FexI_fvx0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:29:04Z",
-      "categories": [
-        "Tasting & Sommelier",
         "Grape Varieties"
       ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "XLE1cym7uOM",
-      "title": "Wine Down Red Wine Soap ALL NATURAL HANDMADE SOAP ALL NATURAL INGREDIENTS",
-      "channel": "SumthinDiffTntSoapsNSuch",
-      "thumbnail": "https://i.ytimg.com/vi/XLE1cym7uOM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:16:38Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "2ZC18ipyYq8",
-      "title": "From Grape Vine to Table 🍇 | Amazing Grape Harvesting Process! #Shorts",
-      "channel": "Nik Ruman",
-      "thumbnail": "https://i.ytimg.com/vi/2ZC18ipyYq8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:13:16Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "oPepfn8yppE",
-      "title": "Cantina in Locorotondo | Puglia, Italy",
-      "channel": "Europe Travel",
-      "thumbnail": "https://i.ytimg.com/vi/oPepfn8yppE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:08:40Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "QfdzT6Z0HTs",
-      "title": "IPHONE 18 PRO MAX BURGUNDY WINE 🍷 😍😍 DUAL E SIM NON PTA  #iphone18promax",
-      "channel": "Sohail Khilji",
-      "thumbnail": "https://i.ytimg.com/vi/QfdzT6Z0HTs/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:08:20Z",
-      "categories": [
-        "Wines by Region"
-      ],
       "regions": [
         "France"
       ],
       "beverageType": "wine"
     },
     {
-      "videoId": "9nvi2oW0KZM",
-      "title": "My First Grape Harvest in Italy 🍇🇮🇹",
-      "channel": "Damita Jane -All The Things",
-      "thumbnail": "https://i.ytimg.com/vi/9nvi2oW0KZM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:07:29Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "98Lvo35Ocos",
-      "title": "Cantina in Locorotondo | Puglia, Italy",
-      "channel": "Europe Travel",
-      "thumbnail": "https://i.ytimg.com/vi/98Lvo35Ocos/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:06:23Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "OiTLb7Vv-Ps",
-      "title": "Cantina in Locorotondo | Puglia, Italy",
-      "channel": "Europe Travel",
-      "thumbnail": "https://i.ytimg.com/vi/OiTLb7Vv-Ps/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:06:00Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "MtICrGzOoV0",
-      "title": "Cantina in Locorotondo | Puglia, Italy",
-      "channel": "Europe Travel",
-      "thumbnail": "https://i.ytimg.com/vi/MtICrGzOoV0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:05:08Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "3f_Ar3yPBw8",
-      "title": "GLOSSARY OF WINE (26) BOTRYTIS #winelover #wine #viticulture",
-      "channel": "Jamie Goode",
-      "thumbnail": "https://i.ytimg.com/vi/3f_Ar3yPBw8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:03:40Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "A3G0cBo3tz0",
-      "title": "Enjoying some great wine at China Bend winery",
-      "channel": "Lucky Hill Acres",
-      "thumbnail": "https://i.ytimg.com/vi/A3G0cBo3tz0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:01:37Z",
+      "videoId": "KpJ92_Z7TgU",
+      "title": "www.georgian-wine-family-club.com.  #georgiatravel #giorgien #georgischerwein #georgianvino #comedy",
+      "channel": "Georgian_Wine_Family_Club",
+      "thumbnail": "https://i.ytimg.com/vi/KpJ92_Z7TgU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:38:20Z",
       "categories": [
         "Emerging Wine Regions"
       ],
@@ -509,225 +30,25 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "xXYMHplZJuU",
-      "title": "WINE  MEETS  BUSINESS - BUSINESS MEETS WINE",
-      "channel": "Alexander Ploiner",
-      "thumbnail": "https://i.ytimg.com/vi/xXYMHplZJuU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:00:58Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "HPw3JmvSekM",
-      "title": "Sunset Wine by the Mediterranean 🌅🍷 | Best Italian Songs from the 60s, 70s &amp; 80s 🇮🇹",
-      "channel": "Golden Romance",
-      "thumbnail": "https://i.ytimg.com/vi/HPw3JmvSekM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:00:31Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "FmBFVHxo-5k",
-      "title": "Why Do Winemakers Still Crush Grapes With Their Feet? #shorts",
-      "channel": "BangSalad",
-      "thumbnail": "https://i.ytimg.com/vi/FmBFVHxo-5k/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:00:23Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "RtTwbaezDhU",
-      "title": "#ASMR #Cooking Pork &amp; Onion Red Wine Cheese Stew for Tinnitus Sleep Focus | 豚肉とタマネギの赤ワイン煮調理音 #shorts",
-      "channel": "耳鼻科医 法月ロイ 音と耳ラボ",
-      "thumbnail": "https://i.ytimg.com/vi/RtTwbaezDhU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T11:00:06Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "o05JPXd5Lak",
-      "title": "LIVE 🍷 HER Wine Collection Winemaker Party with Praisy Dlamini  + DJ Jay Goodwill",
-      "channel": "Chat's Liquors",
-      "thumbnail": "https://i.ytimg.com/vi/o05JPXd5Lak/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:58:34Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "WurjWX_uxO8",
-      "title": "wine, graphite, ITALIAN art 🇮🇹",
-      "channel": "Teto",
-      "thumbnail": "https://i.ytimg.com/vi/WurjWX_uxO8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:49:54Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "BvCCaqSR2zA",
-      "title": "Hungary’s PM Peter Magyar Doused With Wine at Harvest Festival - What Happened? #shorts",
-      "channel": "WORLD LEADERS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/BvCCaqSR2zA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:34:33Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "TPjX6PScQXY",
-      "title": "Bordeaux: How Climate Change Is Threatening a Famous Wine Region",
-      "channel": "DW Travel",
-      "thumbnail": "https://i.ytimg.com/vi/TPjX6PScQXY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:30:26Z",
-      "categories": [
-        "Wines by Region",
-        "Sustainability & Climate"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "eLOgXthXdzg",
-      "title": "Harvesting Giant Black Grapes to Sell at Market | Making Traditional Grape Wine.",
-      "channel": "My's Harvest Life",
-      "thumbnail": "https://i.ytimg.com/vi/eLOgXthXdzg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:30:02Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "ut7FS9wAVUM",
-      "title": "Forget the flute. We’re drinking Champagne from a tankard 🍾🍺",
-      "channel": "Got Somme - Master Sommelier's Wine Podcast",
-      "thumbnail": "https://i.ytimg.com/vi/ut7FS9wAVUM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:20:44Z",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "2Hg8EOcuOpU",
-      "title": "I created this Cocktail to celebrate NEGRONI WEEK 2026 #negroni #negroniweek #campari  #cocktail",
-      "channel": "SG Cocktail Geek",
-      "thumbnail": "https://i.ytimg.com/vi/2Hg8EOcuOpU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:10:30Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [
-        "Italy"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "O_oWDoT0c0I",
-      "title": "Louis Pasteur: Pasteurization wasn&#39;t invented for milk first",
-      "channel": "Origin Stories x",
-      "thumbnail": "https://i.ytimg.com/vi/O_oWDoT0c0I/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:03:17Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "vLut2C3tm2U",
-      "title": "The Wine Buying Window Is Open",
-      "channel": "WineLibraryTV",
-      "thumbnail": "https://i.ytimg.com/vi/vLut2C3tm2U/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:01:24Z",
+      "videoId": "rMYhhujyzPs",
+      "title": "The Country That Invented Wine",
+      "channel": "Wine with Jon",
+      "thumbnail": "https://i.ytimg.com/vi/rMYhhujyzPs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:31:29Z",
       "categories": [
         "Business & Trade",
-        "Winemaking & Viticulture"
+        "Winemaking & Viticulture",
+        "Emerging Wine Regions"
       ],
       "regions": [],
       "beverageType": "wine"
     },
     {
-      "videoId": "PFR56T7Q90k",
-      "title": "This $125 Wine Sold for $30",
-      "channel": "GaryVee Sold Wine",
-      "thumbnail": "https://i.ytimg.com/vi/PFR56T7Q90k/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:01:21Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "khsHOOw4Y_I",
-      "title": "🚍 DIT IS SCHOTLAND! 🥃 🚂 WHISKY, HIGH TEA IN DE STOOMTREIN &amp; ISLE OF SKYE | TOURINGCARCHAUFFEUR #69",
-      "channel": "Tirza on Tour 🚌💨",
-      "thumbnail": "https://i.ytimg.com/vi/khsHOOw4Y_I/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:40Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [
-        "Scottish Isles"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "KwPwsrYh4ds",
-      "title": "Ti Amo, Bella Mia 💖 Most Popular Italian Music Classics 70s 80s 90s Hits 🇮🇹",
-      "channel": "Dolce Vita Melodies",
-      "thumbnail": "https://i.ytimg.com/vi/KwPwsrYh4ds/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:21Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "5xkr8qqnaC8",
-      "title": "How Balsamic Vinegar Is Made in a Modern Factory | From Grapes to Aged Vinegar",
-      "channel": "BuildaiStudio🏗️",
-      "thumbnail": "https://i.ytimg.com/vi/5xkr8qqnaC8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:10Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "xnlWuSKXmpg",
-      "title": "Bro, have a drink? #Cheers #Chinese白酒 #Rice Wine #Drinking Women #Drunkard #Everyday Spirits",
-      "channel": "Daily drinking challenge",
-      "thumbnail": "https://i.ytimg.com/vi/xnlWuSKXmpg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:03Z",
+      "videoId": "k54URY1Cy9Y",
+      "title": "Kangxi Radical 164 酉 (Yǒu) | Wine Radical Explained | Learn Chinese in Bangla | HSK | 会学吧",
+      "channel": "Learn Chinese with Bangla ",
+      "thumbnail": "https://i.ytimg.com/vi/k54URY1Cy9Y/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:33Z",
       "categories": [
         "Emerging Wine Regions"
       ],
@@ -735,214 +56,11 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "9Ggv2IvsdVM",
-      "title": "Imagine ordering a cocktail and realizing Tom Holland is your bartender. 😭🍹",
-      "channel": "Princess Balloveras",
-      "thumbnail": "https://i.ytimg.com/vi/9Ggv2IvsdVM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:03Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "Pq_unI1QQgM",
-      "title": "What Japanese Wine to pare with SUSHI ??",
-      "channel": "THREE GRAPES | Japan Wine Salon (not Sake)",
-      "thumbnail": "https://i.ytimg.com/vi/Pq_unI1QQgM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T10:00:00Z",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [
-        "Japan"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "9V6w23kCkzw",
-      "title": "He Grew a Giant Grape Vineyard From Scratch! 🍇🌿 | Farming Transformation",
-      "channel": "Future Tech & AI",
-      "thumbnail": "https://i.ytimg.com/vi/9V6w23kCkzw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:56:00Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "1ZYaIwx5sm4",
-      "title": "Hakushu Distillers Reserve aus Japan im Test #whisky #whiskytasting #singlemalt",
-      "channel": "Malt Mariners",
-      "thumbnail": "https://i.ytimg.com/vi/1ZYaIwx5sm4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:51:11Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Scotland",
-        "Japan"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "meDddwqxUrI",
-      "title": "NW党 ~natural wine to... vol.38  ワインと食のペアリング vol.2  - ITAYA Farm &amp; Winery - 海の泡 ROSE 2024",
-      "channel": "NW党 ~natural wine to...",
-      "thumbnail": "https://i.ytimg.com/vi/meDddwqxUrI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:45:06Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "nB3-tpXZ2Kc",
-      "title": "mini pizza 🍕 making / ai vidio /pizza recipe #shorts #viral #cooking #vidio",
-      "channel": "DAKSH EDITS 2.0",
-      "thumbnail": "https://i.ytimg.com/vi/nB3-tpXZ2Kc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:36:36Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "fp6aibJlMu8",
-      "title": "Kumeu River Hunting Hill Vineyard - Morning Light #newzealandwine #winelover #chardonnay #dcamw",
-      "channel": "David Allen - Master of Wine",
-      "thumbnail": "https://i.ytimg.com/vi/fp6aibJlMu8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:30:24Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [
-        "New Zealand"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "6fBxw3Jzhq8",
-      "title": "Saturday night #bartenderlife #mixology #manishsamantvlogs #cocktaillovers #cocktailmaking #party",
-      "channel": "Manish Samant Vlogs | Bartender Life",
-      "thumbnail": "https://i.ytimg.com/vi/6fBxw3Jzhq8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:30:18.000Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "2grk0z38Djk",
-      "title": "Tiny Farmers Race to Harvest the Grapes Before Sunset! 🍇🚜 #miniaturerescue",
-      "channel": "Miniature Rescue Tales",
-      "thumbnail": "https://i.ytimg.com/vi/2grk0z38Djk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:24:27Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "i2vPXOTBRmc",
-      "title": "jus dan wine durian di Tiongkok #food #foodie #reels #shortvideo #tutorial #youtub #facts #funny",
-      "channel": "Suara Layar Kaca",
-      "thumbnail": "https://i.ytimg.com/vi/i2vPXOTBRmc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:10:25Z",
-      "categories": [
-        "Emerging Wine Regions"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "224703Tvypg",
-      "title": "My grapes harvest 🥰🥰🥰",
-      "channel": "Jona Family",
-      "thumbnail": "https://i.ytimg.com/vi/224703Tvypg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:05:43Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "Jc0Z6Dr4r-I",
-      "title": "Before the harvest begins, the vineyard gives us the first signs.",
-      "channel": "Herdade das Servas",
-      "thumbnail": "https://i.ytimg.com/vi/Jc0Z6Dr4r-I/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:03:15Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "7eEvzmLFKzk",
-      "title": "Accidentally became a Sommelier with Vegas Wine",
-      "channel": "Sweeney & Ethan",
-      "thumbnail": "https://i.ytimg.com/vi/7eEvzmLFKzk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:00:37Z",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "Ra40WAjY-To",
-      "title": "Mendoza, Argentina Travel: 5 Days on the Wine Trail",
-      "channel": "Trailblazing Adventures",
-      "thumbnail": "https://i.ytimg.com/vi/Ra40WAjY-To/mqdefault.jpg",
-      "publishedAt": "2026-09-20T09:00:18Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [
-        "Argentina"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "SJIOgA3PtpY",
-      "title": "iPhone 18 Pro in Deep Wine / Burgundy (512GB)@whatsinthebox-7 #iPhone18Pro #iPhone18 #Burgundy",
-      "channel": "What's In The Box?",
-      "thumbnail": "https://i.ytimg.com/vi/SJIOgA3PtpY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:59:50Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "QjYkOXOMfYE",
-      "title": "NURSULTAN NEXTGEN 1.12.2 HVH DAMAGE SPEED SPIDER vodka craf",
-      "channel": "Fredyaki4",
-      "thumbnail": "https://i.ytimg.com/vi/QjYkOXOMfYE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:59:36Z",
-      "categories": [
-        "Vodka"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "NuKwH9igPuk",
-      "title": "How Long Does Whisky ACTUALLY Last Once You Open It?",
-      "channel": "Bottled Verdict",
-      "thumbnail": "https://i.ytimg.com/vi/NuKwH9igPuk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:56:11Z",
+      "videoId": "nktK8rS7mHQ",
+      "title": "Mid-week blues? Lion King reminds us that good times don’t always have to wait for weekend. #whisky",
+      "channel": "Lion King Whisky",
+      "thumbnail": "https://i.ytimg.com/vi/nktK8rS7mHQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:31Z",
       "categories": [
         "Whiskey"
       ],
@@ -950,732 +68,11 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "U2tyAD6tKjY",
-      "title": "NURSULTAN NEXTGEN 1.12.2 HVH DAMAGE SPEED SPIDER vodka craft",
-      "channel": "Fredik",
-      "thumbnail": "https://i.ytimg.com/vi/U2tyAD6tKjY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:55:20Z",
-      "categories": [
-        "Vodka"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "UJjdGlEhmIw",
-      "title": "Spotted in Ireland! 🥃 1959 Vintage Dublin Whiskey Bus #shorts #ireland #whiskey #dublin 🇮🇪",
-      "channel": "KP Visual Cafe",
-      "thumbnail": "https://i.ytimg.com/vi/UJjdGlEhmIw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:42:26Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Ireland"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "cTQRO5zJIFA",
-      "title": "Asbach Riesling Georg Breuer",
-      "channel": "WineSpiritsandDine",
-      "thumbnail": "https://i.ytimg.com/vi/cTQRO5zJIFA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:38:27Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "H8sGJy5iUW8",
-      "title": "Make a cocktail",
-      "channel": "Луна и Дейзи ",
-      "thumbnail": "https://i.ytimg.com/vi/H8sGJy5iUW8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:37:45Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "aiH2itnPciE",
-      "title": "Punch Brothers - June Apple (Poisoned) / Rye Whiskey - Columbus, Ohio - 18.Sep.26",
-      "channel": "BCollen15",
-      "thumbnail": "https://i.ytimg.com/vi/aiH2itnPciE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:31:54Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "N5AhopM_CHk",
-      "title": "Sommelier Sake Review | Naraman Junmai | Rich Umami Comes Alive Warm",
-      "channel": "Japan Cellar ",
-      "thumbnail": "https://i.ytimg.com/vi/N5AhopM_CHk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:30:02Z",
-      "categories": [
-        "Tasting & Sommelier"
-      ],
-      "regions": [
-        "Japan"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "ehTH1fQ3Pzk",
-      "title": "Old monk rum review coming up 😎 #viral #rumreview #coffee #like #share #subscribe #comment #mix",
-      "channel": "Rewired Man",
-      "thumbnail": "https://i.ytimg.com/vi/ehTH1fQ3Pzk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:28:22Z",
-      "categories": [
-        "Rum"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "v_SijESWobo",
-      "title": "The price of whiskey shocked a billionaire 💀 #nikhilkamath #billionaire #shorts",
-      "channel": "founderlab",
-      "thumbnail": "https://i.ytimg.com/vi/v_SijESWobo/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:23:45Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "gIeSIUfTRMw",
-      "title": "Guessing the Exact Region in a Blind Tasting | Cabernet Sauvignon",
-      "channel": "Mackenzie Casey's The Back Label",
-      "thumbnail": "https://i.ytimg.com/vi/gIeSIUfTRMw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:04:14Z",
-      "categories": [
-        "Tasting & Sommelier",
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "WNLpNDucgBs",
-      "title": "Gold of Mauritius Single Cask Cognac Cask Finish Rum - 43 % Vol. 🥃 Mauritius at it&#39;s Best? ",
-      "channel": "Rumtastisch",
-      "thumbnail": "https://i.ytimg.com/vi/WNLpNDucgBs/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:02:12Z",
-      "categories": [
-        "Rum"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "Y6vvtdA9398",
-      "title": "2 Happy Hour Spots in London",
-      "channel": "Atmosfy London",
-      "thumbnail": "https://i.ytimg.com/vi/Y6vvtdA9398/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:01:04Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "I9GBUZE-z-g",
-      "title": "Pier One, The Monarch, Rabale — your next favourite hangout spot!",
-      "channel": "Vaibhavi Shripad Marathe",
-      "thumbnail": "https://i.ytimg.com/vi/I9GBUZE-z-g/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:00:51Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "X2UjCRI9dWk",
-      "title": "Vom Schmied zum Off-Track Wine Scout I HALBVOLL - Concept Riesling Folge 37",
-      "channel": "Concept Riesling",
-      "thumbnail": "https://i.ytimg.com/vi/X2UjCRI9dWk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:00:27Z",
-      "categories": [
-        "Business & Trade",
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "fhgiyMQ4MPw",
-      "title": "🥂 Geniet optimaal van Riesling met Riedel Fatto A Mano Performance ✨",
-      "channel": "Cookinglife",
-      "thumbnail": "https://i.ytimg.com/vi/fhgiyMQ4MPw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:00:27Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "hwBaVbH8ktw",
-      "title": "Nico empfiehlt! Dieser Bourbon ist so gut, dass ich ihn sogar bei mir im Shop gelistet habe.",
-      "channel": "Nicolas Kroeger - Wagemut",
-      "thumbnail": "https://i.ytimg.com/vi/hwBaVbH8ktw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:00:12Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "498oOAhs_e4",
-      "title": "Guter Rum passt nicht jedem, laut 245.789 Vergleichen",
-      "channel": "Oliver Gerhardt von RumX",
-      "thumbnail": "https://i.ytimg.com/vi/498oOAhs_e4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T08:00:04Z",
-      "categories": [
-        "Rum"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "Iazwiw8Z4vc",
-      "title": "@ Jinshiyuan Wine Industry",
-      "channel": "William DE_Perry",
-      "thumbnail": "https://i.ytimg.com/vi/Iazwiw8Z4vc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:44:33Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "dHvvShX8QME",
-      "title": "#histoire #gastronomie #whisky #cognac #armagnac #louisxiv",
-      "channel": "Jo Wine & Spirits | Le Caviste",
-      "thumbnail": "https://i.ytimg.com/vi/dHvvShX8QME/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:39:35Z",
-      "categories": [
-        "Brandy & Cognac"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "Vyr1RmimKwg",
-      "title": "ZIGZAG VODKA WITH LEMON &amp; SPRITE #vodka #cocktail #zigzagvodka",
-      "channel": "PEG & PAAJI",
-      "thumbnail": "https://i.ytimg.com/vi/Vyr1RmimKwg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:38:52Z",
-      "categories": [
-        "Vodka"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "l7mS6tCOVKI",
-      "title": "🥃 Hemingway Rye 102Bold rye. Big proof. Zero apologies. 🔥#HemingwayRye #RyeWhiskey  #Bourbon",
-      "channel": "Smoke & Dram",
-      "thumbnail": "https://i.ytimg.com/vi/l7mS6tCOVKI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:37:18Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "7dEulliPx0s",
-      "title": "Chile Sold This Red Under Another Grape&#39;s Name for Generations #shorts",
-      "channel": "winetellect_pro",
-      "thumbnail": "https://i.ytimg.com/vi/7dEulliPx0s/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:01:54Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "I7_ENBBTDzQ",
-      "title": "a few days in the south of france | tiny villages, vineyards &amp; slow days",
-      "channel": "Daisy Parks",
-      "thumbnail": "https://i.ytimg.com/vi/I7_ENBBTDzQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:00:29Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "aPmaIiLGx98",
-      "title": "Bourbon Review Sneak Peek",
-      "channel": "JJbourbq",
-      "thumbnail": "https://i.ytimg.com/vi/aPmaIiLGx98/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:00:16Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "G063dP9BxiE",
-      "title": "Tarcal na Węgrzech, dlaczego od lat wracamy do tego miejsca w Tokaju?",
-      "channel": "Szalone Walizki",
-      "thumbnail": "https://i.ytimg.com/vi/G063dP9BxiE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T07:00:08Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "Y0p_w7K6tEA",
-      "title": "Dieser Weinberg hat keine Wege – nur Boote!",
-      "channel": "FaktenExplosiv",
-      "thumbnail": "https://i.ytimg.com/vi/Y0p_w7K6tEA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:45:35Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "MomDvBRjDuc",
-      "title": "French Wine Crisis Hits U.S. Markets: Production Crash And Looming Tariffs",
-      "channel": "JQJO USA Business English",
-      "thumbnail": "https://i.ytimg.com/vi/MomDvBRjDuc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:45:30Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "axVvgGLNehM",
-      "title": "Umathum – Große Weine oder großer Name? (Folge 1438)",
-      "channel": "Wernervino",
-      "thumbnail": "https://i.ytimg.com/vi/axVvgGLNehM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:45:02Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "i4t9DN-D6tw",
-      "title": "Whisky Ya Whiskey? Label Se Origin Pehchano",
-      "channel": "CheersCherry",
-      "thumbnail": "https://i.ytimg.com/vi/i4t9DN-D6tw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:34:19Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "eKXU_4mzYE8",
-      "title": "@ Jinshiyuan Wine Industry",
-      "channel": "Helioen Northwick",
-      "thumbnail": "https://i.ytimg.com/vi/eKXU_4mzYE8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:28:23Z",
-      "categories": [
-        "Business & Trade",
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "xQ3ES30uTIw",
-      "title": "[260919] Câu chuyện uống nhầm rượu nấu ăn siêu buồn cười 😅",
-      "channel": "ℂ𝕐𝕐 _ 𝕊ℕℍ𝟜𝟠-𝔾ℕℤ𝟜𝟠",
-      "thumbnail": "https://i.ytimg.com/vi/xQ3ES30uTIw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:19:42Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "M1mQbs1qfz8",
-      "title": "SouthPerthLionsWineandCheeseInvitation 1",
-      "channel": "Lionsclubofsouthperth",
-      "thumbnail": "https://i.ytimg.com/vi/M1mQbs1qfz8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:18:28Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "LSNbAe_EFrE",
-      "title": "The Bone Dry Riesling That Goes Full Throttle",
-      "channel": "Young Gun of Wine",
-      "thumbnail": "https://i.ytimg.com/vi/LSNbAe_EFrE/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:12:03Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "eSttYTjKL-4",
-      "title": "🍷🌀 L&#39;asperseur, bien pratique pendant les vinifications #winemaking #vendanges #viticulture #winery",
-      "channel": "Manu Dupuy Vigneron",
-      "thumbnail": "https://i.ytimg.com/vi/eSttYTjKL-4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:11:52Z",
-      "categories": [
-        "Business & Trade",
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "ZnLT65jfEZQ",
-      "title": "iPhone 18 Pro in Deep Wine / Burgundy (512GB)@whatsinthebox-7",
-      "channel": "What's In The Box?",
-      "thumbnail": "https://i.ytimg.com/vi/ZnLT65jfEZQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:00:36Z",
-      "categories": [
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "duECRaZp6bI",
-      "title": "EXPLORING LOCHRANZA #carlife #isleofarran #castle #distillery",
-      "channel": "Off Grid Vanlife UK",
-      "thumbnail": "https://i.ytimg.com/vi/duECRaZp6bI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:00:29Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "Pq3H0O31xXs",
-      "title": "Stepping Out of One of Australia&#39;s Greatest Wine Cellars",
-      "channel": "The Wined Up",
-      "thumbnail": "https://i.ytimg.com/vi/Pq3H0O31xXs/mqdefault.jpg",
-      "publishedAt": "2026-09-20T06:00:28Z",
-      "categories": [
-        "Business & Trade",
-        "Grape Varieties",
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "plHG_oyX8fg",
-      "title": "Caipirinha Cocktail Recipe | The ICA Cocktail Lab #shorts #shortvideo",
-      "channel": "The ICA Cocktail Lab",
-      "thumbnail": "https://i.ytimg.com/vi/plHG_oyX8fg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:59:02.000Z",
-      "categories": [
-        "Cachaça"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "hbFvUk_BQcY",
-      "title": "Champagne Production Just Got CUT IN HALF — Here&#39;s Why",
-      "channel": "Capital Clarity",
-      "thumbnail": "https://i.ytimg.com/vi/hbFvUk_BQcY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:40:05Z",
-      "categories": [
-        "Business & Trade",
-        "Wines by Region"
-      ],
-      "regions": [
-        "France"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "tY67NmfJ7FQ",
-      "title": "Wine + Cheese Board Party",
-      "channel": "Seabreezy Studio",
-      "thumbnail": "https://i.ytimg.com/vi/tY67NmfJ7FQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:23:48Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "BDHpSIi32qM",
-      "title": "EVERYDAY SENSORY ASMR | Making Saturday Night Cocktail #cocktail #asmrdrinking #asmrrelaxation",
-      "channel": "Everyday Sensory ASMR",
-      "thumbnail": "https://i.ytimg.com/vi/BDHpSIi32qM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:14:14Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "D6XLwdIZwJQ",
-      "title": "Wine and Cheese Board",
-      "channel": "Seabreezy Studio",
-      "thumbnail": "https://i.ytimg.com/vi/D6XLwdIZwJQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:08:30Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "oJfMRi6xcD8",
-      "title": "Bourbon picking",
-      "channel": "The Whiskey Blendery",
-      "thumbnail": "https://i.ytimg.com/vi/oJfMRi6xcD8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:07:49Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "3X_kaIEM6kI",
-      "title": "Whiskey Quest &amp; Two Pours Neat LIVE! | 4 Bottles, Whiskey Talk &amp; You Pick the Pours",
-      "channel": "Whiskey Quest",
-      "thumbnail": "https://i.ytimg.com/vi/3X_kaIEM6kI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:05:50Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "BObnN3MJKaw",
-      "title": "Whiskey Aging Explained: Why Price &amp; Taste Differ",
-      "channel": "Whiskey Web and Whatnot CLIPS",
-      "thumbnail": "https://i.ytimg.com/vi/BObnN3MJKaw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:02:21Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "vnl9s9H3hko",
-      "title": "Dragonfyre Distillery near Marathon, NY",
-      "channel": "Thunder & Lightning go RVing",
-      "thumbnail": "https://i.ytimg.com/vi/vnl9s9H3hko/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:00:23Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "_n8tiQZZHcY",
-      "title": "TRUTH OF FORTIFIED WINE WITH 24% ALCOHOL. EP- 269",
-      "channel": "Nishu's casK",
-      "thumbnail": "https://i.ytimg.com/vi/_n8tiQZZHcY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:00:06Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "T-6Yy6twvKk",
-      "title": "Why You Should NEVER Order &quot;Rack Liquor&quot;",
-      "channel": "Bartender Bangaz",
-      "thumbnail": "https://i.ytimg.com/vi/T-6Yy6twvKk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T05:00:06Z",
-      "categories": [
-        "Spirits Business"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "BZZdObyvE8E",
-      "title": "A boy making a juice #youtubeshorts #youtube #trending #viral #",
-      "channel": "Glorstarzzz",
-      "thumbnail": "https://i.ytimg.com/vi/BZZdObyvE8E/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:54:27Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "dIbfqRzl0W8",
-      "title": "Ep. 23 Fine Wine and Velveeta Cheese",
-      "channel": "We Got No Jams",
-      "thumbnail": "https://i.ytimg.com/vi/dIbfqRzl0W8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:49:08Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "MqmQ9aqgi5k",
-      "title": "A Black Woman is Changing the Wine Industry One Event At A Time: Meet Tahiirah Habibi of Hue Society",
-      "channel": "Tonya McKenzie of Sand & Shores",
-      "thumbnail": "https://i.ytimg.com/vi/MqmQ9aqgi5k/mqdefault_live.jpg",
-      "publishedAt": "2026-09-20T04:41:47Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "uj6iQ3ZARu4",
-      "title": "Tiny Martini 🍸✨ | Miniature Cocktail Making #shorts",
-      "channel": "Happy Learning Tods",
-      "thumbnail": "https://i.ytimg.com/vi/uj6iQ3ZARu4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:24:45Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "C3NfO_H7es8",
-      "title": "Ballantines 15 yo single malt Scotch Whisky The Glenburgie  #whiskey #unboxing #foryou",
-      "channel": "xxxnx",
-      "thumbnail": "https://i.ytimg.com/vi/C3NfO_H7es8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:09:19Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Scotland"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "oJ6SuEkxibk",
-      "title": "🍷😈 Ethereal Ritual Music | Dark Sorceress Dungeon Wine Cellar",
-      "channel": "Relaxing AI Dreams",
-      "thumbnail": "https://i.ytimg.com/vi/oJ6SuEkxibk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:05:49Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "lc5anUWpedI",
-      "title": "An All-Inclusive Retreat Without Leaving Georgia 🍇 #ChateauElan #GeorgiaTravel #SoftLife",
-      "channel": "World Of Diyah",
-      "thumbnail": "https://i.ytimg.com/vi/lc5anUWpedI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:32Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "9LLDxQ8SRTg",
-      "title": "🥃 Mexia Blanco Tequila Drink Review | A Fresh Look at Mexia Tequila",
-      "channel": "Sip, Savor & Celebrate ",
-      "thumbnail": "https://i.ytimg.com/vi/9LLDxQ8SRTg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:29Z",
-      "categories": [
-        "Tequila & Mezcal"
-      ],
-      "regions": [
-        "Jalisco"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "C4lThXtbetM",
-      "title": "The Rise of Suntory: From Small Shop to Spirits Empire",
-      "channel": "Untold Commerce",
-      "thumbnail": "https://i.ytimg.com/vi/C4lThXtbetM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:14Z",
-      "categories": [
-        "Spirits Business"
-      ],
-      "regions": [
-        "Japan"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "W8_HIeebX1k",
-      "title": "Gardening in Sweden 🌿 Dahlia Bouquet, Wine Cellar &amp; Our New Berry Garden",
-      "channel": "Laaeri | Sweden Magic",
-      "thumbnail": "https://i.ytimg.com/vi/W8_HIeebX1k/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:11Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "KPsFetm28ok",
-      "title": "ЗАКОНЧИМ LAPHROAIG 10YO SHERRY CASK",
-      "channel": "ЗВЕРЕВ&Whisky",
-      "thumbnail": "https://i.ytimg.com/vi/KPsFetm28ok/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:10Z",
+      "videoId": "ZBSKcK-VjuM",
+      "title": "Schwarzer Humor trifft Tasting Notes -  Bruichladdich The Classic Laddie Sherry Cask (50 %) #whisky",
+      "channel": "Whisky Turntable",
+      "thumbnail": "https://i.ytimg.com/vi/ZBSKcK-VjuM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:22Z",
       "categories": [
         "Whiskey"
       ],
@@ -1686,25 +83,84 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "xqBu8BqYVP8",
-      "title": "🌹 Mexia Rosa Tequila Drink Review | Is This Rosé-Inspired Tequila Worth Trying? 🥃",
-      "channel": "Sip, Savor & Celebrate ",
-      "thumbnail": "https://i.ytimg.com/vi/xqBu8BqYVP8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T04:00:01Z",
+      "videoId": "5rUagyEaodQ",
+      "title": "Westlake Hacienda: 15,000 Sq Ft, Wine Cellar",
+      "channel": "Homecorp | Sandy Tabacinic",
+      "thumbnail": "https://i.ytimg.com/vi/5rUagyEaodQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:21Z",
       "categories": [
-        "Tequila & Mezcal"
+        "Wine Collecting & Investment"
       ],
-      "regions": [
-        "Jalisco"
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "4AZM_5vNhxk",
+      "title": "Sanjay Dutt’s Whisky Empire 🥃🔥 #youtubeshorts #entertainment #bollywood #sanjaydutt #shorts #whisky",
+      "channel": "THF Bollywood",
+      "thumbnail": "https://i.ytimg.com/vi/4AZM_5vNhxk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:18Z",
+      "categories": [
+        "Whiskey"
       ],
+      "regions": [],
       "beverageType": "spirits"
     },
     {
-      "videoId": "P-iUVORtrak",
-      "title": "NEW IPHONE 18 PRO MAX COLOR BURGUNDY (ROYAL WINE ) PAINT MIXING WHITE TO BURGUNDY #mixing  #colors",
-      "channel": "Abraham Traders Official",
-      "thumbnail": "https://i.ytimg.com/vi/P-iUVORtrak/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:52:46Z",
+      "videoId": "vRJ7-qqD7Sg",
+      "title": "When life gives you lemons… 🍋You review lemon rum! 🥃😂Canvas Citrusy Lemon Rum at ₹700 💰",
+      "channel": "Apna Appetite & Alcohol",
+      "thumbnail": "https://i.ytimg.com/vi/vRJ7-qqD7Sg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:30:04Z",
+      "categories": [
+        "Rum"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "6pEAJ0cPhIQ",
+      "title": "Tasting Tuesday LIVE: Mexican Gin &amp; Rum | Condesa Gin + MX Rums",
+      "channel": "Chat's Liquors",
+      "thumbnail": "https://i.ytimg.com/vi/6pEAJ0cPhIQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:29:55Z",
+      "categories": [
+        "Rum",
+        "Gin"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "PKgN-qkuDBE",
+      "title": "Sagamore Masterclass Coming Up # #whisky #rye #sagamore",
+      "channel": "Whiskey Crusaders",
+      "thumbnail": "https://i.ytimg.com/vi/PKgN-qkuDBE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:27:52Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "u-tDyY9_n3I",
+      "title": "Bad character means bad wines #winebusiness#chinabaijiu#businesstalk#markettruth#buyingtips",
+      "channel": "Yang-english learner ",
+      "thumbnail": "https://i.ytimg.com/vi/u-tDyY9_n3I/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:23:21Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "dt9pQK9tecI",
+      "title": "Leo, I’m sorry. The truth is,I’m broke from drinking Burgundy every day. #wine #winebar #winelover",
+      "channel": "밤비노 레스꼬",
+      "thumbnail": "https://i.ytimg.com/vi/dt9pQK9tecI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:20:02Z",
       "categories": [
         "Wines by Region"
       ],
@@ -1714,47 +170,11 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "yCACcxdaUfQ",
-      "title": "Why Wine Is About More Than Just What’s in Your Glass | Amelia Singer",
-      "channel": "Europe's Podcast",
-      "thumbnail": "https://i.ytimg.com/vi/yCACcxdaUfQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:46:35Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "i6YTRMCxT3A",
-      "title": "Tour at Sinca Distillery - Tico, Ucareo, Michoacan",
-      "channel": "George Popa (Around the World)",
-      "thumbnail": "https://i.ytimg.com/vi/i6YTRMCxT3A/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:41:44Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "qY6ycsVch-o",
-      "title": "Is pumpkin basic?",
-      "channel": "NickKnowsScent",
-      "thumbnail": "https://i.ytimg.com/vi/qY6ycsVch-o/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:40:55Z",
-      "categories": [
-        "Rum"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "OpkIyDWVev8",
-      "title": "FOOD REVIEW: Griddled Cheese @ Greece EPCOT 2026 Food &amp; Wine Festival",
-      "channel": "Media Axle",
-      "thumbnail": "https://i.ytimg.com/vi/OpkIyDWVev8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:39:33Z",
+      "videoId": "jzojVkbU88w",
+      "title": "A snacky party on a farm in Northern California with fresh cheese, wine and baby goats?! Somehow",
+      "channel": "Marissa Mullen • That Cheese Plate",
+      "thumbnail": "https://i.ytimg.com/vi/jzojVkbU88w/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:13:01Z",
       "categories": [
         "Wine & Food"
       ],
@@ -1762,205 +182,23 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "C06BFPe0Vq8",
-      "title": "Children&#39;s Sunday School with Mam Wine",
-      "channel": "CGBC Family Channel",
-      "thumbnail": "https://i.ytimg.com/vi/C06BFPe0Vq8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:33:17Z",
+      "videoId": "F9Isk-o65LY",
+      "title": "Jamie Wine Tasting Announcement",
+      "channel": "Dornoch Distillery",
+      "thumbnail": "https://i.ytimg.com/vi/F9Isk-o65LY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:12:53Z",
       "categories": [
-        "Wine Education"
+        "Wines by Region"
       ],
       "regions": [],
       "beverageType": "wine"
     },
     {
-      "videoId": "nmWFvbIXJG4",
-      "title": "Wine Tasting in ZAKYNTHOS! The Best Winery Tour on the Island",
-      "channel": "Base To Beyond ",
-      "thumbnail": "https://i.ytimg.com/vi/nmWFvbIXJG4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:30:02Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "OHE6X6xWC00",
-      "title": "This Might Be the BEST Fall Cocktail 🍁🥃 #WhiskeySour #FallCocktails",
-      "channel": "Rob's Home Bar",
-      "thumbnail": "https://i.ytimg.com/vi/OHE6X6xWC00/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:13:16Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "DICm0t5o9HQ",
-      "title": "ART, WINE &amp; CITY VIBE. Live walk from Tbilisi, Georgia",
-      "channel": "Anna Levina Guide and Explorer",
-      "thumbnail": "https://i.ytimg.com/vi/DICm0t5o9HQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T03:03:19Z",
-      "categories": [
-        "Emerging Wine Regions"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "acXFB9lXuBI",
-      "title": "Decorative plaster, home renovation, Wine Cellar, Moldova, Stone Decor, Terrace #vintage",
-      "channel": "Igor Fiodorov",
-      "thumbnail": "https://i.ytimg.com/vi/acXFB9lXuBI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:50:30Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "JrHEbQ1von4",
-      "title": "Tucumán: tejidos, azúcar y vinos de altura | #RutaAbierta - Completo 18/09 - El Nueve",
-      "channel": "El Nueve Argentina",
-      "thumbnail": "https://i.ytimg.com/vi/JrHEbQ1von4/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:45:21Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "uxt3wzjG3yw",
-      "title": "The Aviary Chicago | Chicago’s Most Unique Cocktail Bar",
-      "channel": "Life As Shay",
-      "thumbnail": "https://i.ytimg.com/vi/uxt3wzjG3yw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:41:10Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "tzqWSk6vrCA",
-      "title": "BRANDY&#39;S FULL MOON ALBUM REVIEW",
-      "channel": "RAYMANIA STUDIOS (Rayshawn Lamar Butler)",
-      "thumbnail": "https://i.ytimg.com/vi/tzqWSk6vrCA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:36:03Z",
-      "categories": [
-        "Brandy & Cognac"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "nUQbE7LQMVM",
-      "title": "How Wine Is Made: From Grape to Bottle 🍇",
-      "channel": "sriramanika",
-      "thumbnail": "https://i.ytimg.com/vi/nUQbE7LQMVM/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:30:10Z",
-      "categories": [
-        "Winemaking & Viticulture"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "toSlKz02GE0",
-      "title": "🌋 we caught a glimpse of the smoking Mount Etna after winery visit.🇮🇹",
-      "channel": "Chateau De Artisan, Malaysia",
-      "thumbnail": "https://i.ytimg.com/vi/toSlKz02GE0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:28:09Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "uRevTgMrpcc",
-      "title": "Transforming an Underground Bunker Into a Dream Wine Cellar 🍷 #undergroundbunker",
-      "channel": "Max Six",
-      "thumbnail": "https://i.ytimg.com/vi/uRevTgMrpcc/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:08:06Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "XREoEyS4e8k",
-      "title": "Panty Dropper Cocktail Recipe  Easy Mixology Guide",
-      "channel": "planetviral",
-      "thumbnail": "https://i.ytimg.com/vi/XREoEyS4e8k/mqdefault.jpg",
-      "publishedAt": "2026-09-20T02:00:26Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "tKpFy6Zp8ng",
-      "title": "Neck bones macaroni, cheese, cabbage, cornbread, don’t forget the wine ￼￼",
-      "channel": "Yashica Gray | I’m Still Here",
-      "thumbnail": "https://i.ytimg.com/vi/tKpFy6Zp8ng/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:54:28Z",
-      "categories": [
-        "Wine & Food"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "pdckKVW4Xyk",
-      "title": "Celebrating 19 years in business @ Battleborn wine and whiskey with Troy #review #podcast  #comedy",
-      "channel": "Bunker bar reviews",
-      "thumbnail": "https://i.ytimg.com/vi/pdckKVW4Xyk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:42:28Z",
-      "categories": [
-        "Business & Trade"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "QS1Wc-z3OMo",
-      "title": "Cloudline Pinot Noir Willamette Valley,  클라우드 라인",
-      "channel": " LKC 이광철 대전 가톨릭성형외과",
-      "thumbnail": "https://i.ytimg.com/vi/QS1Wc-z3OMo/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:38:31Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [
-        "Oregon"
-      ],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "DTdTGNiaezg",
-      "title": "Not all whiskey quality signals mean the same thing.",
-      "channel": "forwhiskeylovers",
-      "thumbnail": "https://i.ytimg.com/vi/DTdTGNiaezg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:29:32Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "GYacYPNbIqY",
-      "title": "Breakthru VIP wine tasting Event #wine #winetasting #review #wow #event #sommelier",
-      "channel": "Relax, It's Just Wine",
-      "thumbnail": "https://i.ytimg.com/vi/GYacYPNbIqY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:13:57Z",
+      "videoId": "JACF0-chkes",
+      "title": "She Opened a Wine Bar for $100K. Then She Bought the Building",
+      "channel": "Ashley Feinstein Gerstley",
+      "thumbnail": "https://i.ytimg.com/vi/JACF0-chkes/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:10:41Z",
       "categories": [
         "Tasting & Sommelier"
       ],
@@ -1968,62 +206,11 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "sGJF1QfcJYk",
-      "title": "MixAlchemy at the Barrels The Drink with No Name",
-      "channel": "Old Fashioned Alchemist",
-      "thumbnail": "https://i.ytimg.com/vi/sGJF1QfcJYk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:05:23Z",
-      "categories": [
-        "Cachaça"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "9CSERkGzhHU",
-      "title": "well worth the money for so many shots of tequila and mezcal omg #tequila #mezcal #arteagave",
-      "channel": "Travel Eats",
-      "thumbnail": "https://i.ytimg.com/vi/9CSERkGzhHU/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:04:51Z",
-      "categories": [
-        "Tequila & Mezcal"
-      ],
-      "regions": [
-        "Jalisco",
-        "Oaxaca"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "ckAoKLoBwUY",
-      "title": "Old School RuneScape part 54 ~ Lapping Draynor Village, Stealing Wine and Seeds",
-      "channel": "Palnai",
-      "thumbnail": "https://i.ytimg.com/vi/ckAoKLoBwUY/mqdefault.jpg",
-      "publishedAt": "2026-09-20T01:00:35Z",
-      "categories": [
-        "Wine Education"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "Xn1MrFvPhtk",
-      "title": "Peanut butter and fig 75 #cocktailrecipe #drinkrecipes #french75 #fallcocktails #drinkrecipes",
-      "channel": "ashleysapartmentbar",
-      "thumbnail": "https://i.ytimg.com/vi/Xn1MrFvPhtk/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:55:40Z",
-      "categories": [
-        "Cocktails & Mixology"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "O1LXTuaqiMQ",
-      "title": "Argentine Mussels in a Bacon &amp; Red Wine Tomato Sauce | Craving Central",
-      "channel": "Craving Central",
-      "thumbnail": "https://i.ytimg.com/vi/O1LXTuaqiMQ/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:52:37Z",
+      "videoId": "rTMWIJKRjyg",
+      "title": "Understanding Navarra DO. Terroir, Grapes and Five Subzones",
+      "channel": "Wine With Jimmy",
+      "thumbnail": "https://i.ytimg.com/vi/rTMWIJKRjyg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:10:10Z",
       "categories": [
         "Grape Varieties"
       ],
@@ -2031,174 +218,23 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "QTxWyut6oqw",
-      "title": "Tennessee Rye - So nice over Ice #jackdaniels #whiskey #grownups  #foryou",
-      "channel": "I’m just not for everyone ",
-      "thumbnail": "https://i.ytimg.com/vi/QTxWyut6oqw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:47:06Z",
+      "videoId": "grGizhFYE8A",
+      "title": "Top 5 Alcohol Stocks in India 2026 | United Spirits, Sula, Radico &amp; More #shorts",
+      "channel": "Boss Of Stock Market",
+      "thumbnail": "https://i.ytimg.com/vi/grGizhFYE8A/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:06:34Z",
       "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Tennessee"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "5_hmSjZJg70",
-      "title": "Shindo Distillery Dinner &amp; Whisky Tasting - Meet the Head Distiller at Jinius Bistro 🥩",
-      "channel": "WhiskyListGuy",
-      "thumbnail": "https://i.ytimg.com/vi/5_hmSjZJg70/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:34:01Z",
-      "categories": [
-        "Whiskey",
-        "Distilleries"
+        "Spirits Business"
       ],
       "regions": [],
       "beverageType": "spirits"
     },
     {
-      "videoId": "uI4gHxhj4QI",
-      "title": "eRecords How-To: Wine collections",
-      "channel": "eRecords Videos",
-      "thumbnail": "https://i.ytimg.com/vi/uI4gHxhj4QI/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:29:22Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "rnoh9HFzIP8",
-      "title": "Texas Or #TennesseeWhiskey #whiskey #whiskeyadvice #bourbon #whiskytubefamily",
-      "channel": "Single Barrel",
-      "thumbnail": "https://i.ytimg.com/vi/rnoh9HFzIP8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:20:40Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "qSio0ClsgZ0",
-      "title": "Arangda napod ko mga idol nag harvest og organic wine tuba puti 🌴🍷",
-      "channel": "MANONGGITY BOYS",
-      "thumbnail": "https://i.ytimg.com/vi/qSio0ClsgZ0/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:16:08Z",
-      "categories": [
-        "Sustainability & Climate"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "TKr_slJA9Ww",
-      "title": "Stone Hill Winery tour was great! We highly recommend #stonehillwinery #hermannmissouri #winerytour",
-      "channel": "roamingwithshibas",
-      "thumbnail": "https://i.ytimg.com/vi/TKr_slJA9Ww/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:14:40Z",
-      "categories": [
-        "Wineries"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "CKC7O5G__co",
-      "title": "Review Pirate&#39;s Grog Honey Spiced Rum - 70cl / 700ml | World Rum Award Winner | Five Year Aged in Oa",
-      "channel": "Zenith Zero",
-      "thumbnail": "https://i.ytimg.com/vi/CKC7O5G__co/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:06:21Z",
-      "categories": [
-        "Rum"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "rm-vzWAHIJg",
-      "title": "Brick Arches, Butler&#39;s Pantry &amp; a Wine Cellar | Gonzales Waterfront Kitchen #shorts",
-      "channel": "Moving to Baton Rouge with Jay LaRose",
-      "thumbnail": "https://i.ytimg.com/vi/rm-vzWAHIJg/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:04:25Z",
-      "categories": [
-        "Wine Collecting & Investment"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "iNhYq7bO1T8",
-      "title": "Ivan Enjingi",
-      "channel": "Grape Collective",
-      "thumbnail": "https://i.ytimg.com/vi/iNhYq7bO1T8/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:04:21Z",
-      "categories": [
-        "Emerging Wine Regions"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "mw8hqHCTYuA",
-      "title": "Do not miss this experience in NZ",
-      "channel": "Sagar and Ami",
-      "thumbnail": "https://i.ytimg.com/vi/mw8hqHCTYuA/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:03:52Z",
-      "categories": [
-        "Grape Varieties"
-      ],
-      "regions": [],
-      "beverageType": "wine"
-    },
-    {
-      "videoId": "klT2iD0v0Aw",
-      "title": "Budget Bourbon That Tastes Premium! | Ingram Distillery Wheated Bourbon",
-      "channel": "Whiskey Library",
-      "thumbnail": "https://i.ytimg.com/vi/klT2iD0v0Aw/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:02:16Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [
-        "Kentucky"
-      ],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "IlK9YHCEJko",
-      "title": "Isle of Oak and Moonlight: A Luxury Spirit Chronicle",
-      "channel": "Liquid Legacy",
-      "thumbnail": "https://i.ytimg.com/vi/IlK9YHCEJko/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:00:37Z",
-      "categories": [
-        "Whiskey"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "VUjcgH-fA04",
-      "title": "4 Bars Gin Clear Day review",
-      "channel": "Malkat Gin",
-      "thumbnail": "https://i.ytimg.com/vi/VUjcgH-fA04/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:00:37Z",
-      "categories": [
-        "Gin"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "ZZodKYgCOWo",
-      "title": "The Grand Coffee Palace Needed Wine",
-      "channel": "Cat Cult Coffee",
-      "thumbnail": "https://i.ytimg.com/vi/ZZodKYgCOWo/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:00:27Z",
+      "videoId": "Z26ExmsEQPE",
+      "title": "She Was Only There to Pour Wine… Until One Sentence Made the Duke Clear a Seat Beside Him",
+      "channel": "Forgotten Love Stories",
+      "thumbnail": "https://i.ytimg.com/vi/Z26ExmsEQPE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:03:02Z",
       "categories": [
         "Business & Trade"
       ],
@@ -2206,11 +242,23 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "kpyH-Me30ew",
-      "title": "Meadowlark Farm&#39;s Plan to Make Hard Cider",
-      "channel": "Farm4Profit Podcast",
-      "thumbnail": "https://i.ytimg.com/vi/kpyH-Me30ew/mqdefault.jpg",
-      "publishedAt": "2026-09-20T00:00:17Z",
+      "videoId": "9D-2P6Bb-X0",
+      "title": "Best Detroit Pizza in New Jersey? #food #pizza #review #foodreview",
+      "channel": "JoshsFoodnStuff",
+      "thumbnail": "https://i.ytimg.com/vi/9D-2P6Bb-X0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:00:35Z",
+      "categories": [
+        "Vodka"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "vNqYihO0jz4",
+      "title": "How Wine Is Made: Fermentation Science Explained",
+      "channel": "Factory Uncovered",
+      "thumbnail": "https://i.ytimg.com/vi/vNqYihO0jz4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:00:33Z",
       "categories": [
         "Winemaking & Viticulture"
       ],
@@ -2218,26 +266,37 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "mj602U1TKzU",
-      "title": "Let’s Try some Tequila ….. #fypシ #review #fyp #follow #contentcreator @CarretadeOroTequila",
-      "channel": "Mr.Bourbon LLC",
-      "thumbnail": "https://i.ytimg.com/vi/mj602U1TKzU/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:41:47Z",
+      "videoId": "hkbEncraYRs",
+      "title": "8 Canadian Wine Companies That Are Emptying Your Wallet",
+      "channel": "One Sip",
+      "thumbnail": "https://i.ytimg.com/vi/hkbEncraYRs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:00:31Z",
       "categories": [
-        "Whiskey"
+        "Grape Varieties"
       ],
       "regions": [
-        "Kentucky",
-        "Jalisco"
+        "Canada"
       ],
-      "beverageType": "spirits"
+      "beverageType": "wine"
     },
     {
-      "videoId": "BQbejnPfvUg",
-      "title": "UNA MISMA UVA, MUCHAS EXPRESIONES 🍇",
-      "channel": "Casa Petrini",
-      "thumbnail": "https://i.ytimg.com/vi/BQbejnPfvUg/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:29:22Z",
+      "videoId": "uDKXsAgEdro",
+      "title": "Can B.C. Wines Age?",
+      "channel": " Trophy Wine Hunter",
+      "thumbnail": "https://i.ytimg.com/vi/uDKXsAgEdro/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:00:24Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "4_FqDsnl3Fk",
+      "title": "Polylaminate Wine Capsule Making Machine | Hot Foil Stamping | Top Printing &amp; C-Cut",
+      "channel": "KETE GROUP LIMITED & KETE MACHINE",
+      "thumbnail": "https://i.ytimg.com/vi/4_FqDsnl3Fk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T13:00:14Z",
       "categories": [
         "Winemaking & Viticulture"
       ],
@@ -2245,23 +304,60 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "f6crZDWbGj4",
-      "title": "Schmecke 12 Bottle Wine Cooler: The Compact Cellar You Actually Need",
-      "channel": "Selected 5",
-      "thumbnail": "https://i.ytimg.com/vi/f6crZDWbGj4/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:27:04Z",
+      "videoId": "apDGS5Sns3Y",
+      "title": "D&amp;D Wine Gallery Ltd: premium wines, champagnes, cognacs &amp; spirits for businesses and consumers#wine",
+      "channel": "D & D wine gallery247",
+      "thumbnail": "https://i.ytimg.com/vi/apDGS5Sns3Y/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:46:21Z",
       "categories": [
-        "Wine Collecting & Investment"
+        "Business & Trade",
+        "Spirits Business"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "vLw47roVfkg",
+      "title": "Salimos al viñedo a recoger muestras de uva 🔎 #pradorey #vendimia2016",
+      "channel": "PRADOREY",
+      "thumbnail": "https://i.ytimg.com/vi/vLw47roVfkg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:45:48Z",
+      "categories": [
+        "Winemaking & Viticulture"
       ],
       "regions": [],
       "beverageType": "wine"
     },
     {
-      "videoId": "SHwlEnnzH74",
-      "title": "Oh boy can’t wait for to try this!#review #podcast #comedy",
-      "channel": "Bunker bar reviews",
-      "thumbnail": "https://i.ytimg.com/vi/SHwlEnnzH74/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:25:36Z",
+      "videoId": "ty1bKTolt30",
+      "title": "Italian Deep House Mix 2026 🍷 Sunset Wine &amp; House | European Lounge",
+      "channel": "Anthem Arena",
+      "thumbnail": "https://i.ytimg.com/vi/ty1bKTolt30/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:42:24Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "9P24yBtqCZI",
+      "title": "Merlot&#39;un Yeni Yolculuğu",
+      "channel": "Castello Fontana",
+      "thumbnail": "https://i.ytimg.com/vi/9P24yBtqCZI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:38:19Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "6i7KzLzHM30",
+      "title": "Whisky ASMR🧊🥃 #cocktails #whiskytubefamily #whisky #asmr #drink #whiskeyadvice #highball #alchohal",
+      "channel": "Chala__Basuyaa",
+      "thumbnail": "https://i.ytimg.com/vi/6i7KzLzHM30/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:30:34Z",
       "categories": [
         "Whiskey"
       ],
@@ -2269,23 +365,11 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "EN8cSIV2hHE",
-      "title": "Sugar House Distillery for the evening pour.",
-      "channel": "Bourbond_peacock",
-      "thumbnail": "https://i.ytimg.com/vi/EN8cSIV2hHE/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:19:56Z",
-      "categories": [
-        "Distilleries"
-      ],
-      "regions": [],
-      "beverageType": "spirits"
-    },
-    {
-      "videoId": "yV3HtGOHO80",
-      "title": "Tried a Hangover Prevention Shot…Did It Actually Work? 🥃🧪",
-      "channel": "Bourbon Barry ",
-      "thumbnail": "https://i.ytimg.com/vi/yV3HtGOHO80/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:13:19Z",
+      "videoId": "5y4450K9g58",
+      "title": "New Core Lineup From Bulleit. Bulleit 87 Review!",
+      "channel": "Everything And The Barrel",
+      "thumbnail": "https://i.ytimg.com/vi/5y4450K9g58/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:30:21Z",
       "categories": [
         "Whiskey"
       ],
@@ -2295,25 +379,23 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "bgIkYe_cqpE",
-      "title": "Whiskey Review: Bold, Dry, and Delicate Notes #shorts",
-      "channel": "Bones, Bourbon, Barley, & Brass",
-      "thumbnail": "https://i.ytimg.com/vi/bgIkYe_cqpE/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:02:57Z",
+      "videoId": "WEE0-su7eFo",
+      "title": "Honey Singh’s ‘Casa Tupka’ Takes a Dig at Badshah &amp; His Vodka Brand! #honeysingh #casatupka #badshah",
+      "channel": "SB K Review",
+      "thumbnail": "https://i.ytimg.com/vi/WEE0-su7eFo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:30:18Z",
       "categories": [
-        "Whiskey"
+        "Vodka"
       ],
-      "regions": [
-        "Kentucky"
-      ],
+      "regions": [],
       "beverageType": "spirits"
     },
     {
-      "videoId": "Ls3jyzIZwD8",
-      "title": "I tried EVERYTHING at the NEW Cheese booth at EPCOT’s Food &amp; Wine🧀 #disneyfood #disneyfoodie #food",
-      "channel": "Kaitlyn Renee",
-      "thumbnail": "https://i.ytimg.com/vi/Ls3jyzIZwD8/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:02:52Z",
+      "videoId": "U9LB_IcszFc",
+      "title": "mini samosa recipe 🤤#cooking 🤷  #sayanihobby #youtubeshorts #foryou #samosa",
+      "channel": "sayani Hobby ",
+      "thumbnail": "https://i.ytimg.com/vi/U9LB_IcszFc/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:29:12Z",
       "categories": [
         "Wine & Food"
       ],
@@ -2321,11 +403,99 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "Q3iv835eJlU",
-      "title": "Whiskey Odin knocked it out of the park with this #bourbon #whiskey.  #review #tennessee #travel",
-      "channel": "Caveman Drinks ",
-      "thumbnail": "https://i.ytimg.com/vi/Q3iv835eJlU/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:02:41Z",
+      "videoId": "8QCUl4BNxzU",
+      "title": "Best Winery Visit in Roma [Italy]",
+      "channel": "Slow Travel",
+      "thumbnail": "https://i.ytimg.com/vi/8QCUl4BNxzU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:18:48Z",
+      "categories": [
+        "Wineries"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "QQQcNUawTIs",
+      "title": "Your Kitchen Doesn’t Need a Wine Cellar 👀 | NutriChef 14-Bottle Wine Fridge",
+      "channel": "Worth It Club",
+      "thumbnail": "https://i.ytimg.com/vi/QQQcNUawTIs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:18:14Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "mcknZxGwtPU",
+      "title": "My life in drinks – in conversation with Felice Capasso",
+      "channel": "WSET",
+      "thumbnail": "https://i.ytimg.com/vi/mcknZxGwtPU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:17:32Z",
+      "categories": [
+        "Spirits Business"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "Ozw5UknDujk",
+      "title": "#greenscreen she has room to grow! #brandy #syrai #music #fyp #shorts",
+      "channel": "Racquel Braxton",
+      "thumbnail": "https://i.ytimg.com/vi/Ozw5UknDujk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:17:00Z",
+      "categories": [
+        "Brandy & Cognac"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "QFQccdXds6M",
+      "title": "Italian Heritage: Family Wine Tradition Lives On #shorts",
+      "channel": "The Pauline Chilton Show",
+      "thumbnail": "https://i.ytimg.com/vi/QFQccdXds6M/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:14:50Z",
+      "categories": [
+        "Business & Trade",
+        "Wines by Region",
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "8kRqDu8DTqQ",
+      "title": "No te lo Pierdass !!!",
+      "channel": "Gaby con Vos Streaming ",
+      "thumbnail": "https://i.ytimg.com/vi/8kRqDu8DTqQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:10:44Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "_b95CFzH2ag",
+      "title": "🥃 Conviction 7 Year FBS Pick Review 🥃 #bourbon #whiskey",
+      "channel": "Smoke Eaters Cigar and Whiskey Club",
+      "thumbnail": "https://i.ytimg.com/vi/_b95CFzH2ag/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:09:11Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "DXZimQJhIyc",
+      "title": "Crazy vintage Jack Daniel&#39;s collection! #whiskey #whisky #bourbon #bourbonhunting #bar #switzerland",
+      "channel": "The Bourbon Note",
+      "thumbnail": "https://i.ytimg.com/vi/DXZimQJhIyc/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:03:30Z",
       "categories": [
         "Whiskey"
       ],
@@ -2336,11 +506,23 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "wtp3v0OB2Qk",
-      "title": "STAGG 25A Kentucky Straight Bourbon Whiskey Review #bourbonhunting",
-      "channel": "Bourbon Beach TV",
-      "thumbnail": "https://i.ytimg.com/vi/wtp3v0OB2Qk/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:00:28Z",
+      "videoId": "QMie6rT6-3M",
+      "title": "Paraty Looks Abandoned. Brazil Floods It on Purpose.",
+      "channel": "Living Beyond Maps",
+      "thumbnail": "https://i.ytimg.com/vi/QMie6rT6-3M/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:00:36Z",
+      "categories": [
+        "Cachaça"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "xhl8K92QODQ",
+      "title": "These 5 Whiskeys Are Anything but ORDINARY!",
+      "channel": "Bourbon Theory",
+      "thumbnail": "https://i.ytimg.com/vi/xhl8K92QODQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:00:34Z",
       "categories": [
         "Whiskey"
       ],
@@ -2350,15 +532,25 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "0lUBx9I0frs",
-      "title": "This Bourbon Tastes Like Miami Vice! | Good Times Bourbon Review",
-      "channel": "Wilderness and Whiskey ",
-      "thumbnail": "https://i.ytimg.com/vi/0lUBx9I0frs/mqdefault.jpg",
-      "publishedAt": "2026-09-19T23:00:06Z",
+      "videoId": "qa_Kw0B9F-c",
+      "title": "il sommelier #gelateriamali @a@alessiodallacostamarketing",
+      "channel": "GELATERIA MALÌ",
+      "thumbnail": "https://i.ytimg.com/vi/qa_Kw0B9F-c/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:00:30Z",
       "categories": [
-        "Whiskey",
-        "Rum",
-        "Brandy & Cognac"
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "QssGWdooG1U",
+      "title": "Inside Bourbon &amp; Beyond: Behind the Scenes at Craft Distillers Row",
+      "channel": "Living in Columbus and Central Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/QssGWdooG1U/mqdefault.jpg",
+      "publishedAt": "2026-09-23T12:00:01Z",
+      "categories": [
+        "Distilleries"
       ],
       "regions": [
         "Kentucky"
@@ -2366,25 +558,241 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "x31j0Mv6eOs",
-      "title": "The Best Time for Virginia Wine Country Is Right Now 🍷",
-      "channel": "Vineyard Voyages",
-      "thumbnail": "https://i.ytimg.com/vi/x31j0Mv6eOs/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:59:42Z",
+      "videoId": "qgwwtAUbJcU",
+      "title": "S02//E03 No Offence Wines: Building a circular wine industry one venue at a time",
+      "channel": "Better Circles",
+      "thumbnail": "https://i.ytimg.com/vi/qgwwtAUbJcU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:58:58Z",
       "categories": [
-        "Wineries"
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "TEXv_Ntmh3E",
+      "title": "Vodka Quang | Review bánh trung thu a Độ Mixi #vodkaquang     #refundgaming",
+      "channel": "Vodka Quang",
+      "thumbnail": "https://i.ytimg.com/vi/TEXv_Ntmh3E/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:58:56Z",
+      "categories": [
+        "Vodka"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "g4ZkS1viLbs",
+      "title": "7&quot;Chinese Yixing Purple Clay Pot Tea ceremony handwriting Wine pot shape Kettle Teapot Flagon",
+      "channel": "AliDécouverte",
+      "thumbnail": "https://i.ytimg.com/vi/g4ZkS1viLbs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:57:42Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "ukL99B-Uwp4",
+      "title": "Winemakers are Artists. #wine #winemaking #harvestseason # #idahowine",
+      "channel": "Telaya Wine Co.",
+      "thumbnail": "https://i.ytimg.com/vi/ukL99B-Uwp4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:50:00Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "q8TkvoDXrfk",
+      "title": "「TravelPZ」 Review Evora and Monsaraz Village Day Tour from Lisbon with Wine Tasting",
+      "channel": "TravelPZ (travelpz.com)",
+      "thumbnail": "https://i.ytimg.com/vi/q8TkvoDXrfk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:48:53Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "JyWkPwqa_Cw",
+      "title": "Das war sehr schön….unserer Whiskey Tasting!!!#irishmusic #nosinggläser #ausgehn",
+      "channel": "Olafs Werkstatt",
+      "thumbnail": "https://i.ytimg.com/vi/JyWkPwqa_Cw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:45:17Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "siXqsuoPhdg",
+      "title": "Live by Design with JD Ramirez | Financial Planner Search",
+      "channel": "Financial Planner Search",
+      "thumbnail": "https://i.ytimg.com/vi/siXqsuoPhdg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:43:06Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "hjJBqKmHTRw",
+      "title": "CHINA WINE - TUDO RESPONDIDO EM IMPORTAÇÃO DA CHINA POR CNPJ",
+      "channel": "Pindau | Importação da China",
+      "thumbnail": "https://i.ytimg.com/vi/hjJBqKmHTRw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:42:35Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "GYrSqA8iyt0",
+      "title": "CHINA WINE - TUDO RESPONDIDO EM IMPORTAÇÃO DA CHINA POR CNPJ",
+      "channel": "China Gate Importação",
+      "thumbnail": "https://i.ytimg.com/vi/GYrSqA8iyt0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:40:49Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "E16-HH3zxss",
+      "title": "Israel vs. New Zealand: Tech vs. Wine Success Story #shorts",
+      "channel": "Hear I Am with Neil Kummer",
+      "thumbnail": "https://i.ytimg.com/vi/E16-HH3zxss/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:40:33Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "GR8kAn56P-E",
+      "title": "Le Riche, Part 1: Built on Relationships | The Long View",
+      "channel": "Vinimark - The Wine Company",
+      "thumbnail": "https://i.ytimg.com/vi/GR8kAn56P-E/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:37:33Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "VSHkUjFIGNY",
+      "title": "Làm cơm Rượu Nho Tại Nhà #cooking #food #monngon #monngonmoingay #amthuc #nauan #anvat #anngon #ngon",
+      "channel": "monngontrunghoa888",
+      "thumbnail": "https://i.ytimg.com/vi/VSHkUjFIGNY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:36:32Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "o1RTa81un40",
+      "title": "Kosher Wine Myth: Unboxing the Wine Industry&#39;s Identity Crisis #shorts",
+      "channel": "Hear I Am with Neil Kummer",
+      "thumbnail": "https://i.ytimg.com/vi/o1RTa81un40/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:32:48Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Fxi1VbUa0rU",
+      "title": "Grapes 🍇  harvesting",
+      "channel": "Life In A Frame",
+      "thumbnail": "https://i.ytimg.com/vi/Fxi1VbUa0rU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:29:16Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "rZ098RSUV4Q",
+      "title": "Harald Scholl im Gespräch | VINUM-Chefredakteur beim Heilbronner Weindorf 2026",
+      "channel": "Weinpilot",
+      "thumbnail": "https://i.ytimg.com/vi/rZ098RSUV4Q/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:26:48Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "6sDkblL9jzE",
+      "title": "Aviation 🍸 | Classic Gin Cocktail Recipe #shorts  #thebarjournal #cocktail #bartending #drink",
+      "channel": "The Bar Journal",
+      "thumbnail": "https://i.ytimg.com/vi/6sDkblL9jzE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:15:14Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "vjBM_xcmge4",
+      "title": "0.29€ Whisky??",
+      "channel": "The Whisky Jury",
+      "thumbnail": "https://i.ytimg.com/vi/vjBM_xcmge4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:12:33Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "MTBokmdkIw0",
+      "title": "Cabernet for pinot drinkers",
+      "channel": "The Real Review",
+      "thumbnail": "https://i.ytimg.com/vi/MTBokmdkIw0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:04:57Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "1R-TEEVWcBw",
+      "title": "Saint-Aubin - A Burgundy Wine Village",
+      "channel": "Jay",
+      "thumbnail": "https://i.ytimg.com/vi/1R-TEEVWcBw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:04:42Z",
+      "categories": [
+        "Wines by Region"
       ],
       "regions": [
-        "Virginia"
+        "France"
       ],
       "beverageType": "wine"
     },
     {
-      "videoId": "NyTadfN_JV8",
-      "title": "LIVE 🍷 HER Wine Collection Winemaker Party with Praisy Dlamini  + DJ Jay Goodwill",
-      "channel": "Chat's",
-      "thumbnail": "https://i.ytimg.com/vi/NyTadfN_JV8/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:56:45Z",
+      "videoId": "rVcon2X2nRU",
+      "title": "30 Days to Build a Wine Cellar, Pig Barn, Chicken p1",
+      "channel": "syed Sardar",
+      "thumbnail": "https://i.ytimg.com/vi/rVcon2X2nRU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:03:51Z",
       "categories": [
         "Wine Collecting & Investment"
       ],
@@ -2392,11 +800,534 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "NY-1tfHUUso",
-      "title": "Vanessa Medin, o que é vinho natural?",
-      "channel": "Brasil de Vinhos",
-      "thumbnail": "https://i.ytimg.com/vi/NY-1tfHUUso/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:52:06Z",
+      "videoId": "V49_BdxcnQw",
+      "title": "One movie line hurt Merlot sales and lifted Pinot Noir — economists measured it.",
+      "channel": "TERROIR",
+      "thumbnail": "https://i.ytimg.com/vi/V49_BdxcnQw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:02:37Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "2TBt_YjDY04",
+      "title": "30 Days to Build a Wine Cellar, Pig Barn, Chicken p1",
+      "channel": "syed Sardar",
+      "thumbnail": "https://i.ytimg.com/vi/2TBt_YjDY04/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:01:57Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "dilKmcwVzZI",
+      "title": "REGIONAL WINE EXHIBITION 🍷Galleria Umberto I, Naples",
+      "channel": "WYA",
+      "thumbnail": "https://i.ytimg.com/vi/dilKmcwVzZI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:22Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "qGDGUwgcU2I",
+      "title": "How Cork Oak Bark Becomes Millions of Natural Wine Corks | Full Factory Process",
+      "channel": "Factory Nexus Vision",
+      "thumbnail": "https://i.ytimg.com/vi/qGDGUwgcU2I/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:21Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "7Y0k8TnqZvQ",
+      "title": "Stessa parcella, suolo lavorato e non lavorato: cosa cambia davvero?",
+      "channel": "Indigeni wine",
+      "thumbnail": "https://i.ytimg.com/vi/7Y0k8TnqZvQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:17Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "I0Z-UPZoB6A",
+      "title": "This Wine Bottle Sold For $558,000!?!?",
+      "channel": "Nature Speaks",
+      "thumbnail": "https://i.ytimg.com/vi/I0Z-UPZoB6A/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:09Z",
+      "categories": [
+        "Wines by Region",
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "iKA2UR5EIeU",
+      "title": "Boomtown Emptied, Leaving Barrels of Spoiled Rye—She Turned Them Into Whiskey Worth Riding Miles For",
+      "channel": "Frontier Whispers",
+      "thumbnail": "https://i.ytimg.com/vi/iKA2UR5EIeU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "v3YVwYNnqYg",
+      "title": "Udaipur Imported Scotch Whisky No Hangover Smooth Whisky #youtubeshorts #scotchwhisky  #viral #daru",
+      "channel": "Dhoni vloger ",
+      "thumbnail": "https://i.ytimg.com/vi/v3YVwYNnqYg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:56:41Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Scotland"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "u3T7jgQ8EG4",
+      "title": "SNOSKI Vodka Review 🍏🥃 | Green Apple Flavour কেমন? #Shorts",
+      "channel": "ONE SHOP 100k 😔👏",
+      "thumbnail": "https://i.ytimg.com/vi/u3T7jgQ8EG4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:39:55Z",
+      "categories": [
+        "Vodka"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "2l_bLcVYano",
+      "title": "I Bought a €12.99 Whisky. Where Does the Money Go?",
+      "channel": "The Whisky Jury",
+      "thumbnail": "https://i.ytimg.com/vi/2l_bLcVYano/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:35:10Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "7Iw_hUG-pD0",
+      "title": "A dish is never alone at La Maison 1888",
+      "channel": "InterContinental Danang Resort",
+      "thumbnail": "https://i.ytimg.com/vi/7Iw_hUG-pD0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:34:34Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "aG1yQRHN0Gg",
+      "title": "Schiopetto Sauvignon",
+      "channel": "Plaza Cellars",
+      "thumbnail": "https://i.ytimg.com/vi/aG1yQRHN0Gg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:31:33Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "1COSQS43RgE",
+      "title": "Lego Minifigs Tour Bordeaux Vineyards",
+      "channel": "Brickstory UK",
+      "thumbnail": "https://i.ytimg.com/vi/1COSQS43RgE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:30:31Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "ps0QHdp22Ms",
+      "title": "Thailand Burmese Grape Harvest: From Orchard to Market, Pickles &amp; Premium Wine",
+      "channel": "Phương Daily Life",
+      "thumbnail": "https://i.ytimg.com/vi/ps0QHdp22Ms/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:30:10Z",
+      "categories": [
+        "Business & Trade",
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "6TgJbvIBZmE",
+      "title": "Which U.S. state is home to the famous Napa Valley wine region?",
+      "channel": "Gkgol-2 ",
+      "thumbnail": "https://i.ytimg.com/vi/6TgJbvIBZmE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:29:32Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "California"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "At7Xb5j83So",
+      "title": "Bordeaux Mule recipe",
+      "channel": "BardinetBrandy",
+      "thumbnail": "https://i.ytimg.com/vi/At7Xb5j83So/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:20:30Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Yq0mGRVOCCM",
+      "title": "Harvest 2026 | The Prep 🫧 🧽",
+      "channel": "Naked Wines",
+      "thumbnail": "https://i.ytimg.com/vi/Yq0mGRVOCCM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:20:14Z",
+      "categories": [
+        "Business & Trade",
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "hlRbT3baKgA",
+      "title": "Meet Amber From Zonzo Estate — Her Favourite Yarra Valley Wine 🍷",
+      "channel": "Cellarbrations Elwood",
+      "thumbnail": "https://i.ytimg.com/vi/hlRbT3baKgA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:11:13Z",
+      "categories": [
+        "Business & Trade",
+        "Tasting & Sommelier",
+        "Winemaking & Viticulture"
+      ],
+      "regions": [
+        "Australia"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "zEWT-O2O4ok",
+      "title": "Ep. 2798 Greek Wine, Hospitality &amp; AI: The Future of Wine Consumption with Chris Struck | TEXSOM ...",
+      "channel": "Italian Wine Travel with Stevie Kim",
+      "thumbnail": "https://i.ytimg.com/vi/zEWT-O2O4ok/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:03:38Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "Italy"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "9k3IzGAMH94",
+      "title": "Wine grapes pile up unsold as AB InBev redesigns its lineup",
+      "channel": "AlcBev in Five",
+      "thumbnail": "https://i.ytimg.com/vi/9k3IzGAMH94/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:03:26Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "4AwyrmILi3A",
+      "title": "A vineyard full of grapes. A family full of memories. 🇮🇹🍇",
+      "channel": "Visit Italy",
+      "thumbnail": "https://i.ytimg.com/vi/4AwyrmILi3A/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:02:09Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "p8vXPfwt9cA",
+      "title": "Wine Cru Wednesday- Bovlei Cellar Special Late Harvest Vintage 1992 #winecruwednesday #thewinecru",
+      "channel": "The Wine Cru",
+      "thumbnail": "https://i.ytimg.com/vi/p8vXPfwt9cA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:00:33Z",
+      "categories": [
+        "Winemaking & Viticulture",
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "afXKFdBTI_g",
+      "title": "TOMONOTOMO: The Sober Bartender Who Built a Copper Still in Oaxaca | The Sober Curator Podcast",
+      "channel": "The Sober Curator podcast",
+      "thumbnail": "https://i.ytimg.com/vi/afXKFdBTI_g/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:00:26Z",
+      "categories": [
+        "Tequila & Mezcal"
+      ],
+      "regions": [
+        "Oaxaca"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "pBgqFcxonFA",
+      "title": "23 08 reel virale",
+      "channel": "Wine Salad",
+      "thumbnail": "https://i.ytimg.com/vi/pBgqFcxonFA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:00:18Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "RvSStr05E7M",
+      "title": "JBr Talks Casacor - Ambiente Adega por Eliene Lucindo",
+      "channel": "Jornal de Brasília",
+      "thumbnail": "https://i.ytimg.com/vi/RvSStr05E7M/mqdefault.jpg",
+      "publishedAt": "2026-09-23T10:00:11Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "zj75Rq8b4bQ",
+      "title": "Italian Deep House Mix 2026 🍷 Sunset Wine &amp; House | European Lounge",
+      "channel": "Anthem Arena",
+      "thumbnail": "https://i.ytimg.com/vi/zj75Rq8b4bQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:52:46Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "sLo_fAMrb_w",
+      "title": "Lamb  Rib  Chop Double  #grill #foodlover  #subscribe",
+      "channel": "Ciao,the Table is prepare for Lunch&Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/sLo_fAMrb_w/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:52:10Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "8LIgPSGiaZM",
+      "title": "Should you invest in wine? #bestwineforyou #wineinvesting #winecollecting",
+      "channel": "Best Wine For You | Wine Guide",
+      "thumbnail": "https://i.ytimg.com/vi/8LIgPSGiaZM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:47:15Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "_Upllu-3NWE",
+      "title": "Is This the PERFECT Old Fashioned? 🥃🔥 | Smoky Whiskey Cocktail",
+      "channel": "cocktailgarnish",
+      "thumbnail": "https://i.ytimg.com/vi/_Upllu-3NWE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:45:38Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "InRaSNTSoJI",
+      "title": "Can Great Wine REALLY Come in a Can? | Ben Franks",
+      "channel": "Whisky Wealth Warrior",
+      "thumbnail": "https://i.ytimg.com/vi/InRaSNTSoJI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:38:51Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "3_Z_pTP3aPs",
+      "title": "🍶 Aged Shaoxing Rice Wine – A Taste of Tradition",
+      "channel": "Authentic shaozing ",
+      "thumbnail": "https://i.ytimg.com/vi/3_Z_pTP3aPs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:35:36Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "fjoq9g0loIE",
+      "title": "Let&#39;s chat wine! Specifically port and fortified wines....",
+      "channel": "Whiskey Auctions Ireland",
+      "thumbnail": "https://i.ytimg.com/vi/fjoq9g0loIE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:34:42Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [
+        "Ireland"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "QV15JsxWMqY",
+      "title": "Wolf Blass House of the Dragon Targaryen Cabernet Sauvignon Shiraz 2021 - Opens in the Glass #wine",
+      "channel": "David Allen - Master of Wine",
+      "thumbnail": "https://i.ytimg.com/vi/QV15JsxWMqY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:30:38Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "P2o8JMQ28k0",
+      "title": "A 70-year Low In The Vineyards: How France’s Wine Crisis Is Reshaping The Global Market | R Stream",
+      "channel": "R Stream",
+      "thumbnail": "https://i.ytimg.com/vi/P2o8JMQ28k0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:30:09Z",
+      "categories": [
+        "Business & Trade",
+        "Wines by Region"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "rqfvY46MftI",
+      "title": "Whiskybase × Spheric Spirits | Online Whisky Tasting #whiskybase #whiskytasting #whisky",
+      "channel": "Whiskybase: Everything Whisky ",
+      "thumbnail": "https://i.ytimg.com/vi/rqfvY46MftI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:25:47Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "Ljr5e8lRwfo",
+      "title": "Grosses Gewächs | Nachproben 2026 | Rheinhessen, Württemberg Riesling BEST OF",
+      "channel": "weinplus - your plus in wine expertise",
+      "thumbnail": "https://i.ytimg.com/vi/Ljr5e8lRwfo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:20:03Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "pNPvUO4uxOk",
+      "title": "How to know if a whiskey is worth its price: compare it within its category first.",
+      "channel": "forwhiskeylovers",
+      "thumbnail": "https://i.ytimg.com/vi/pNPvUO4uxOk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:19:28Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "JhW-z1RdqUs",
+      "title": "Margaret River: Wine, Waves &amp; Hidden Caves 🇦🇺",
+      "channel": "Australia Holidays",
+      "thumbnail": "https://i.ytimg.com/vi/JhW-z1RdqUs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:16:49Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [
+        "Australia"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "5-KPXFNk67I",
+      "title": "A STATEMENT PIECE FOR FINE WINE. 🍷✨",
+      "channel": "Pinsec wine cabinet",
+      "thumbnail": "https://i.ytimg.com/vi/5-KPXFNk67I/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:10:05Z",
+      "categories": [
+        "Wine Collecting & Investment"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Er3gMAahD6g",
+      "title": "Midleton Distillery Experience: Know before you go! #myirelandtour #irishtourism #visitireland",
+      "channel": "My Ireland Tour",
+      "thumbnail": "https://i.ytimg.com/vi/Er3gMAahD6g/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:04:09Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [
+        "Ireland"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "rHUl1AZE94w",
+      "title": "Wine Wednesday - Escorihuela Gascon Organic",
+      "channel": "Fine Wines Direct UK Cardiff",
+      "thumbnail": "https://i.ytimg.com/vi/rHUl1AZE94w/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:02:35Z",
+      "categories": [
+        "Sustainability & Climate"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "VE4E5SRSul4",
+      "title": "5 glasses of wine for £20",
+      "channel": "ALFI Italian Restaurant",
+      "thumbnail": "https://i.ytimg.com/vi/VE4E5SRSul4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:00:30Z",
       "categories": [
         "Winemaking & Viticulture",
         "Sustainability & Climate"
@@ -2405,11 +1336,23 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "765TMxPBgMs",
-      "title": "James Carl, o que é vinho natural?",
-      "channel": "Brasil de Vinhos",
-      "thumbnail": "https://i.ytimg.com/vi/765TMxPBgMs/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:51:08Z",
+      "videoId": "ef-gP15T_bk",
+      "title": "Vodka tasting in Poland. Tomorrow morning&#39;s gonna be a tough one🤣#motorcycletour #poland",
+      "channel": "Nevermind Adventure Tours",
+      "thumbnail": "https://i.ytimg.com/vi/ef-gP15T_bk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:00:29Z",
+      "categories": [
+        "Vodka"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "wUqw9Za1Yo8",
+      "title": "They Turn Ripe Jackfruit Into Alcohol! 😱 #shorts #wine",
+      "channel": "Primal Make",
+      "thumbnail": "https://i.ytimg.com/vi/wUqw9Za1Yo8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T09:00:10Z",
       "categories": [
         "Winemaking & Viticulture"
       ],
@@ -2417,11 +1360,106 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "wSuyV9kck1g",
-      "title": "Quick Whiskey at the Fishing Hole: 2XO Hip Hop Blend",
-      "channel": "Amongst the Whiskey",
-      "thumbnail": "https://i.ytimg.com/vi/wSuyV9kck1g/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:48:03Z",
+      "videoId": "uRggg83-aVs",
+      "title": "Why California wine-grape growers are leaving ripe fruit on the vine | GoodAndBad",
+      "channel": "GoodAndBad",
+      "thumbnail": "https://i.ytimg.com/vi/uRggg83-aVs/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:59:23Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [
+        "California"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "tbsGiudV7yQ",
+      "title": "Think You Know Tequila? 6 Facts Every Bartender Should Know | BarJockey",
+      "channel": "BARJOCKEY Bartending Institute & Events",
+      "thumbnail": "https://i.ytimg.com/vi/tbsGiudV7yQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:50:20Z",
+      "categories": [
+        "Tequila & Mezcal"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "rPpXcfMk59M",
+      "title": "Italian Wine Tasting #italy #wine #testing #liquor #grape #friends #funny #shorts",
+      "channel": "Dashawn Moore",
+      "thumbnail": "https://i.ytimg.com/vi/rPpXcfMk59M/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:47:27Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "Italy"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Oge_7Df_hRA",
+      "title": "Amazing Mahjong Retreat in Chianti Italy! A villa, private chef, wine &amp; Mahjong! #retreat #mahjong",
+      "channel": "Coastal Mahjong",
+      "thumbnail": "https://i.ytimg.com/vi/Oge_7Df_hRA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:41:53Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "Italy"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Uo43UoigNIU",
+      "title": "Wine Tourism in Spain: Visiting a Winery for the First Time",
+      "channel": "Spotahome",
+      "thumbnail": "https://i.ytimg.com/vi/Uo43UoigNIU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:36:15Z",
+      "categories": [
+        "Wines by Region",
+        "Wineries"
+      ],
+      "regions": [
+        "Spain"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "CJ2XuDGylkw",
+      "title": "Why is the wine splitting? What&#39;s the problem! Hehe #Cheers #Chinese白酒 #Drinking Women #Drunkard",
+      "channel": "Daily drinking challenge",
+      "thumbnail": "https://i.ytimg.com/vi/CJ2XuDGylkw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:30:06Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Ns1tqEPcU8U",
+      "title": "⋆.˚RISOTTO WITH CHEESE",
+      "channel": "Dee's Dishes",
+      "thumbnail": "https://i.ytimg.com/vi/Ns1tqEPcU8U/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:28:46Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "2grG6OYYtoQ",
+      "title": "How to Make a Manhattan Cocktail at Home | Classic Easy Whiskey Recipe",
+      "channel": "The Bar",
+      "thumbnail": "https://i.ytimg.com/vi/2grG6OYYtoQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:21:19Z",
       "categories": [
         "Whiskey"
       ],
@@ -2429,37 +1467,48 @@
       "beverageType": "spirits"
     },
     {
-      "videoId": "5NNULVIzoD4",
-      "title": "Nora&#39;s Place - Explore Mudgee&#39;s Best Wineries | Mudgee, Australia | Hotel Review 🌟",
-      "channel": "Australia Hotels World",
-      "thumbnail": "https://i.ytimg.com/vi/5NNULVIzoD4/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:35:08Z",
+      "videoId": "0UQPpquDlCQ",
+      "title": "My 30-Day Drink Diary ☕💜 | Day 2/30 — Making an Ube Latte 🇵🇭  #mocktails #ubelatte#ytshorts #youtube",
+      "channel": "Nishalune",
+      "thumbnail": "https://i.ytimg.com/vi/0UQPpquDlCQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:18:40Z",
       "categories": [
-        "Wineries"
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "YM9IeYTNb1w",
+      "title": "Gabriele&#39;s wine farm Cantina della Luce in Sorano",
+      "channel": "Gianni Stanghellini (Walk About Italy)",
+      "thumbnail": "https://i.ytimg.com/vi/YM9IeYTNb1w/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:18:26Z",
+      "categories": [
+        "Business & Trade",
+        "Winemaking & Viticulture"
       ],
       "regions": [],
       "beverageType": "wine"
     },
     {
-      "videoId": "Qk-3cR9t01c",
-      "title": "Napa Valley Winery Estate | 3242 Silverado Trail North",
-      "channel": "Cyd Greer - Napa Valley",
-      "thumbnail": "https://i.ytimg.com/vi/Qk-3cR9t01c/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:26:39Z",
+      "videoId": "h0BCkQeW7IY",
+      "title": "Schm ck 28 Bottle Wine Cooler Might Be the Ultimate Home Cellar",
+      "channel": "NextGen Hype",
+      "thumbnail": "https://i.ytimg.com/vi/h0BCkQeW7IY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:07:39Z",
       "categories": [
-        "Wines by Region"
+        "Wine Collecting & Investment"
       ],
-      "regions": [
-        "California"
-      ],
+      "regions": [],
       "beverageType": "wine"
     },
     {
-      "videoId": "5Xyd0F8NO3s",
-      "title": "Gary&#39;s Challenge to Every Wine Drinker",
-      "channel": "GaryVee Sold Wine",
-      "thumbnail": "https://i.ytimg.com/vi/5Xyd0F8NO3s/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:16:42Z",
+      "videoId": "9cm6H-CeIQQ",
+      "title": "#harvest #viralvideo #usa #california #feed #feedshorts ##stunning #wine #harvesting",
+      "channel": "Mescu",
+      "thumbnail": "https://i.ytimg.com/vi/9cm6H-CeIQQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:07:03Z",
       "categories": [
         "Winemaking & Viticulture"
       ],
@@ -2467,11 +1516,59 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "BCxyUqjDxfc",
-      "title": "This $125 Wine Sold for $30",
-      "channel": "WineLibraryTV",
-      "thumbnail": "https://i.ytimg.com/vi/BCxyUqjDxfc/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:16:30Z",
+      "videoId": "D5zyt1NPr1A",
+      "title": "#harvest #viralvideo #usashorts #feed #harvest #workers #happylife #feedshorts #california #wine",
+      "channel": "Mescu",
+      "thumbnail": "https://i.ytimg.com/vi/D5zyt1NPr1A/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:01:11Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "20iqJK7HUEA",
+      "title": "Chinese Intangible Cultural Heritage - Making Lychee Wine Using Traditional Methods",
+      "channel": "谢大炮Xiedapao",
+      "thumbnail": "https://i.ytimg.com/vi/20iqJK7HUEA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:00:32Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "8MUje3PtO78",
+      "title": "Manual Grape Crusher Processes 500–700 kg/h with 220 mm Rollers for Winemaking",
+      "channel": "TechnoclipHd",
+      "thumbnail": "https://i.ytimg.com/vi/8MUje3PtO78/mqdefault.jpg",
+      "publishedAt": "2026-09-23T08:00:03Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "NPXwTJaQXV0",
+      "title": "Winobranie sprzed lat na archiwalnych nagraniach",
+      "channel": "Lubuska TV Horyzont",
+      "thumbnail": "https://i.ytimg.com/vi/NPXwTJaQXV0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:51:16Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "M1_BmTnyIxo",
+      "title": "House wine thoughts #michelin #chef #linecook #boh #industry #Shorts #chefsolomonince",
+      "channel": "Solomon Ince",
+      "thumbnail": "https://i.ytimg.com/vi/M1_BmTnyIxo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:48:02Z",
       "categories": [
         "Business & Trade"
       ],
@@ -2479,11 +1576,151 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "pxlqrUrxV7Y",
-      "title": "RiverPointe Napa Valley Resort | Napa (CA), United States | Hotel Review 🏨",
-      "channel": "Anya USA Adventures",
-      "thumbnail": "https://i.ytimg.com/vi/pxlqrUrxV7Y/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:13:20Z",
+      "videoId": "zAdg6VGquK0",
+      "title": "GLOSSARY OF WINE (27) OLD VINES #wine #winelover #viticulture",
+      "channel": "Jamie Goode",
+      "thumbnail": "https://i.ytimg.com/vi/zAdg6VGquK0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:42:07Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Hol3rYRA4os",
+      "title": "ZIO’s 7-course tasting menu on the Terrace-Split Croatia #dubrovnikrestaurant #mediterraneancuisine",
+      "channel": "The Adventures of Hillary and Jason",
+      "thumbnail": "https://i.ytimg.com/vi/Hol3rYRA4os/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:41:51Z",
+      "categories": [
+        "Tasting & Sommelier",
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "dNqJCAEKm1o",
+      "title": "Wine &amp; Wood – A Luxe Burgundy Living Room by Colors Interior #viral #ytshorts",
+      "channel": "Colors Interior",
+      "thumbnail": "https://i.ytimg.com/vi/dNqJCAEKm1o/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:38:34Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "BifYcJ0QYVg",
+      "title": "Ying Ker Lou: Hakka Yellow Wine Series",
+      "channel": "Eat Drink KL",
+      "thumbnail": "https://i.ytimg.com/vi/BifYcJ0QYVg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:37:23Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "xEASUPCXCCU",
+      "title": "Rs.2599. Deep Burgendy Wine golden zari woven Kanchipuram semi silk #kanchipuram",
+      "channel": "Grace Silks",
+      "thumbnail": "https://i.ytimg.com/vi/xEASUPCXCCU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:33:10Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "2wV2cJrYHi0",
+      "title": "I Made Wine From My Own Grapes… Would You Drink It? 🍷",
+      "channel": "Dave’s Garden & Vine",
+      "thumbnail": "https://i.ytimg.com/vi/2wV2cJrYHi0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:30:21Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "6p8g5g2EW9Q",
+      "title": "Burgundy Halter Formal Dress Outfit Inspo 💃 #fashion #ootd #ootdguide #outfitideas #shorts",
+      "channel": "Special Fashion Store",
+      "thumbnail": "https://i.ytimg.com/vi/6p8g5g2EW9Q/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:27:37Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "CzpXkCy1eYU",
+      "title": "Start With Your Taste. Pair It With Your Plate.",
+      "channel": "Vinora AI",
+      "thumbnail": "https://i.ytimg.com/vi/CzpXkCy1eYU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:20:09Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "qkB26UIEZsg",
+      "title": "Treasure Napa Pinot Noir,  트레저 나파 피노누아",
+      "channel": " LKC 이광철 대전 가톨릭성형외과",
+      "thumbnail": "https://i.ytimg.com/vi/qkB26UIEZsg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:03:17Z",
+      "categories": [
+        "Wines by Region",
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "1dcifWvARao",
+      "title": "Crafting a premium cocktail for the table. What’s your go-to drink? 👇",
+      "channel": "CLIPZY",
+      "thumbnail": "https://i.ytimg.com/vi/1dcifWvARao/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:00:29Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "m9_hwp_WiIE",
+      "title": "Single Malt Whisky Making In India | Part 2 | The Whiskeypedia ",
+      "channel": "The Whiskeypedia",
+      "thumbnail": "https://i.ytimg.com/vi/m9_hwp_WiIE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T07:00:06Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [
+        "Scotland"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "CJrfYcB88JI",
+      "title": "Hotel Napa Valley, an Ascend Collection Hotel - Feels Premium Inside | Napa (CA), United States🌟",
+      "channel": "USA Resort Scout",
+      "thumbnail": "https://i.ytimg.com/vi/CJrfYcB88JI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:46:44Z",
       "categories": [
         "Wines by Region"
       ],
@@ -2493,11 +1730,23 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "WoFl_2LZNZk",
-      "title": "Turning Raisins Into Wine",
-      "channel": "Distiopian.",
-      "thumbnail": "https://i.ytimg.com/vi/WoFl_2LZNZk/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:00:16Z",
+      "videoId": "8XoucfktCdU",
+      "title": "Perfect Sizzling Ribeye Steak &amp; Whiskey Tasting ASMR",
+      "channel": "Wild & Refined",
+      "thumbnail": "https://i.ytimg.com/vi/8XoucfktCdU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:46:13Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "LuVKvvkv4P8",
+      "title": "&quot;How Wine Barrels Are ACTUALLY Made 🤯&quot;",
+      "channel": "FrostForger",
+      "thumbnail": "https://i.ytimg.com/vi/LuVKvvkv4P8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:30:00Z",
       "categories": [
         "Winemaking & Viticulture"
       ],
@@ -2505,11 +1754,87 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "0hLv8eU0xHI",
-      "title": "Ep.109 - RÖCK e i suoi VINI raccontati da HANNES AUGSCHÖLL",
-      "channel": "Storie di Vino e Viticoltori",
-      "thumbnail": "https://i.ytimg.com/vi/0hLv8eU0xHI/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:00:08Z",
+      "videoId": "9Lj70cpAyLg",
+      "title": "Valpolicella from Verona #verona #valpolicella #wine #degustation #italy",
+      "channel": "Veditalia",
+      "thumbnail": "https://i.ytimg.com/vi/9Lj70cpAyLg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:26:58Z",
+      "categories": [
+        "Wines by Region",
+        "Wineries"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "dR-PqGcx9Ac",
+      "title": "Champagne Yeast: A Cellular Blueprint",
+      "channel": "TheBarleyLab",
+      "thumbnail": "https://i.ytimg.com/vi/dR-PqGcx9Ac/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:15:29Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [
+        "France"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "5Mxu0SS7ZF8",
+      "title": "🍸✨ INNOVATIVE COCKTAIL CREATION AT FMBA! ✨🍸Our talented FMBA student created a unique and innovative",
+      "channel": "Flair Mania Bartending Academy in India",
+      "thumbnail": "https://i.ytimg.com/vi/5Mxu0SS7ZF8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T06:05:10Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "VAZboVfUoM8",
+      "title": "Elevated Craft Hybrid Cocktail Shaker - Diamond Edition",
+      "channel": "Product Hunter Hub",
+      "thumbnail": "https://i.ytimg.com/vi/VAZboVfUoM8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T05:50:03Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "lpNwRMDXn9E",
+      "title": "Michaela Riedmüller: Blaufränkisch from Carnuntum, Austria | Cool Climate Wine Summit",
+      "channel": "Cool Climate Wine Summit",
+      "thumbnail": "https://i.ytimg.com/vi/lpNwRMDXn9E/mqdefault.jpg",
+      "publishedAt": "2026-09-23T05:18:58Z",
+      "categories": [
+        "Winemaking & Viticulture",
+        "Wine Education"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "2R9Md2tMoIg",
+      "title": "Georgians Still Ferment Wine in Clay Jars Buried Underground",
+      "channel": "esytravels | Let’s Meet the World",
+      "thumbnail": "https://i.ytimg.com/vi/2R9Md2tMoIg/mqdefault.jpg",
+      "publishedAt": "2026-09-23T05:00:36Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "IEBlYBaMJKU",
+      "title": "What Happens When Whisky Meets a Pinot Noir Cask? 🍷🥃",
+      "channel": "Whiskey Aficionado Trevor Johnston",
+      "thumbnail": "https://i.ytimg.com/vi/IEBlYBaMJKU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T05:00:33Z",
       "categories": [
         "Grape Varieties"
       ],
@@ -2517,16 +1842,684 @@
       "beverageType": "wine"
     },
     {
-      "videoId": "bvu2HFH9Jk8",
-      "title": "Foam Craft Practice 003 : Stripe (Cocktail / Mocktail)",
-      "channel": "Garnish Art Book Club",
-      "thumbnail": "https://i.ytimg.com/vi/bvu2HFH9Jk8/mqdefault.jpg",
-      "publishedAt": "2026-09-19T22:00:08Z",
+      "videoId": "11z8FYUaUrE",
+      "title": "review Redwood Empire #hyperion #bourboncommunity #bourbon #bourbonreview #whiskeyreview #whiskey",
+      "channel": "Eric O",
+      "thumbnail": "https://i.ytimg.com/vi/11z8FYUaUrE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:57:06Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "y3MhAh7M1LY",
+      "title": "review on Augusta Old Route 8 # #bourbon #bourboncommunity #bourboncommunity #bourbonreview",
+      "channel": "Eric O",
+      "thumbnail": "https://i.ytimg.com/vi/y3MhAh7M1LY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:54:11Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "MfQmxjS1vLE",
+      "title": "cachaçacalddecanadrinkbebidacachaçacana",
+      "channel": "drinksb",
+      "thumbnail": "https://i.ytimg.com/vi/MfQmxjS1vLE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:53:52Z",
+      "categories": [
+        "Cachaça"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "g5_kBa5QD9k",
+      "title": "Greek Pork with Eggplant and Cheese (Milos-Inspired) | What I ate in Greece 🇬🇷",
+      "channel": "Create Cook Share: My Easy Gluten-Free Kitchen",
+      "thumbnail": "https://i.ytimg.com/vi/g5_kBa5QD9k/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:42:11Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "03EJYR6HEyw",
+      "title": "22 September 2026",
+      "channel": "Fabiola Rohe",
+      "thumbnail": "https://i.ytimg.com/vi/03EJYR6HEyw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:41:43Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "x4iS0itk3R8",
+      "title": "22 September 2026",
+      "channel": "Fabiola Rohe",
+      "thumbnail": "https://i.ytimg.com/vi/x4iS0itk3R8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:34:25Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "SsvmFTuGb5g",
+      "title": "Beyond Premiumization: The Future of India’s Spirits Industry | Parth Solanki, Pernod Ricard",
+      "channel": "Pando",
+      "thumbnail": "https://i.ytimg.com/vi/SsvmFTuGb5g/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:30:17Z",
+      "categories": [
+        "Spirits Business"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "6s-jxiJDfMI",
+      "title": "There was SO MUCH cheese!",
+      "channel": "Relentless Roaming",
+      "thumbnail": "https://i.ytimg.com/vi/6s-jxiJDfMI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:28:24Z",
+      "categories": [
+        "Wine & Food",
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "GmmV4jYX4QY",
+      "title": "September 22, 2026",
+      "channel": "Colorado Fan Club",
+      "thumbnail": "https://i.ytimg.com/vi/GmmV4jYX4QY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:15:38Z",
+      "categories": [
+        "Grape Varieties",
+        "Wineries"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "B8gO7YePhKA",
+      "title": "Wine Fire Cooking Lobster Eating With Butter Amazing Tasty Style",
+      "channel": "Village Food Challenge ",
+      "thumbnail": "https://i.ytimg.com/vi/B8gO7YePhKA/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:06:36Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "9JRubJ0dBlI",
+      "title": "Pico | The Azores&#39; Volcanic Wine Island",
+      "channel": "Far From Loud",
+      "thumbnail": "https://i.ytimg.com/vi/9JRubJ0dBlI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:04:37Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "yVbgNB_eAcU",
+      "title": "POV: First time visiting a whisky bar in Japan 🥃",
+      "channel": "WhiskyListGuy",
+      "thumbnail": "https://i.ytimg.com/vi/yVbgNB_eAcU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:03:43.000Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "d4D6Srs9FzI",
+      "title": "Travis Higgins shares intel on P Block White Pinot Noir",
+      "channel": "Spy Valley Wines",
+      "thumbnail": "https://i.ytimg.com/vi/d4D6Srs9FzI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:03:20Z",
+      "categories": [
+        "Grape Varieties"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "zu1Q9wxLKg4",
+      "title": "Tequila 101: What “100% Agave” Really Means with La Tequila Mamacita",
+      "channel": "thewinecoach",
+      "thumbnail": "https://i.ytimg.com/vi/zu1Q9wxLKg4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:00:39Z",
+      "categories": [
+        "Tequila & Mezcal"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "6CYyvopqLgw",
+      "title": "Cheese &amp; Wine Market | 8 Hours | Chatter, Cutting &amp; Corks | Ambient Sounds",
+      "channel": "Soundscapes Daily",
+      "thumbnail": "https://i.ytimg.com/vi/6CYyvopqLgw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:00:26Z",
+      "categories": [
+        "Business & Trade",
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "W11Vwfytpc4",
+      "title": "Maker&#39;s Mark Kentucky Bourbon - $80 Rip Off? My Verdict",
+      "channel": "PilkosQuickPicks",
+      "thumbnail": "https://i.ytimg.com/vi/W11Vwfytpc4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T04:00:12Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "gez8E6eUC3o",
+      "title": "Napa Valley可以免費品酒？！ #napavalley #drone #free",
+      "channel": "米苔苜MiTaiMu",
+      "thumbnail": "https://i.ytimg.com/vi/gez8E6eUC3o/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:43:04Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "California"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "9CnppGIDaWI",
+      "title": "#natural #jamun #wine",
+      "channel": "Sorenmurmu vlogs ",
+      "thumbnail": "https://i.ytimg.com/vi/9CnppGIDaWI/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:39:29Z",
+      "categories": [
+        "Winemaking & Viticulture"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "ZwLZyr3Czl0",
+      "title": "#pulque #mexico #edomex #viral #tradiciones #parati #reels #shorts #tradiciones #tianguis #mercado",
+      "channel": "Los de la mascara Sudada",
+      "thumbnail": "https://i.ytimg.com/vi/ZwLZyr3Czl0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:28:58Z",
+      "categories": [
+        "Pulque"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "VrDgGn2FQpE",
+      "title": "Still making the same drink every weekend? 😅🍸  #sipai #bartending #homebar #cocktailrecipes",
+      "channel": "Sip AI App",
+      "thumbnail": "https://i.ytimg.com/vi/VrDgGn2FQpE/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:28:37Z",
       "categories": [
         "Cocktails & Mixology"
       ],
       "regions": [],
       "beverageType": "spirits"
+    },
+    {
+      "videoId": "gBs6bMoZdX8",
+      "title": "Calls to probe presidential families&#39; business dealings | West Coast Wrap",
+      "channel": "KTVU FOX 2 San Francisco",
+      "thumbnail": "https://i.ytimg.com/vi/gBs6bMoZdX8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:22:40Z",
+      "categories": [
+        "Business & Trade"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "w0KmUwPkdF4",
+      "title": "Wine Is Supposed to Be Fun | Erin Kirschenmann | Barrels and Roots",
+      "channel": "Barrels & Roots",
+      "thumbnail": "https://i.ytimg.com/vi/w0KmUwPkdF4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:07:43Z",
+      "categories": [
+        "Business & Trade",
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "dS5x0ISz0Kk",
+      "title": "Chinese resto bar,stunning aesthetic designs, and so many wines to discover. 🍷✨#YouTubeShorts #wine",
+      "channel": "MariaO",
+      "thumbnail": "https://i.ytimg.com/vi/dS5x0ISz0Kk/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:03:42Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "-QU9gUTPs1I",
+      "title": "Co Host Tana Full Interview: Wine, Art School, Mountain Village?!!",
+      "channel": "Graham Elwood",
+      "thumbnail": "https://i.ytimg.com/vi/-QU9gUTPs1I/mqdefault.jpg",
+      "publishedAt": "2026-09-23T03:02:13Z",
+      "categories": [
+        "Wine Education"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Gy0oBEP1wyw",
+      "title": "Best Places to Visit in Rochester, NY: Upstate, NY Wine Tasting",
+      "channel": "Charlene Cooper",
+      "thumbnail": "https://i.ytimg.com/vi/Gy0oBEP1wyw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:31:12Z",
+      "categories": [
+        "Wineries"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "RBkc_Ye0I4s",
+      "title": "Custom clear spirits glass bottles glass jars wine oil bottles liquid milk bottles #glassbottle",
+      "channel": "Anveena",
+      "thumbnail": "https://i.ytimg.com/vi/RBkc_Ye0I4s/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:29:32Z",
+      "categories": [
+        "Spirits Business"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "Q52ncvYk0U0",
+      "title": "🔴LIVESTREAM: NFL Hall of Famer Jared Allen Has His Own Whiskey!",
+      "channel": "Whiskey Weather",
+      "thumbnail": "https://i.ytimg.com/vi/Q52ncvYk0U0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:23:53Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "XvE9kw7MnsM",
+      "title": "Wine Is Supposed to Be Fun | Erin Kirschenmann | Barrels and Roots",
+      "channel": "Barrels & Roots",
+      "thumbnail": "https://i.ytimg.com/vi/XvE9kw7MnsM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:14:10Z",
+      "categories": [
+        "Business & Trade",
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "kwKKjHFRxg0",
+      "title": "Eureka! Whiskey Club: September 2026 Virtual Tasting",
+      "channel": "Eureka! Restaurant Group",
+      "thumbnail": "https://i.ytimg.com/vi/kwKKjHFRxg0/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:09:15Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "GJJbvJPly9s",
+      "title": "Whiskey and Iron - Cobalt Wake - 01 - Rust and Rye",
+      "channel": "Fresh New Sounds",
+      "thumbnail": "https://i.ytimg.com/vi/GJJbvJPly9s/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:05:32Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "63raVhM7uBU",
+      "title": "Autumn Bonfire 🔥 Which Whiskey Bottle Are You Taking? #bullysbourbonroom #bourbon",
+      "channel": "Bully's Bourbon Room",
+      "thumbnail": "https://i.ytimg.com/vi/63raVhM7uBU/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:01:02Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "AiRaBL7Qa6Y",
+      "title": "Bartender POV | Relaxing ASMR Drink Making | Ep. 025",
+      "channel": "Kobayashi Bar",
+      "thumbnail": "https://i.ytimg.com/vi/AiRaBL7Qa6Y/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:00:24Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "pR_vml8e_3Q",
+      "title": "Tequila Folcklore Review: Why does NOM 1662 matter?",
+      "channel": "Tasting Tequila with Brad",
+      "thumbnail": "https://i.ytimg.com/vi/pR_vml8e_3Q/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:00:19.000Z",
+      "categories": [
+        "Tequila & Mezcal"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "jQF7ciw_pd8",
+      "title": "Experiencia 37: Tequilera Orendain, Jalisco",
+      "channel": "Pagina928",
+      "thumbnail": "https://i.ytimg.com/vi/jQF7ciw_pd8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:00:12Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "FXHGNEEDLB4",
+      "title": "VISITAMOS LA DESTILERÍA ORENDAIN | Así se hace el tequila en Tequila, Jalisco",
+      "channel": "Pagina928",
+      "thumbnail": "https://i.ytimg.com/vi/FXHGNEEDLB4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T02:00:04Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "RRHwVCSki28",
+      "title": "Building a Cocktail Smoker From Scratch | Full Build",
+      "channel": "Concept To Craft",
+      "thumbnail": "https://i.ytimg.com/vi/RRHwVCSki28/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:57:35Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "cBCCdr2C6I8",
+      "title": "Is THIS the Holy Grail of Old Forester? (President’s Choice Review)",
+      "channel": "3 Bourboneers",
+      "thumbnail": "https://i.ytimg.com/vi/cBCCdr2C6I8/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:51:26Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "eGSat46l3Xo",
+      "title": "干锅土豆虾Spicy Dry Pot Shrimp and Potatoes",
+      "channel": "Mingcook",
+      "thumbnail": "https://i.ytimg.com/vi/eGSat46l3Xo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:39:02Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "CmWCbmEcKS4",
+      "title": "Tequila Tasting",
+      "channel": "L.A Beard Man",
+      "thumbnail": "https://i.ytimg.com/vi/CmWCbmEcKS4/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:36:32Z",
+      "categories": [
+        "Tequila & Mezcal"
+      ],
+      "regions": [
+        "Jalisco"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "d1LFStQB154",
+      "title": "wine khagi and chakna #desichickenfry #cooking",
+      "channel": "Jiten Ingti",
+      "thumbnail": "https://i.ytimg.com/vi/d1LFStQB154/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:30:33Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "8_o9UrgPViY",
+      "title": "Whiskey Secrets: MGP Bottle &amp; Distillery Tours Revealed! #shorts",
+      "channel": "Oak and Agave",
+      "thumbnail": "https://i.ytimg.com/vi/8_o9UrgPViY/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:28:52Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [
+        "Indiana"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "fHesC2tUfhM",
+      "title": "Leiper’s Fork Distillery Tour !! #dadlife #whiskey #viralshorts #fyp",
+      "channel": "It’s a Dad Life",
+      "thumbnail": "https://i.ytimg.com/vi/fHesC2tUfhM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:27:55Z",
+      "categories": [
+        "Distilleries"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "3dKbTaR2uIo",
+      "title": "Castello di Amorosa Napa Valley ",
+      "channel": "YogaWayofLife",
+      "thumbnail": "https://i.ytimg.com/vi/3dKbTaR2uIo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:26:38Z",
+      "categories": [
+        "Wines by Region"
+      ],
+      "regions": [
+        "California"
+      ],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "PMov-7QLRho",
+      "title": "Wine Tasting Class | Drink Your Fantasy",
+      "channel": "NYC | Mobile Bartender ",
+      "thumbnail": "https://i.ytimg.com/vi/PMov-7QLRho/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:25:53Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "yI3DfIBm8nQ",
+      "title": "#cata vinos#wine#vino blanco #vino tinto#tabla queso",
+      "channel": "Exploraworld",
+      "thumbnail": "https://i.ytimg.com/vi/yI3DfIBm8nQ/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:19:08Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "V-1zFwmId6A",
+      "title": "🌵🥃 ¡En Tlaxcala, cada sorbo cuenta una historia!",
+      "channel": "385 Grados",
+      "thumbnail": "https://i.ytimg.com/vi/V-1zFwmId6A/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:08:10Z",
+      "categories": [
+        "Pulque"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "-Org6Byl3-w",
+      "title": "Tasting Tuesday LIVE: Mexican Gin &amp; Rum | Condesa Gin + MX Rums",
+      "channel": "Chat's",
+      "thumbnail": "https://i.ytimg.com/vi/-Org6Byl3-w/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:05:07Z",
+      "categories": [
+        "Rum",
+        "Gin"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "WV2LuafRnRw",
+      "title": "Wine Banners in the Wind 「酒旗风」— Chinese Wuxia Cinematic Music",
+      "channel": "人间散人音乐",
+      "thumbnail": "https://i.ytimg.com/vi/WV2LuafRnRw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:00:25Z",
+      "categories": [
+        "Emerging Wine Regions"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "s-yOQoi9Ypo",
+      "title": "Getting my hands dirty in the Vineyard | Making wine the old-school way  #grapeharvest #winemaking",
+      "channel": "PRODUCTION R",
+      "thumbnail": "https://i.ytimg.com/vi/s-yOQoi9Ypo/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:00:16Z",
+      "categories": [
+        "Wine Education"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "bkWBczLybdM",
+      "title": "BEST $65 Whiskey Bottle! Nicole Austin&#39;s Masterpiece!",
+      "channel": "Bourbon Junkies",
+      "thumbnail": "https://i.ytimg.com/vi/bkWBczLybdM/mqdefault.jpg",
+      "publishedAt": "2026-09-23T01:00:07Z",
+      "categories": [
+        "Whiskey"
+      ],
+      "regions": [
+        "Kentucky"
+      ],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "1J97K9vuLms",
+      "title": "like ❤️‍🩹 Comment 🎪 share...&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;#craftcocktails #reels",
+      "channel": "Shambhu__100k",
+      "thumbnail": "https://i.ytimg.com/vi/1J97K9vuLms/mqdefault.jpg",
+      "publishedAt": "2026-09-23T00:35:33Z",
+      "categories": [
+        "Cocktails & Mixology"
+      ],
+      "regions": [],
+      "beverageType": "spirits"
+    },
+    {
+      "videoId": "ZIuFmcUhTGw",
+      "title": "Red wine butter sauce from pan fat - plus 2 heat‑control sauces",
+      "channel": "ByteBits",
+      "thumbnail": "https://i.ytimg.com/vi/ZIuFmcUhTGw/mqdefault.jpg",
+      "publishedAt": "2026-09-23T00:35:07Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "fs_vjHjxlis",
+      "title": "Episode 5: Restaurant Wine List Markups: Know the Numbers (Too Long for a short!)",
+      "channel": "Vino Encounter",
+      "thumbnail": "https://i.ytimg.com/vi/fs_vjHjxlis/mqdefault.jpg",
+      "publishedAt": "2026-09-23T00:28:14Z",
+      "categories": [
+        "Wine & Food"
+      ],
+      "regions": [],
+      "beverageType": "wine"
+    },
+    {
+      "videoId": "Ohj_TA7Gw4Q",
+      "title": "Wine Pairing Lunch",
+      "channel": "Cody's Belly Bites",
+      "thumbnail": "https://i.ytimg.com/vi/Ohj_TA7Gw4Q/mqdefault.jpg",
+      "publishedAt": "2026-09-23T00:27:18Z",
+      "categories": [
+        "Tasting & Sommelier"
+      ],
+      "regions": [],
+      "beverageType": "wine"
     }
   ]
 }
